@@ -1,0 +1,24 @@
+#+TITLE: Workouts
+#+SETUPFILE: index.setup
+
+@@html:<div id="filterinput"><input type="text" id="filterInput" onkeyup="indexFilter()" placeholder="Search..."></div>@@
+
+- [[file:phases/uap-five-body-weight-workouts.org][UAP Five body weight workouts]]
+- [[file:phases/covid19-plan.org][COVID19 plan]]
+- [[file:phases/uap-preparation.org][UAP Preparation]]
+- [[file:phases/uap-off-season-1.org][UAP Off-season 1]]
+- [[file:phases/uap-off-season-2.org][UAP Off-season 2]]
+- [[file:phases/uap-off-season-3.org][UAP Off-season 3]]
+- [[file:phases/uap-off-season-4.org][UAP Off-season 4]]
+- [[file:phases/uap-off-season-5.org][UAP Off-season 5]]
+- [[file:phases/uap-off-season-6.org][UAP Off-season 6]]
+- [[file:phases/uap-pre-season-1.org][UAP Pre-season 1]]
+- [[file:phases/uap-pre-season-2.org][UAP Pre-season 2]]
+- [[file:phases/uap-pre-season-3.org][UAP Pre-season 3]]
+- [[file:phases/uap-in-season-1.org][UAP In-season 1]]
+- [[file:phases/uap-in-season-1-alt.org][UAP In-season 1 Alt]]
+- [[file:phases/uap-in-season-2.org][UAP In-season 2]]
+- [[file:phases/uap-in-season-3.org][UAP In-season 3]]
+- [[file:phases/uap-taper.org][UAP Taper]]
+- [[file:phases/uap-post-season.org][UAP Post-season]]
+- [[file:phases/uap-warmups.org][UAP Warmups]]

@@ -1,0 +1,395 @@
+#+TITLE: UAP Pre-season 2
+#+SETUPFILE: ../phase.setup
+
+* Schedule & Workout Logs
+   [[file:uap-pdfs/preseason2.pdf][Workout log (pdf)]]
+
+   This is the second phase of preseason work. The main goals are strength
+   and power endurance. We are going to accomplish these goals primarily
+   using circuit training. You'll do a power circuit twice per week and a
+   strength circuit once per week. Workouts will be very short but very
+   intense.
+
+   The SAQ work will be done before the conditioning workouts this week.
+   This is mostly for maintenance and don't expect to see big gains in
+   speed this phase.
+
+** General Principles
+
+    -   Learn to pay attention to how your body is feeling each day. If you
+      start feeling run down by the end of each week, you may not be
+      getting enough recovery. It is okay NOT to do all of the workouts
+      provided. Sometimes less is more.
+    -   If you feel nauseated or dizzy, increase the rest periods. Making
+      yourself vomit will not help the speed of your adaptation.
+
+    For this phase we have a split in training, depending on what surface
+    your season is focussed on...
+
+    -   If GRASS --> use the standard Conditioning & SAQs
+    -   If BEACH --> use the Beach Conditioning & SAQs
+
+    [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/Pre-Season_2.png]]
+
+    Core circuits can be done 3-6 days per week. Alternate between circuit 1
+    and circuit 2.
+
+    Conditioning *can* be done 6 days per week *but only if* you keep the
+    volume low enough to recover between sessions. *If you want to do
+    conditioning on the same day as the circuit training, separate the
+    workouts by a few hours*. This will allow you to do more work and still
+    recover.
+* Strength
+
+**  A1. Semi-supinated grip Pull-ups
+
+    [[https://www.youtube.com/embed/R-j7IvquHwE]]
+    [[https://img.youtube.com/vi/R-j7IvquHwE/hqdefault.jpg]]
+
+    -   "semi-supinated" means that your palms are facing one another. If
+      you do not have a bar that allows for this, use a supinated grip
+      (palms toward you)
+    -   keep your chest up. Squeeze shoulder blades together at the top of
+      the movement.
+    -   If you do not have an assisted chinup machine, you can use a lat
+      pulldown instead.
+
+**  A2. Bodyweight (BW) Squats
+
+    [[https://www.youtube.com/embed/IpkzKC2mt7c]]
+    [[https://img.youtube.com/vi/IpkzKC2mt7c/hqdefault.jpg]]
+
+    -   Get below parallel on each rep
+    -   Arms are extended to help maintain balance and keep weight on heels
+
+** B1. Bench Dips
+
+     [[https://www.youtube.com/embed/XwXGdC0K050]]
+     [[https://img.youtube.com/vi/XwXGdC0K050/hqdefault.jpg]]
+
+     -   You should feel some tension in the pectorals at the bottom of the
+       movement
+     -   Keep elbows parallel, not caving in or flaring out
+
+**  B2. 45 Degree Lunges (BW)
+
+    [[https://www.youtube.com/embed/o9MgO2kMiAM]]
+    [[https://img.youtube.com/vi/o9MgO2kMiAM/hqdefault.jpg]]
+
+    -   Step out at a 45 degree angle while keeping hips square
+    -   Get low but do not let the back knee hit the ground
+
+**  C1. Pushups
+
+    [[https://www.youtube.com/embed/7lHuWdR6iQs]]
+    [[https://img.youtube.com/vi/7lHuWdR6iQs/hqdefault.jpg]]
+
+    -   Maintain perfect plank position
+    -   Can be done on your knees if you cannot complete all as regular
+      pushups
+
+**  C2. Diagonal Plate Raise
+
+    [[https://www.youtube.com/embed/gbX8ipoRB7s]]
+    [[https://img.youtube.com/vi/gbX8ipoRB7s/hqdefault.jpg]]
+
+    -   Start in a squat position with the plate held to one side.
+    -   Lift the plate diagonally and up over the opposite shoulder.
+    -   Your eyes should follow the plate during the movement.
+
+**  D1. Plank Step-Up
+
+    [[https://www.youtube.com/embed/wiqVGrgaV4Q]]
+    [[https://img.youtube.com/vi/wiqVGrgaV4Q/hqdefault.jpg]]
+
+    -   Maintain perfect alignment of shoulders hips and ankles
+    -   Walk onto and off of the step as quickly as possible
+
+**  D2. Scissor Jumps for height
+
+    [[https://www.youtube.com/embed/Bo_Rg5fhZMQ]]
+    [[https://img.youtube.com/vi/Bo_Rg5fhZMQ/hqdefault.jpg]]
+
+    -   Aim for maximum height
+    -   Feet should be shoulder width apart when landing.
+    -   With minimal ground contact time, jump up again into the next
+      scissor.
+* Power
+
+   For the power circuit, exercises should be done as quickly as possible
+   while maintaining good form. Keep your mental focus during this workout
+   and get at it!
+**
+
+**  A1. Single Arm DB High Pull
+
+    [[https://www.youtube.com/embed/qagm6U0CDLA]]
+    [[https://img.youtube.com/vi/qagm6U0CDLA/hqdefault.jpg]]
+
+    -   It's all in the hips.
+    -   DB should follow a straight line trajectory upwards
+    -   Switch arms at the 15 second mark
+
+**  A2. DB High Pull to Press
+
+    [[https://www.youtube.com/embed/I-jYhdJqAPk]]
+    [[https://img.youtube.com/vi/I-jYhdJqAPk/hqdefault.jpg]]
+
+    -   Catch the weight at the shoulder in a semisupinated position
+    -   Push the weight up as you stand up from a quarter squat position
+
+**  A3. Squat to Press
+
+    [[https://www.youtube.com/embed/1O8jb9KLtf4]]
+    [[https://img.youtube.com/vi/1O8jb9KLtf4/hqdefault.jpg]]
+
+    -   Find a rhythm and move quickly
+    -   Aim for parallel in the squats
+    -   The press should move continuously with momentum coming from the
+      squat
+
+** Alternate between following this circuit up with either:
+
+**  Day 1. Backward Lunges
+
+    [[https://www.youtube.com/embed/BYbEvMbOfMI]]
+    [[https://img.youtube.com/vi/BYbEvMbOfMI/hqdefault.jpg]]
+
+    -   Step back with one leg. Do not let your knee touch the ground
+    -   Explosively step forward again using primarily the front leg
+    -   Keep the back foot off the ground when you stand up again if
+      possible
+    -   Do all reps on one leg first and then the other
+
+**  Day 2. Russian Step Ups
+
+    [[https://www.youtube.com/embed/jSnoZlYUttg]]
+    [[https://img.youtube.com/vi/jSnoZlYUttg/hqdefault.jpg]]
+
+    -   find a rhythm, be explosive, drive the knee up!
+    -   Use the foot on the bench to initiate and drive the movement. Don't
+      "bounce" off the foot landing on the ground.
+* Grass SAQ 1 & 2
+
+   These workouts are to be preceded by the [[https://ultyresults.mykajabi.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
+
+**  SAQ 1: Multi-directional
+
+** A. Lateral Bound and Return
+
+     [[https://www.youtube.com/embed/gxkZIPJYgro]]
+     [[https://img.youtube.com/vi/gxkZIPJYgro/hqdefault.jpg]]
+
+     -   Like the Bound and Stick, but with an extra bound back to the
+       starting point.
+     -   Stick the landing as with the bound and stick
+
+** B. Heiden Hops
+
+     [[https://www.youtube.com/embed/u2e262ks7aY]]
+     [[https://img.youtube.com/vi/u2e262ks7aY/hqdefault.jpg]]
+
+** C. 5-10-5 lateral drill
+
+     [[https://www.youtube.com/embed/lIq87ZhL8bE]]
+     [[https://img.youtube.com/vi/lIq87ZhL8bE/hqdefault.jpg]]
+
+     -   First 5 yards hips will be mostly perpendicular to line of movement.
+       Use a big crossover push.
+     -   Second 10 yards open the hips early coming in to the second turn
+     -   Third five yards turn the hips and commit to accelerating though the
+       cone.
+
+**  SAQ 2: Linear and Disc
+
+** A. Galloping
+
+     -   Repeatedly leap off the same leg as high and as far as possible
+     -   Use your arms for momentum
+
+** B. Power Skips for Distance
+
+     -   Aim for full hip extension and distance
+
+** C. Forward Frog Jumps
+
+     [[https://www.youtube.com/embed/nhDXP6h33qM]]
+     [[https://img.youtube.com/vi/nhDXP6h33qM/hqdefault.jpg]]
+
+     -   the purpose of this drill is to get full extension of ankles, knees,
+       and hips
+     -   propel yourself explosively upward and a little bit forward
+* Grass Conditioning 1 & 2
+
+   Conditioning 1 should be preceded by the [[https://www.ultyresults.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
+
+   Conditioning 2 should be preceded by the [[https://www.ultyresults.com/products/uap/categories/89306/posts/231475][Linear Warmup]].
+
+**  Conditioning 1: Multi-directional
+
+** A. 5-10-5, five frog jumps and repeat
+
+     [[https://www.youtube.com/embed/57fJcrpPif8]]
+     [[https://img.youtube.com/vi/57fJcrpPif8/hqdefault.jpg]]
+
+** B. Zig Zag Sprints
+
+     [[https://www.youtube.com/embed/YdgYleKenGM]]
+     [[https://img.youtube.com/vi/YdgYleKenGM/hqdefault.jpg]]
+
+     -   Set up 2 rows of cones about 5-7 yards apart. In each row, three
+       cones are placed about 8 yards apart. The two rows are off set by 4
+       yards to create a zig-zag pattern.
+
+** C. Figure Eight Sprints
+
+     [[https://www.youtube.com/embed/zwHfN0hlEVc]]
+     [[https://img.youtube.com/vi/zwHfN0hlEVc/hqdefault.jpg]]
+
+     -   Attempt to cut on the inside foot rather than the outside foot (like
+       in the jab step).
+     -   To use the inside foot, you'll likely slow down a bit before the
+       cone and "switch your hips"
+
+**  Conditioning 2: Linear and Disc
+
+** A. Shuttle with Throwing
+
+     Backhand
+
+     [[https://www.youtube.com/embed/vLcyN6ZUlns]]
+     [[https://img.youtube.com/vi/vLcyN6ZUlns/hqdefault.jpg]]
+
+     and forehand
+
+     [[https://www.youtube.com/embed/hSaaVxxsxB8]]
+     [[https://img.youtube.com/vi/hSaaVxxsxB8/hqdefault.jpg]]
+
+     -   Distances are 10, 20, 30 yards
+
+** B. Pull and Sprint 70 yards
+* Core 1
+
+** A1. Deadbug
+
+    [[https://www.youtube.com/embed/Lbod9T8LvJc]]
+    [[https://img.youtube.com/vi/Lbod9T8LvJc/hqdefault.jpg]]
+
+    -   Maintain natural curve in the spine
+    -   Move slowly with core conrtansly enganged
+
+** A2. Flat Lateral extension
+
+    [[https://www.youtube.com/embed/dmF-RPmsN6g]]
+    [[https://img.youtube.com/vi/dmF-RPmsN6g/hqdefault.jpg]]
+
+    -   This position is most easily obtained with a partner sitting on your
+      feet. I have also done it hooking my lower foot under a 60 pound
+      dumbbell on the bench.
+    -   Maintain constant tension in the obliques as you lower yourself
+      toward the floor. Bring yourself up to parallel or above parallel as
+      you are able.
+
+** A3. V-ups
+
+    [[https://www.youtube.com/embed/EDm1xprt2sY]]
+    [[https://img.youtube.com/vi/EDm1xprt2sY/hqdefault.jpg]]
+
+    -   Move under control with core engaged
+    -   Aim hands to mid calf or above
+    -   Move arms and legs simultaneously
+* Core 2
+
+** A1. Pre-stretch Crunches with DB
+
+    [[https://www.youtube.com/embed/E3tF_mL21wY]]
+    [[https://img.youtube.com/vi/E3tF_mL21wY/hqdefault.jpg]]
+
+    -   Feel a slight stretch in the abs at the initiation of the movement
+    -   Contract the abs until the back is flat
+    -   Hold the weight directly above your eyes and aim up for the sky as
+      you contract
+
+** A2. 1-arm 1-leg cable row
+
+    [[https://www.youtube.com/embed/hJRCQh02QHI]]
+    [[https://img.youtube.com/vi/hJRCQh02QHI/hqdefault.jpg]]
+
+    -   Keep hips level.
+    -   Resist rotation of the torso and hips as you pull.
+    -   This exercise may not feel difficult. You won't "feel the burn."
+      That's ok. It's a total core exercise working on balance and core
+      coordination.
+
+** A3. Kneeling Half-chop
+
+    [[https://www.youtube.com/embed/X6GjkIVLE9Q]]
+    [[https://img.youtube.com/vi/X6GjkIVLE9Q/hqdefault.jpg]]
+
+    -   Knee closest to the cable column is bent
+    -   Look at the weight as you pull it across your body
+* Beach SAQ 1 & 2
+
+   These workouts are to be preceded by the [[https://www.ultyresults.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
+
+** SAQ 1:
+
+**  A. Jab Step Agility to Cut
+
+     [[https://www.youtube.com/embed/_6k3XvTzuak]]
+     [[https://img.youtube.com/vi/_6k3XvTzuak/hqdefault.jpg]]
+
+**  B. Waltz Agility to Cut
+
+     [[https://www.youtube.com/embed/GD_f0hbzGcs]]
+     [[https://img.youtube.com/vi/GD_f0hbzGcs/hqdefault.jpg]]
+
+** SAQ 2:
+
+**  Shuttles!
+* Beach Conditioning 1 & 2
+
+   Conditioning 1 should be preceded by the [[https://www.ultyresults.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
+
+   Conditioning 2 should be preceded by the [[https://www.ultyresults.com/products/uap/categories/89306/posts/231475][Linear Warmup]].
+
+**  Conditioning 1
+
+** A. 5-10-5, 5 Frog Jump
+
+     [[https://www.youtube.com/embed/57fJcrpPif8]]
+     [[https://img.youtube.com/vi/57fJcrpPif8/hqdefault.jpg]]
+
+** B. Zig-Zag Sprint
+
+     [[https://www.youtube.com/embed/YdgYleKenGM]]
+     [[https://img.youtube.com/vi/YdgYleKenGM/hqdefault.jpg]]
+
+     -   Set up 2 rows of cones about 5-7 yards apart. In each row*,* three
+       cones are placed about 8 yards apart. The two rows are off set by 4
+       yards to create a zig-zag pattern.
+
+** C. Figure Eight Sprint
+
+     [[https://www.youtube.com/embed/zwHfN0hlEVc]]
+     [[https://img.youtube.com/vi/zwHfN0hlEVc/hqdefault.jpg]]
+
+     -   Attempt to cut on the inside foot rather than the outside foot (like
+       in the jab step).
+     -   To use the inside foot, you'll likely slow down a bit before the
+       cone and "switch your hips"
+
+**  Conditioning 2
+
+** 150 Shuttle (6x 25m)
+
+     [[https://www.youtube.com/embed/cpAnh4vAmrA]]
+     [[https://img.youtube.com/vi/cpAnh4vAmrA/hqdefault.jpg]]
+
+     -   Setup 2 cones 25m apart
+     -   One rep is 6 sprints of 25m length, no rest between sprints
+     -   You will always do 8 reps total across the two sets, for a total of
+       1200m of running.
+     -   Sets change each week, but will typically look like "5,3", ie 5
+       reps in set 1, 3 reps in set 2.  So in set 1 you would do 5 reps = 5
+       x ( 6x25m, followed by 60sec rest)

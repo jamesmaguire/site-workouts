@@ -1,0 +1,389 @@
+#+TITLE: UAP Off-season 5
+#+SETUPFILE: ../phase.setup
+
+* Schedule & Workout Logs
+   [[file:uap-pdfs/offseason5.pdf][Workout log (pdf)]]
+
+   This is the last phase in which we focus on Strength, and we'll add a
+   bit of an emphasis on strength endurance. Because of this, you won't
+   get as much benefit from SAQ work and so we have cut that back to once
+   per week for this phase.
+
+** General principles
+
+    -   Conditioning workouts can always be done after the leg strength
+      training day because it does not matter that your legs are already
+      tired.
+    -   SAQ workouts are NOT conditioning. Do NOT do more than what is
+      listed. You should feel fully recovered between reps and sets. If
+      not, add more rest. No big deal.
+    -   If doing two types of sessions on the same day, SAQ should be done
+      before lifting or conditioning. Lifting should be done before
+      conditioning.
+    -   Learn to pay attention to how your body is feeling each day. If you
+      start feeling run down by the end of each week, you may not be
+      getting enough recovery. It is okay NOT to do all of the workouts
+      provided. Sometimes less is more.
+
+    [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/Off-Season_5.png]]
+
+    Lifting is scheduled four times per week this phase.
+
+    If you want to do more work, invest more time in tissue quality work
+    (foam rolling and stretching), mobility drills, and the warm up drills.
+
+    Conditioning *can* be done multiple days per week *but only if* you keep
+    the volume low enough to recover between sessions. SAQ can be done twice
+    per week but your legs may not be fully recovered enough to get the
+    maximum benefits from SAQ work.
+
+* Lower 1
+
+**  A1. Barbell paused Rear Foot Elevated Split Squat
+
+    [[https://www.youtube.com/embed/QK3J4Xwv3Ww]]
+    [[https://img.youtube.com/vi/QK3J4Xwv3Ww/hqdefault.jpg]]
+
+    -   Back foot can be dorsiflexed or flat. whatever position is
+      comfortable and stable is fine
+    -   Pause at the bottom of the movement
+    -   Keep shoulders retracted, chest up, and a neutral spine
+    -   Knee should track in line with the toes
+
+**  A2. Split squat jump for height
+
+    [[https://www.youtube.com/embed/Bo_Rg5fhZMQ]]
+    [[https://img.youtube.com/vi/Bo_Rg5fhZMQ/hqdefault.jpg]]
+
+    -   Get low but do not let the back knee smash into the ground
+    -   Jump as high as possible and switch which leg is forward mid-flight
+    -   Arms can do whatever but using them as you would if running will
+      likely feel most natural
+
+**  B1. Single Leg Barbell RDL
+
+    [[https://www.youtube.com/embed/d567Ek9MNK8]]
+    [[https://img.youtube.com/vi/d567Ek9MNK8/hqdefault.jpg]]
+
+    -   Maintain a neutral spine. This is more important than how low you
+      go!
+    -   Start with the knee of the foot on the ground slightly bent and keep
+      the same angle throughtout the movement.
+    -   Lower the weight until you feel tension in the hamstring
+    -   Hips should move back as you lower the weight.
+    -   Contract the glute/hamstring to push your hip forward as you stand
+      up.
+    -   Do not touch the other leg to the ground at any time if you can help
+      it
+    -   Do all reps on one leg, then switch to the other leg
+
+**  B2. Backwards Dumbbell lunge
+
+    [[https://www.youtube.com/embed/BYbEvMbOfMI]]
+    [[https://img.youtube.com/vi/BYbEvMbOfMI/hqdefault.jpg]]
+
+    -   Step back with one leg. Do not let your knee touch the ground
+    -   Explosively step forward again using primarily the front leg
+    -   Keep the back foot off the ground when you stand up again if
+      possible
+    -   Do all reps on one leg first and then the other
+
+**  C1. Stability ball Hip Extentions/Lying Curl
+
+    [[https://www.youtube.com/embed/rs65GbhEBQA]]
+    [[https://img.youtube.com/vi/rs65GbhEBQA/hqdefault.jpg]]
+
+    -   Use your glutes/hamstrings and keep the spine neutral (don't arch
+      your back to get the hips up)
+    -   Keep your hips up and envision a straight line between knees and
+      shoulders
+    -   The exercise can be done with one leg at a time if two legs is not
+      challenging
+
+**  C2. Romanian Rhythm Squat
+
+    [[https://www.youtube.com/embed/MmWbus0fmdo]]
+    [[https://img.youtube.com/vi/MmWbus0fmdo/hqdefault.jpg]]
+
+    -   Neutral spine, knees in line with toes
+    -   Alternate ten reps of quarter squats with ten reps of quarter squats
+      to up on your toes
+    -   This means you will do 30 regular quarter squats and 20 quarter
+      squats to up on toes total
+    -   Choose a weight that would be approximately what you could use for
+      regular back squats for 10-12 reps (This is an estimate to help you
+      know where to start. Your final weight choice may vary)
+    -   You will not go to failure on this exercise. Stay fast.
+* Lower 2
+
+**  A1. Russian Step Ups
+
+    [[https://www.youtube.com/embed/jSnoZlYUttg]]
+    [[https://img.youtube.com/vi/jSnoZlYUttg/hqdefault.jpg]]
+
+    -   find a rhythm, be explosive, drive the knee up!
+    -   Use the foot on the bench to initiate and drive the movement. Don't
+      "bounce" off the foot landing on the ground.
+
+**  A2. Squat to Press
+
+    [[https://www.youtube.com/embed/1O8jb9KLtf4]]
+    [[https://img.youtube.com/vi/1O8jb9KLtf4/hqdefault.jpg]]
+
+    -   Find a rhythm and move quickly
+    -   Aim for parallel in the squats
+    -   The press should move continuously with momentum coming from the
+      squat
+
+**  B1. DB King Squat
+
+    [[https://www.youtube.com/embed/7P6tu--nyVA]]
+    [[https://img.youtube.com/vi/7P6tu--nyVA/hqdefault.jpg]]
+
+    -   First part of the exercise is a pendulum RDL. Keep knee at about 10
+      degree bend. Get the back leg's thigh close to parallel.
+    -   On one leg squat down getting the weight close to (but not touching)
+      the ground. Attempt to keep the rest of the body frozen in the RDL
+      position
+    -   Keep your back flat and shoulders retracted through the whole
+      exercises.
+    -   (Note that some of my demo reps are better than others. :-)
+      Hopefully you get the idea. This one's new for me too. Good luck!)
+
+**  B2. Diagonal Walking DB Lunge
+
+    [[https://www.youtube.com/embed/o9MgO2kMiAM]]
+    [[https://img.youtube.com/vi/o9MgO2kMiAM/hqdefault.jpg]]
+
+    -   Keep toes and hips forward. Lunge diagonal to the forward direction.
+    -   It may become difficult to hold the dumbells. You can either think
+      of this as grip strength training or use straps. Pretty sure you can
+      get straps for less than $15 at most sporting goods stores.
+
+**  This session should be followed with [[https://www.ultyresults.com/products/ultimate-athlete-project/categories/89286/posts/320842][Core Circuit 2]]
+* Upper 1
+
+**  A1. Paused Incline DB Press
+
+    -   during the pause at the bottom your pectorals should feel tension
+
+**  A2. Speed Pushups
+
+    -   do as many pushups as possible. be explosive! don't pace yourself,
+      go fast.
+
+**  B1. Low Incline to Flat Omni Semi-sup DB Press
+
+    -   8-10 reps of low incline db press followed immediately by 8-10 reps
+      of flat db press
+
+**  B2. Omni-seated Low Cable Row
+
+    -   this is a 3-part exercise where you'll do Reps x Row-type-1 + Reps
+      x Row-type-2 + Reps x Row-type 3, then rest.
+    -   row type 1: palms facing down, pull the bar to your chest, elbows
+      will finish wide from your body
+    -   row type 2: palms facing up, elbows in, will brush your sides
+    -   row type 3: palms facing inward, elbows in again
+    -   for all: retract (squeeze together) shoulder blades at the end of
+      this motion!
+
+**  This session should be followed with [[https://www.ultyresults.com/products/ultimate-athlete-project/categories/89286/posts/242809][Core Circuit 1]]
+* Upper 2
+
+**  A1. Low Incline Paused DB Row
+
+    [[https://www.youtube.com/embed/XqkV8RL4iaM]]
+    [[https://img.youtube.com/vi/XqkV8RL4iaM/hqdefault.jpg]]
+
+    -   really squeeze your shoulder blades together at the top as you hold
+      for 2 counts
+
+**  A2. Flat DB Bench with Iso Hold
+
+    [[https://www.youtube.com/embed/uJ4bHmXAICA]]
+    [[https://img.youtube.com/vi/uJ4bHmXAICA/hqdefault.jpg]]
+
+    -   Reps with non-dominant arm first. Opposite arm holds at the 1/2 rep
+      position until all reps are complete. Then rep with dominant arm
+      while non-dominant arms holds the 1/2 rep postion.
+
+**  B1. Side Plank Cable Row
+
+    [[https://www.youtube.com/embed/1mPJJkmrqX8]]
+    [[https://img.youtube.com/vi/1mPJJkmrqX8/hqdefault.jpg]]
+
+    -   Start in a side plank position facing a cable column.
+    -   Maintain the side plank position as you pull the weight.
+    -   Squeeze your shoulder blades together and hold.
+
+**  B2. Rotational Push Ups
+
+    [[https://www.youtube.com/embed/8BAGcv4Xw1k]]
+    [[https://img.youtube.com/vi/8BAGcv4Xw1k/hqdefault.jpg]]
+
+    -   Maintain perfect plank position throuhgout the movement
+    -   Use weights light enough that you can keep arms straight during
+      rotation
+    -   Add a quarter rep at the bottom of the pushup to increase difficulty
+
+**  B3. Front Plate Drop
+
+    [[https://www.youtube.com/embed/mZTiH_Wk1r8]]
+    [[https://img.youtube.com/vi/mZTiH_Wk1r8/hqdefault.jpg]]
+
+    -   drop and catch the weight.
+* Core 1
+
+** A1. Same Side Quadrupled Stability
+
+     [[https://www.youtube.com/embed/AE9XbWnC2Ro]]
+     [[https://img.youtube.com/vi/AE9XbWnC2Ro/hqdefault.jpg]]
+
+     -   During limb extension, maintain a neutral spine without arching the
+       back
+     -   Maintain balance as you bring the elbow and knee together.
+     -   Attempt to keep the hips level and center of gravity stationary
+
+** A2. Side Bridge
+
+     [[https://www.youtube.com/embed/iRLjvlwzYPI]]
+     [[https://img.youtube.com/vi/iRLjvlwzYPI/hqdefault.jpg]]
+
+     -   Contract your obliques to raise your hip from the floor to a side
+       plank position.
+
+** A3. Rowboat
+
+     [[https://www.youtube.com/embed/lS5pAo2bqFk]]
+     [[https://img.youtube.com/vi/lS5pAo2bqFk/hqdefault.jpg]]
+
+     -   Keep your chest up and shoulders retracted. This is not a crunch.
+     -   Move slowly with balance and control. The core should be under
+       tension for the duration of the movement.
+* Core 2
+
+** A1. Pallof Press and Hold
+
+     [[https://www.youtube.com/embed/5pux5i7PNjc]]
+     [[https://img.youtube.com/vi/5pux5i7PNjc/hqdefault.jpg]]
+
+     -   Keep arms straight
+     -   Resist rotation. Keep core engaged.
+
+** A2. Low Cable Chop
+
+     [[https://www.youtube.com/embed/p9QF2UiWjYE]]
+     [[https://img.youtube.com/vi/p9QF2UiWjYE/hqdefault.jpg]]
+
+     -   Keep arms straight
+     -   Be powerful in the chop
+     -   controlled returning the weight to the start
+
+** A3. Barbell to body-weight Crunch
+
+     [[https://www.youtube.com/embed/BxhNQDTxrgM]]
+     [[https://img.youtube.com/vi/BxhNQDTxrgM/hqdefault.jpg]]
+
+     -   Keep weight directly over head.
+     -   Core should be engaged at all times (maybe just shy of fully sitting
+       up).
+     -   Feet are under a bench for stability but avoid using your legs/hip
+       flexors.
+* SAQ
+
+   These workouts are to be preceded by the [[https://ultyresults.mykajabi.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
+
+   For this phase, please note that there is only one day of SAQ.
+
+**  A. Single Leg Lateral Line Hops
+
+    [[https://www.youtube.com/embed/DA-h-gnDcNM]]
+    [[https://img.youtube.com/vi/DA-h-gnDcNM/hqdefault.jpg]]
+
+    -   Focus on staying light and quick on your feet.
+    -   Grount contact should be on the balls of your feet.
+
+**  B. Low Run to Sprint
+
+    [[https://www.youtube.com/embed/KtrjXwQuqnU]]
+    [[https://img.youtube.com/vi/KtrjXwQuqnU/hqdefault.jpg]]
+
+    -   Stay in the althetic position.
+    -   Move quickly and lightly on the balls of your feet.
+    -   Center of mass should remain at constant height (don't bob up and
+      down)
+
+**  C. Jab Step Agility to Cut
+
+    [[https://www.youtube.com/embed/_6k3XvTzuak]]
+    [[https://img.youtube.com/vi/_6k3XvTzuak/hqdefault.jpg]]
+
+    -   Focus on good quality of movement.
+    -   Move more quickly and more powerfully as you become more
+      comforatable with the movement pattern.
+    -   Work on a strong push off the outside foot.
+
+**  D. Waltz Agility to Cut
+
+    [[https://www.youtube.com/embed/GD_f0hbzGcs]]
+    [[https://img.youtube.com/vi/GD_f0hbzGcs/hqdefault.jpg]]
+
+    -   Focus on good quality of movement.
+    -   Move more quickly and more powerfully as you become more
+      comforatable with the movement pattern.
+    -   Work on movement of the hips and a strong push off the inside foot.
+* Conditioning 1 & 2
+
+**  Conditioning 1
+
+** A. 80% Sprint Speed 110 Yards (full field plus endzones)
+
+     -   Pay attention to your running form.
+     -   Relaxed, linear arm swing
+     -   Light landings on the balls of your feet.
+
+** B. 160 yard shuttle (across an ultimate field and back twice)
+
+     [[https://www.youtube.com/embed/cpAnh4vAmrA]]
+     [[https://img.youtube.com/vi/cpAnh4vAmrA/hqdefault.jpg]]
+
+     -   40 yards down, 40 yards back and repeat.
+
+** C. 80% Sprint Speed 110 Yards (full field plus endzones)
+
+     -   Pay attention to your running form.
+     -   Relaxed, linear arm swing
+     -   Light landings on the balls of your feet.
+
+**  Conditioning 2
+
+** A. Zigzag Sprints
+
+     [[https://www.youtube.com/embed/YdgYleKenGM]]
+     [[https://img.youtube.com/vi/YdgYleKenGM/hqdefault.jpg]]
+
+     -   Set up 2 rows of cones about 5-7 yards apart. In each row, three
+       cones are placed about 8 yards apart. The two rows are off set by 4
+       yards to create a zig-zag pattern.
+
+** B. Forward, Back, Spin Sprints
+
+     [[https://www.youtube.com/embed/WHHYJO_Koyo]]
+     [[https://img.youtube.com/vi/WHHYJO_Koyo/hqdefault.jpg]]
+
+     -   Use just one row of cones.
+     -   Sprint to the first cone, backpedal back, sprint to the second cone,
+       backpedal to the first and spin to be running forward to the start
+       cone. Run around the start cone and repeat. (the video shows 3
+       repeats)
+
+** C. Figure Eight Sprints
+
+     [[https://www.youtube.com/embed/zwHfN0hlEVc]]
+     [[https://img.youtube.com/vi/zwHfN0hlEVc/hqdefault.jpg]]
+
+     -   Attempt to cut on the inside foot rather than the outside foot (like
+       in the jab step).
+     -   To use the inside foot, you'll likely slow down a bit before the
+       cone and "switch your hips"

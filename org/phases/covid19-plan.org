@@ -1,0 +1,76 @@
+#+TITLE: COVID19 plan
+#+SETUPFILE: ../phase.setup
+
+* Lower (25 min)
+   | Sets | Sequence              | Rest | Rest between sets |
+   |------+-----------------------+------+-------------------|
+   |    3 | 8x2xA1 - 20xA2 - 8xA3 | 30 s | 60 s              |
+   |    3 | 20xB1 - 8xB2          | 0 s  | 30 s              |
+
+** A1. Front foot elevated paused split squat
+    https://www.youtube.com/watch?v=MNzBPh5oJeI
+    https://img.youtube.com/vi/MNzBPh5oJeI/hqdefault.jpg
+
+    - 8 reps per leg
+    - Timing is 3s down, 2s hold, 2s up, 0s hold
+    - Torso vertical, front knee maintains position (no backward/forward tracking)
+** A2. Front box squat w/ ankle extension
+    https://www.youtube.com/watch?v=X8ioiXYQ6Mc
+    https://img.youtube.com/vi/X8ioiXYQ6Mc/hqdefault.jpg
+
+    - 20 reps
+    - Reach butt back to tap bench/box (about knee level)
+    - Fast/explosive no rest between reps
+** A3. Glute bridges w/ walking feet
+    https://www.youtube.com/watch?v=y-KB3TMN2mY
+    https://img.youtube.com/vi/y-KB3TMN2mY/hqdefault.jpg
+
+    - 8 reps
+    - Timing is 2s up, 2s hold, alternate legs (1s each), 2s down, 0s hold
+    - Raise using glutes, hold while lifting left leg, then right leg, then down
+    - Tight glutes to prevent sagging or rotating during leg raises
+** B1. Standing calf raises
+    https://www.youtube.com/watch?v=-aPRGxbST7g
+    https://img.youtube.com/vi/-aPRGxbST7g/hqdefault.jpg
+
+    - 20 reps (if too easy, 10 left leg only + 10 right leg only)
+    - Fast/explosive as possible without jumping
+    - Squeeze calves at top for full contraction
+** B2. Standing hip flexion
+    https://www.youtube.com/watch?v=VI5t7nVw__o
+    https://img.youtube.com/vi/VI5t7nVw__o/hqdefault.jpg
+
+    - 8 reps
+    - Place foot on bench/chair for about 90deg angle
+    - Pull top leg up past 90deg keeping hips level
+    - Timing is 1s up, 3s hold, 1s down, 0s hold
+
+* Core (10 min)
+   | Week | Sets | Sequence                 | Rest | Rest between sets |
+   |------+------+--------------------------+------+-------------------|
+   |    1 |    3 | 8xA1 - 20sxA2 - 8xA3     | 0 s  | 30 s              |
+   |    2 |    3 | 10xA1 - 25sx2xA2 - 10xA3 | 0 s  | 30 s              |
+   |    3 |    3 | 12xA1 - 30sx2xA2 - 12xA3 | 0 s  | 30 s              |
+   |    4 |    3 | 14xA1 - 35sx2xA2 - 14xA3 | 0 s  | 30 s              |
+
+** A1. Inchworm
+    https://www.youtube.com/watch?v=yiTokXebhN8
+    https://img.youtube.com/vi/yiTokXebhN8/hqdefault.jpg
+
+    - 8 reps
+    - From full plank (handstand position) walk hands forward, hold 2s
+    - Walk back to under shoulders, hold 2s
+** A2. Side plank
+    https://www.youtube.com/watch?v=Gmt6k75cJFM
+    https://img.youtube.com/vi/Gmt6k75cJFM/hqdefault.jpg
+
+    - 20s per side
+    - Shoulders hips ankles all in straight line
+** A3. Reverse crunch
+    https://www.youtube.com/watch?v=OimhvJ016L4
+    https://img.youtube.com/vi/OimhvJ016L4/hqdefault.jpg
+
+    - 8 reps
+    - On back, legs to sky (90deg at hips)
+    - Using lower abs, push/crunch legs upwards (back stays on ground)
+

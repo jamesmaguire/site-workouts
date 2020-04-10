@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>UAP Warmups</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="../static/common.css" />
+<link rel="stylesheet" type="text/css" href="../static/recipe.css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="org-div-home-and-up">
+ <a accesskey="h" href="../index.html"> UP </a>
+ |
+ <a accesskey="H" href="../index.html"> HOME </a>
+</div><div id="content">
+<h1 class="title">UAP Warmups</h1>
+
+<div id="outline-container-orgc24b069" class="outline-2">
+<h2 id="orgc24b069">Alternative General Warm-up</h2>
+<div class="outline-text-2" id="text-orgc24b069">
+<p>
+There is no one perfect warm up. How much of a warm up you need will depend on things like your age, the time of day, or how you're feeling on a particular day.  Below are some exercises you can do for a warm up to prepare for any of the lactic of alactic sessions.
+</p>
+
+<p>
+In general, you just want to do progress from less intense movement to movement that is the same intensity of the workout you will be doing.  You'll see I start with mobility drills and move into sprint and multidirectional movement drills.  There are about a million options to choose from for warm-up drills.  Feel free to wander from what is presented below.
+</p>
+</div>
+
+<div id="outline-container-orgcd21955" class="outline-3">
+<h3 id="orgcd21955">Some Mobility First</h3>
+<div class="outline-text-3" id="text-orgcd21955">
+<p>
+<b>(click each to display more info)</b>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org99df321" class="outline-3">
+<h3 id="org99df321">1. Five Point Lunge</h3>
+</div>
+<div id="outline-container-orgfc4138e" class="outline-3">
+<h3 id="orgfc4138e">2. High Knee Hugs</h3>
+</div>
+<div id="outline-container-orgc9152d3" class="outline-3">
+<h3 id="orgc9152d3">3. Walking Quad Stretch</h3>
+</div>
+<div id="outline-container-org7a1ea89" class="outline-3">
+<h3 id="org7a1ea89">4. Three Point SLDL</h3>
+<div class="outline-text-3" id="text-org7a1ea89">
+<p>
+or combo of 3 and 4 in the Walking quad stretch plus SLDL
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgde17f58" class="outline-3">
+<h3 id="orgde17f58">Now warm up the body</h3>
+</div>
+<div id="outline-container-orgf6f54bd" class="outline-3">
+<h3 id="orgf6f54bd">1. Power Skips</h3>
+</div>
+<div id="outline-container-orgdb11cf7" class="outline-3">
+<h3 id="orgdb11cf7">2. High Knees</h3>
+</div>
+<div id="outline-container-org2bcc6fe" class="outline-3">
+<h3 id="org2bcc6fe">3. Butt Kicks</h3>
+</div>
+<div id="outline-container-org49cfd86" class="outline-3">
+<h3 id="org49cfd86">4. Cariocas</h3>
+</div>
+<div id="outline-container-org8d51bd9" class="outline-3">
+<h3 id="org8d51bd9">5. Shuffles</h3>
+</div>
+<div id="outline-container-orga80c46b" class="outline-3">
+<h3 id="orga80c46b">6. Leprechaun Skips</h3>
+</div>
+<div id="outline-container-org450fd29" class="outline-3">
+<h3 id="org450fd29">7. Zombie Kicks</h3>
+</div>
+<div id="outline-container-orgd1aab51" class="outline-3">
+<h3 id="orgd1aab51">8. Five step bursts</h3>
+</div>
+</div>
+<div id="outline-container-orgf4d654a" class="outline-2">
+<h2 id="orgf4d654a">Linear Warmup</h2>
+<div class="outline-text-2" id="text-orgf4d654a">
+<p>
+This is a complete warm-up to do before a linear conditioning session
+</p>
+
+<p>
+part 1
+</p>
+
+<p>
+part 2
+</p>
+
+<p>
+part 3
+</p>
+</div>
+
+<div id="outline-container-org8ff3aed" class="outline-3">
+<h3 id="org8ff3aed">Part 1: Physical Warm Up</h3>
+<div class="outline-text-3" id="text-org8ff3aed">
+<p>
+Do each of these over 35m / 40 yards&#x2026;
+</p>
+
+<ol class="org-ol">
+<li>Run at 60% speed</li>
+<li>Backwards run with large steps</li>
+<li>Run at 60% speed</li>
+<li>Backward skip</li>
+<li>Casual (low intensity) skip</li>
+<li>Low intensity shuffle. Change direction you're facing every four steps</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orgaad2ecd" class="outline-3">
+<h3 id="orgaad2ecd">Part 2: Mobility</h3>
+<div class="outline-text-3" id="text-orgaad2ecd">
+<p>
+All exercises for about 15m/20 yards unless otherwise stated..
+</p>
+
+<ol class="org-ol">
+<li>lunge and twist (10 yards)</li>
+<li>lunge and reach (10 yards)</li>
+<li>high knee hugs</li>
+<li>cook hip lifts (5 reps each leg. 2 second hold at the top)</li>
+<li>walking quad stretch</li>
+<li>frog squats (10 reps)</li>
+<li>penguin walks (forward 10 yards and backwards 10 yards)</li>
+<li>drinking birds</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org23f50c1" class="outline-3">
+<h3 id="org23f50c1">Part 3: Nervous System</h3>
+<div class="outline-text-3" id="text-org23f50c1">
+<p>
+All exercises about 15 yards unless specified otherwise. <b>Allow some rest between exercises</b> so that you can move at high intensity, especially in exercises 4-8. The purpose here is NOT to elevate your heart rate, but to prepare your nervous system to recuit the maximum number of fast twitch muscle fibers as quickly as possible.
+</p>
+
+<ol class="org-ol">
+<li>power skip</li>
+<li>bounding</li>
+<li>high knee run</li>
+<li>butt kicks</li>
+<li>cycle kicks</li>
+<li>Zombie Walks</li>
+<li>arms plus high knee hold</li>
+<li>5 step accelerations (1-2 reps each leg forward)</li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-org58c2254" class="outline-2">
+<h2 id="org58c2254">Lower Body Lifting Warmup</h2>
+<div class="outline-text-2" id="text-org58c2254">
+<p>
+There is no one perfect warm up. How much of a warm up you need will depend on things like your age, the rep range of the program you're about to do, or how you're feeling on a particular day. Below are some exercises you can do for a warm up to prepare for the upper legs training session.
+</p>
+
+<p>
+In general, you just want to do some knee dominant and some hip dominant exercises at lower resistance than what you'll be using in the workout.
+</p>
+
+<p>
+I usually start with a few mobility oriented movements (little/no resistance). Examples shown below. Then I will do light weight for 8-10 reps of hamstring curls and 8-10 reps of split squats before jumping in to my first exercise of the program.
+</p>
+
+<p>
+If you are starting off with lifts in the rep range of five or fewer, do some warm up sets of that lift before your working sets. A suggested warm up series would be: one set of 8-10 reps at about 1/3 of the weight you plan for your first working set. One set of 5-8 reps at about 1/2 of the weight of your working set. And one set of 3-5 reps at a bit over 3/4 the weight of your working set. You should not get near failure on these. They are to get your muscles warm and your neurons firing.
+</p>
+
+<p>
+Below are some suggestions for mobility drills and light warmup exercises.
+</p>
+</div>
+
+<div id="outline-container-org5b15bb9" class="outline-3">
+<h3 id="org5b15bb9">1. The Witmer squat</h3>
+<div class="outline-text-3" id="text-org5b15bb9">
+<p>
+5-8 reps
+</p>
+</div>
+</div>
+
+<div id="outline-container-org451beb5" class="outline-3">
+<h3 id="org451beb5">2. Frog squats (hits the hamstring really well)</h3>
+<div class="outline-text-3" id="text-org451beb5">
+<p>
+5-8 rep
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbfad8fa" class="outline-3">
+<h3 id="orgbfad8fa">3. Five point lunge</h3>
+<div class="outline-text-3" id="text-orgbfad8fa">
+<p>
+Three reps each leg
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc535fc9" class="outline-3">
+<h3 id="orgc535fc9">4. Three point SLDL</h3>
+<div class="outline-text-3" id="text-orgc535fc9">
+<p>
+Three reps each leg
+</p>
+
+<p>
+If you're looking to get a little fancy, try the two full body mobility drills below:
+</p>
+</div>
+</div>
+
+<div id="outline-container-org53c5a77" class="outline-3">
+<h3 id="org53c5a77">1. Backwards spiderman</h3>
+</div>
+<div id="outline-container-org4510b51" class="outline-3">
+<h3 id="org4510b51">2. Walking bow and arrow</h3>
+</div>
+</div>
+<div id="outline-container-orgdb44906" class="outline-2">
+<h2 id="orgdb44906">Nonlinear Warmup</h2>
+<div class="outline-text-2" id="text-orgdb44906">
+<p>
+This is a complete nonlinear warmup. This is the warmup you should do before nonlinear conditioning, SAQ modules, and before playing.
+</p>
+
+<p>
+All exercises are performed for about 20 yards (except the ones that are stationary)
+</p>
+</div>
+
+<div id="outline-container-orgaa7d6ba" class="outline-3">
+<h3 id="orgaa7d6ba">Part 1: Physical Warm Up</h3>
+<div class="outline-text-3" id="text-orgaa7d6ba">
+<p>
+Each for 35m/40yards&#x2026;
+</p>
+
+<ol class="org-ol">
+<li>Run at 60% speed</li>
+<li>Backwards run with large steps</li>
+<li>Run at 60% speed</li>
+<li>Backward skip/shuffle</li>
+<li>Casual (low intensity) skip</li>
+<li>Low intensity shuffle. Change direction you're facing every four steps</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-orga7aa1b9" class="outline-3">
+<h3 id="orga7aa1b9">Part 2: Mobility</h3>
+</div>
+<div id="outline-container-org7edb8ff" class="outline-3">
+<h3 id="org7edb8ff">1 Five Point Lunge</h3>
+<div class="outline-text-3" id="text-org7edb8ff">
+<p>
+<a href="https://www.youtube.com/embed/bBdSuretuHY">https://www.youtube.com/embed/bBdSuretuHY</a>
+<img src="https://img.youtube.com/vi/bBdSuretuHY/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-org42592ce" class="outline-3">
+<h3 id="org42592ce">2. High Knee Hugs</h3>
+<div class="outline-text-3" id="text-org42592ce">
+<p>
+<a href="https://www.youtube.com/embed/Re1haQf-j3o">https://www.youtube.com/embed/Re1haQf-j3o</a>
+<img src="https://img.youtube.com/vi/Re1haQf-j3o/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-org9a934f5" class="outline-3">
+<h3 id="org9a934f5">3. Figure 4 Hugs</h3>
+<div class="outline-text-3" id="text-org9a934f5">
+<p>
+<a href="https://www.youtube.com/embed/qOoeym_Xu0s">https://www.youtube.com/embed/qOoeym_Xu0s</a>
+<img src="https://img.youtube.com/vi/qOoeym_Xu0s/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge0c34ee" class="outline-3">
+<h3 id="orge0c34ee">4. Three Point SLDL (3 times each leg)</h3>
+<div class="outline-text-3" id="text-orge0c34ee">
+<p>
+<a href="https://www.youtube.com/embed/r1hPMviYbLQ">https://www.youtube.com/embed/r1hPMviYbLQ</a>
+<img src="https://img.youtube.com/vi/r1hPMviYbLQ/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbf0d9ea" class="outline-3">
+<h3 id="orgbf0d9ea">5. Walking Quad Stretch</h3>
+<div class="outline-text-3" id="text-orgbf0d9ea">
+<p>
+<a href="https://www.youtube.com/embed/05TNLo-d2i0">https://www.youtube.com/embed/05TNLo-d2i0</a>
+<img src="https://img.youtube.com/vi/05TNLo-d2i0/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-org00e45c0" class="outline-3">
+<h3 id="org00e45c0">6. Side-Side-Middle Lunge</h3>
+<div class="outline-text-3" id="text-org00e45c0">
+<p>
+<a href="https://www.youtube.com/embed/jJslMqcz_XQ">https://www.youtube.com/embed/jJslMqcz_XQ</a>
+<img src="https://img.youtube.com/vi/jJslMqcz_XQ/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-org277b7e0" class="outline-3">
+<h3 id="org277b7e0">7. Standing T-Spine Rotation (5 rotations each side)</h3>
+<div class="outline-text-3" id="text-org277b7e0">
+<p>
+<a href="https://www.youtube.com/embed/xi48S_aB_FA">https://www.youtube.com/embed/xi48S_aB_FA</a>
+<img src="https://img.youtube.com/vi/xi48S_aB_FA/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd4bb8ae" class="outline-3">
+<h3 id="orgd4bb8ae">8. Penguin Walk (about 10 yards forward and 10 yards backward)</h3>
+<div class="outline-text-3" id="text-orgd4bb8ae">
+<p>
+<a href="https://www.youtube.com/embed/cJvms057Rg4">https://www.youtube.com/embed/cJvms057Rg4</a>
+<img src="https://img.youtube.com/vi/cJvms057Rg4/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc23a6c1" class="outline-3">
+<h3 id="orgc23a6c1">Part 3: Nervous System</h3>
+<div class="outline-text-3" id="text-orgc23a6c1">
+<p>
+All exercises should be done for about 15 yards unless otherwise noted. <b>Allow some rest between exercises</b> so that you can move at high intensity with quick, light feet. The purpose here is NOT to elevate your heart rate, but to prepare your nervous system to recuit the maximum number of fast twitch muscle fibers as quickly as possible.
+</p>
+
+<p>
+**
+</p>
+</div>
+</div>
+<div id="outline-container-org120b1e7" class="outline-3">
+<h3 id="org120b1e7">1. Cycle kicks</h3>
+</div>
+<div id="outline-container-orgdbcbc08" class="outline-3">
+<h3 id="orgdbcbc08">2. Lateral high knee skip</h3>
+</div>
+<div id="outline-container-org8681db9" class="outline-3">
+<h3 id="org8681db9">3. Backwards run</h3>
+</div>
+<div id="outline-container-orgee2d821" class="outline-3">
+<h3 id="orgee2d821">4. Lateral skips</h3>
+<div class="outline-text-3" id="text-orgee2d821">
+<p>
+<a href="https://www.youtube.com/embed/6dBXyLSqN4Y">https://www.youtube.com/embed/6dBXyLSqN4Y</a>
+<img src="https://img.youtube.com/vi/6dBXyLSqN4Y/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbedc5eb" class="outline-3">
+<h3 id="orgbedc5eb">5. Falling Leaf</h3>
+</div>
+<div id="outline-container-org7e727ea" class="outline-3">
+<h3 id="org7e727ea">6. Leprechaun Skips</h3>
+</div>
+</div>
+<div id="outline-container-org4eccdcb" class="outline-2">
+<h2 id="org4eccdcb">The Power of a good Warmup</h2>
+<div class="outline-text-2" id="text-org4eccdcb">
+<p>
+The UAP has such strong programming&#x2026;it would be a shame to not get all the benefits you can from following it! I'm a strong believer in the power of a short warm up specific to the movement you're going to be doing - you want great range of motion, less stress on your joints and the right musculature working during your session. Rolling on a foam roller for a couple minutes and then jumping into training is not your best bet - here's a breakdown of what I consider to be the best bang-for-your-buck warm up movements for some of the different program days! :)
+</p>
+
+<p>
+First of all, I can't recommend <a href="https://www.youtube.com/embed/2S3Y1PSrVJU">lacrosse balls</a> <a href="https://img.youtube.com/vi/2S3Y1PSrVJU">lacrosse balls/hqdefault.jpg</a> enough&#x2026;you don't need to hit every point in your body, but spend a couple minutes targeting the places you're tight, in addition to musculature you're going to be using that day. Do this before doing mobility/activation work! If you're naturally mobile in a certain area (ankles, hips) you can totally skip those mobility exercises and shorten your warm up.
+</p>
+</div>
+
+<div id="outline-container-org6113c03" class="outline-3">
+<h3 id="org6113c03">Upper</h3>
+<div class="outline-text-3" id="text-org6113c03">
+<p>
+<b>Mobility:*</b> <b>*shoulders, mid-back</b>
+</p>
+
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=tl9TBVxWS6A">Band Pull</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=tl9TBVxWS6A">Band Pull/hqdefault.jpg</a>
+</p>
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/LyWVNOfEnCc">Mid-Back Mobility</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/LyWVNOfEnCc">Mid-Back Mobility/hqdefault.jpg</a>
+</p>
+
+<p>
+<b>Activation: core</b>
+</p>
+
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=z_Edc-R8EVU">Crawling</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=z_Edc-R8EVU">Crawling/hqdefault.jpg</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgfc1c259" class="outline-3">
+<h3 id="orgfc1c259">SAQ</h3>
+<div class="outline-text-3" id="text-orgfc1c259">
+<p>
+<b>Mobility: <b>*hips, ankles</b></b>
+</p>
+
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=LRLAqL6blT0">Frog Stretch</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=LRLAqL6blT0">Frog Stretch/hqdefault.jpg</a> (hips)
+</p>
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/Bqt_R2HX6KQ">Ankle Mobility</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/Bqt_R2HX6KQ">Ankle Mobility/hqdefault.jpg</a>
+</p>
+
+<p>
+<b>Activation: glutes, core</b>
+</p>
+
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=wdbl1tmmm4E">Circle Band</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=wdbl1tmmm4E">Circle Band/hqdefault.jpg</a> (glutes)
+</p>
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=z_Edc-R8EVU">Crawling</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=z_Edc-R8EVU">Crawling/hqdefault.jpg</a> (core)
+</p>
+</div>
+</div>
+
+<div id="outline-container-org41a6546" class="outline-3">
+<h3 id="org41a6546">Lower</h3>
+<div class="outline-text-3" id="text-org41a6546">
+<p>
+<b>Mobility: hips, ankles, shoulders</b>
+</p>
+
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=LRLAqL6blT0">Frog Stretch</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=LRLAqL6blT0">Frog Stretch/hqdefault.jpg</a> (hips)
+</p>
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/Bqt_R2HX6KQ">Ankle Mobility</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/Bqt_R2HX6KQ">Ankle Mobility/hqdefault.jpg</a>
+</p>
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=tl9TBVxWS6A">Band Pull</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=tl9TBVxWS6A">Band Pull/hqdefault.jpg</a>
+</p>
+
+<p>
+<b>Activation: glutes, core</b>
+</p>
+
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=OszMdC2rPf8">Running Man</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=OszMdC2rPf8">Running Man/hqdefault.jpg</a> (glutes)
+</p>
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=z_Edc-R8EVU">Crawling</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=z_Edc-R8EVU">Crawling/hqdefault.jpg</a> (core)
+</p>
+</div>
+</div>
+
+<div id="outline-container-org04a7c4c" class="outline-3">
+<h3 id="org04a7c4c">Core</h3>
+<div class="outline-text-3" id="text-org04a7c4c">
+<p>
+<b>Mobility: mid-back, shoulders, hips</b>
+</p>
+
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/LyWVNOfEnCc">Mid-Back Mobility</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/LyWVNOfEnCc">Mid-Back Mobility/hqdefault.jpg</a>
+</p>
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=tl9TBVxWS6A">Band Pull</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=tl9TBVxWS6A">Band Pull/hqdefault.jpg</a>
+</p>
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=LRLAqL6blT0">Frog Stretch</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=LRLAqL6blT0">Frog Stretch/hqdefault.jpg</a> (hips)
+</p>
+
+<p>
+<b>Activation: core</b>
+</p>
+
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=z_Edc-R8EVU">Crawling</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=z_Edc-R8EVU">Crawling/hqdefault.jpg</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org29e88ea" class="outline-3">
+<h3 id="org29e88ea">Full Body</h3>
+<div class="outline-text-3" id="text-org29e88ea">
+<p>
+<b>Mobility: hips, mid-back</b>
+</p>
+
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=LRLAqL6blT0">Frog Stretch</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=LRLAqL6blT0">Frog Stretch/hqdefault.jpg</a> (hips)
+</p>
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/LyWVNOfEnCc">Mid-Back Mobility</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/LyWVNOfEnCc">Mid-Back Mobility/hqdefault.jpg</a>
+</p>
+
+<p>
+<b>Activation: glutes, core</b>
+</p>
+
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=OszMdC2rPf8">Running Man</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=OszMdC2rPf8">Running Man/hqdefault.jpg</a> (glute activation)
+</p>
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=z_Edc-R8EVU">Crawling</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=z_Edc-R8EVU">Crawling/hqdefault.jpg</a> (core)
+</p>
+</div>
+</div>
+
+<div id="outline-container-org594934c" class="outline-3">
+<h3 id="org594934c">Conditioning</h3>
+<div class="outline-text-3" id="text-org594934c">
+<p>
+<b>Mobility: hips, ankle, shoulders</b>
+</p>
+
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=LRLAqL6blT0">Frog Stretch</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=LRLAqL6blT0">Frog Stretch/hqdefault.jpg</a> (hips)
+</p>
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/Bqt_R2HX6KQ">Ankle Mobility</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/Bqt_R2HX6KQ">Ankle Mobility/hqdefault.jpg</a>
+</p>
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=tl9TBVxWS6A">Band Pull</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=tl9TBVxWS6A">Band Pull/hqdefault.jpg</a>
+</p>
+
+<p>
+<b>Activation: glutes, core</b>
+</p>
+
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=wdbl1tmmm4E">Circle Band</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=wdbl1tmmm4E">Circle Band/hqdefault.jpg</a> (glutes)
+</p>
+<ul class="org-ul">
+<li><a href="https://www.youtube.com/embed/watch?v=z_Edc-R8EVU">Crawling</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/watch?v=z_Edc-R8EVU">Crawling/hqdefault.jpg</a> (core)
+</p>
+
+<p>
+    Just a few minutes at the beginning of your time at the gym/on the field can make all the difference - add a thoughtful warm up to the thoughtful programming and you're WINNING. :)
+**
+    Have a question? Send it to [<a href="file:///c:/cdn-cgi/l/email-protection">email protected</a>]{._<sub>cf</sub><sub>email</sub>__} with the subject line "The Knowledge!"
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orgdf0525c" class="outline-2">
+<h2 id="orgdf0525c">Upper Body Lifting Warmup</h2>
+<div class="outline-text-2" id="text-orgdf0525c">
+<p>
+There is no one perfect warm up. How much of a warm up you need will depend on things like your age, the rep range of the program you're about to do, or how you're feeling on a particular day.
+</p>
+
+<p>
+Below are some exercises you can do for a warm up to prepare for the upper body training session. In general, you just want to do some pulling and some pushing at lower resistance than what you'll be using in the workout.
+</p>
+
+<p>
+If you are starting off with lifts in the rep range of five or fewer, do some warm up sets of that lift before your working sets. A suggested warm up series would be:
+</p>
+
+<ol class="org-ol">
+<li>A set of 8-10 reps at about 1/3 of the weight you plan for your first working set</li>
+<li>A set of 5-8 reps at about 1/2 of the weight of your working set,</li>
+<li>A final set of 3-5 reps at a bit over 3/4 the weight of your working set.</li>
+</ol>
+
+<p>
+You should not get near failure on these. They are to get your muscles warm and your neurons firing.
+</p>
+
+<p>
+Below are some suggestions for mobility drills and light warmup exercises.
+</p>
+</div>
+
+<div id="outline-container-orgae265a7" class="outline-3">
+<h3 id="orgae265a7">Inchworms</h3>
+<div class="outline-text-3" id="text-orgae265a7">
+<p>
+<a href="https://www.youtube.com/embed/bfWcQlN-sq8">https://www.youtube.com/embed/bfWcQlN-sq8</a>
+<img src="https://img.youtube.com/vi/bfWcQlN-sq8/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf5adff8" class="outline-3">
+<h3 id="orgf5adff8">Down Dog to Plank to Up Dog (what's "up dog?" Not mutch, what's up with you?)</h3>
+<div class="outline-text-3" id="text-orgf5adff8">
+<p>
+<a href="https://www.youtube.com/embed/A6mSKpqJR38">https://www.youtube.com/embed/A6mSKpqJR38</a>
+<img src="https://img.youtube.com/vi/A6mSKpqJR38/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-org739624f" class="outline-3">
+<h3 id="org739624f">Pushup with Rotation</h3>
+<div class="outline-text-3" id="text-org739624f">
+<p>
+<a href="https://www.youtube.com/embed/8BAGcv4Xw1k">https://www.youtube.com/embed/8BAGcv4Xw1k</a>
+<img src="https://img.youtube.com/vi/8BAGcv4Xw1k/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7c8a082" class="outline-3">
+<h3 id="org7c8a082">T-spine rotation (this is more mobility drill than warmup drill)</h3>
+<div class="outline-text-3" id="text-org7c8a082">
+<p>
+<a href="https://www.youtube.com/embed/xi48S_aB_FA">https://www.youtube.com/embed/xi48S_aB_FA</a>
+<img src="https://img.youtube.com/vi/xi48S_aB_FA/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-org91e5154" class="outline-3">
+<h3 id="org91e5154">Lat Pulldowns</h3>
+<div class="outline-text-3" id="text-org91e5154">
+<p>
+<a href="https://www.youtube.com/embed/G4q1hXoESos">https://www.youtube.com/embed/G4q1hXoESos</a>
+<img src="https://img.youtube.com/vi/G4q1hXoESos/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-org5541d0b" class="outline-3">
+<h3 id="org5541d0b">Retraction to row</h3>
+<div class="outline-text-3" id="text-org5541d0b">
+<p>
+<a href="https://www.youtube.com/embed/30YE0OH5DNE">https://www.youtube.com/embed/30YE0OH5DNE</a>
+<img src="https://img.youtube.com/vi/30YE0OH5DNE/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+</div>
+</div>
+
+<div id="outline-container-org1728f59" class="outline-3">
+<h3 id="org1728f59">Shoulder Rotations</h3>
+<div class="outline-text-3" id="text-org1728f59">
+<p>
+<a href="https://www.youtube.com/embed/JiavICGaFp8">https://www.youtube.com/embed/JiavICGaFp8</a>
+<img src="https://img.youtube.com/vi/JiavICGaFp8/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<p>
+There are many other options for other warmup drills as well. <b>Feel free to leave some ideas in the comments below!</b>
+</p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>UAP Off-season 4</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="../static/common.css" />
+<link rel="stylesheet" type="text/css" href="../static/recipe.css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="org-div-home-and-up">
+ <a accesskey="h" href="../index.html"> UP </a>
+ |
+ <a accesskey="H" href="../index.html"> HOME </a>
+</div><div id="content">
+<h1 class="title">UAP Off-season 4</h1>
+
+<div id="outline-container-org793cb95" class="outline-2">
+<h2 id="org793cb95">Schedule &amp; Workout Logs</h2>
+<div class="outline-text-2" id="text-org793cb95">
+<p>
+<a href="uap-pdfs/offseason4.pdf">Workout log (pdf)</a>
+</p>
+
+<p>
+The explosive lifts on leg days and SAQ Workouts are the most important parts of this phase. Schedule around them, prioritise them each week and make sure you are recovered in time to perform these workouts.
+</p>
+
+<ul class="org-ul">
+<li>Keep 2 days between the legs and SAQ Day1 workouts.</li>
+<li>Conditioning workouts can always be done after the leg strength training day because it does not matter that your legs are already tired.</li>
+<li>SAQ workouts are NOT conditioning. Do NOT do more than what is listed. You should feel fully recovered between reps and sets. If not, add more rest. No big deal.</li>
+<li>If doing two types of sessions on the same day, SAQ should be done before lifting or conditioning. Lifting should be done before conditioning.</li>
+<li>Learn to pay attention to how your body is feeling each day. If you start feeling run down by the end of each week, you may not be getting enough recovery. It is okay NOT to do all of the workouts provided. Sometimes less is more.</li>
+</ul>
+
+<p>
+Conditioning <b>can</b> be done 6 days per week <b>but only if</b> you keep the volume low enough to recover between sessions. <b>Do not let your conditioning interfere with your lifting and SAQ work this phase.</b> If you want to build up your conditioning, do easy (low volume) Conditioning Day 2 workouts. Even if the warmup and workout only takes 20 minutes, it will have a very positive cumulative effect.
+</p>
+
+<p>
+Because we are doing some more explosive work in the weight room this phase, do not do the SAQ workouts more than once per week.
+</p>
+
+<p>
+If you want to do more work, you can also invest more time in your core. Core circuits can be done 3-6 days per week. Don't start off right away with 6 days/week-work up to it. Alternate between circuit 1 and circuit
+</p>
+<ol class="org-ol">
+<li></li>
+</ol>
+
+
+<div class="figure">
+<p><img src="https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/Off-Season_4.png" alt="Off-Season_4.png" />
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orgd23877b" class="outline-2">
+<h2 id="orgd23877b">Lower 1</h2>
+<div class="outline-text-2" id="text-orgd23877b">
+</div>
+<div id="outline-container-org08131b2" class="outline-3">
+<h3 id="org08131b2">A. Rotational Scoop Toss</h3>
+<div class="outline-text-3" id="text-org08131b2">
+<p>
+<a href="https://www.youtube.com/embed/yqM86sNdRzU">https://www.youtube.com/embed/yqM86sNdRzU</a>
+<img src="https://img.youtube.com/vi/yqM86sNdRzU/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Start with hips perpendicular to the wall.</li>
+<li>Throw the ball as hard as you can at the wall. Try to break the wall.</li>
+<li>After follow through, hips should be about square to the wall.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org618fa33" class="outline-3">
+<h3 id="org618fa33">B1. Snatch Progression</h3>
+<div class="outline-text-3" id="text-org618fa33">
+<p>
+<a href="https://www.youtube.com/embed/Zo2K2l9rMp0">https://www.youtube.com/embed/Zo2K2l9rMp0</a>
+<img src="https://img.youtube.com/vi/Zo2K2l9rMp0/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>All about the hips. Get hips back.</li>
+<li>"Jump" the weight up.</li>
+<li>Keep the weight close to your body. Should come straight up, not out away from your body.</li>
+<li>Lock out elbows in the catch.</li>
+<li>If you do not have the shoulder mobility required for this exercise or it is otherwise uncomfortable, try dumb bell snatches instead. Do 6 reps - three in each hand.</li>
+<li>Here's an (Alternate) DB Snatch Progression: <a href="https://www.youtube.com/embed/lDQscKAcVcM">Link</a></li>
+</ul>
+<p>
+<a href="https://img.youtube.com/vi/lDQscKAcVcM">Link/hqdefault.jpg</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orga5bc202" class="outline-3">
+<h3 id="orga5bc202">B2. Box Jumps</h3>
+<div class="outline-text-3" id="text-orga5bc202">
+<p>
+<a href="https://www.youtube.com/embed/tVnU1kwoIMM">https://www.youtube.com/embed/tVnU1kwoIMM</a>
+<img src="https://img.youtube.com/vi/tVnU1kwoIMM/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Find a bench, box, or other object that allows you to land on it with a knee angle of greater than 90 degrees. Otherwise, the surface is definitely too high.</li>
+<li>Land softly with the entire foot on the surface.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org274ceb0" class="outline-3">
+<h3 id="org274ceb0">C1. Backward Lunges</h3>
+<div class="outline-text-3" id="text-org274ceb0">
+<p>
+<a href="https://www.youtube.com/embed/BYbEvMbOfMI">https://www.youtube.com/embed/BYbEvMbOfMI</a>
+<img src="https://img.youtube.com/vi/BYbEvMbOfMI/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Step back with one leg. Do not let your knee touch the ground</li>
+<li>Explosively step forward again using primarily the front leg</li>
+<li>Keep the back foot off the ground when you stand up again if possible</li>
+<li>Do all reps on one leg first and then the other</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgc3946d9" class="outline-3">
+<h3 id="orgc3946d9">C2.Barbell RDL</h3>
+<div class="outline-text-3" id="text-orgc3946d9">
+<p>
+<a href="https://www.youtube.com/embed/XxM-QNjznF0">https://www.youtube.com/embed/XxM-QNjznF0</a>
+<img src="https://img.youtube.com/vi/XxM-QNjznF0/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Keep back flat</li>
+<li>Knees at about 10 degree angle throughout the movement</li>
+<li>Lock out hips at the top. (knees may now be more straight but not locked)</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org3ed6fbb" class="outline-2">
+<h2 id="org3ed6fbb">Lower 2</h2>
+<div class="outline-text-2" id="text-org3ed6fbb">
+</div>
+<div id="outline-container-orgc7cab32" class="outline-3">
+<h3 id="orgc7cab32">A1. Frog Jumps</h3>
+<div class="outline-text-3" id="text-orgc7cab32">
+<p>
+<a href="https://www.youtube.com/embed/v51cWelUBpM">https://www.youtube.com/embed/v51cWelUBpM</a>
+<img src="https://img.youtube.com/vi/v51cWelUBpM/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Drop the hips and explode up as soon as your hands graze the floor.</li>
+<li>Drop the hips! Don't bend at the waist. Neutral spine, it's all in the hips.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgfda5082" class="outline-3">
+<h3 id="orgfda5082">A2. High Pulls from the Floor</h3>
+<div class="outline-text-3" id="text-orgfda5082">
+<p>
+<a href="https://www.youtube.com/embed/ZcSdx0oc4kw">https://www.youtube.com/embed/ZcSdx0oc4kw</a>
+<img src="https://img.youtube.com/vi/ZcSdx0oc4kw/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>If mobility issues prevent you from easily getting in position, do these from a higher hang position.</li>
+<li>Elbows should be locked out at the start (to avoid jerking your shoulders out of socket please!)</li>
+<li>Get your hips back. The weight start close to your shins with your chest over the weight.</li>
+<li>Shoulders retracted. Neutral spine. All the good form usual stuff applies and is vitally important! Take your time, focus.</li>
+<li>Explode and cause the weight to come straight up. You should feel like you are "jumping" the weight up with your hips, not pulling the weight up with your arms. You may notice your hips drop again as the weight comes up. This is fine.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org10b8565" class="outline-3">
+<h3 id="org10b8565">B. Squat Jumps</h3>
+<div class="outline-text-3" id="text-org10b8565">
+<p>
+<a href="https://www.youtube.com/embed/U4l8ZYKkQBQ">https://www.youtube.com/embed/U4l8ZYKkQBQ</a>
+<img src="https://img.youtube.com/vi/U4l8ZYKkQBQ/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Use no more than 25% of your bodyweight on the bar</li>
+<li>Maintain a neutral spine</li>
+<li>Keep the bar in contact with your back (it should not bounce)</li>
+<li>Minimize ground contact time as you explode up as high as possible.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org02507e4" class="outline-3">
+<h3 id="org02507e4">C. Heel Elevated Hip Lifts</h3>
+<div class="outline-text-3" id="text-org02507e4">
+<p>
+<a href="https://www.youtube.com/embed/EFLq2nE7up8">https://www.youtube.com/embed/EFLq2nE7up8</a>
+<img src="https://img.youtube.com/vi/EFLq2nE7up8/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Elevate the foot of the working leg on a step</li>
+<li>Can be elevated on a Bosu ball for added difficulty.</li>
+<li>Nonworking leg remains straight</li>
+<li>Pause at the top of the movement</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org944aa7e" class="outline-3">
+<h3 id="org944aa7e">This session should be followed with <a href="https://www.ultyresults.com/products/ultimate-athlete-project/categories/89285/posts/320840">Core Circuit 2</a></h3>
+</div>
+</div>
+<div id="outline-container-orgced8f2a" class="outline-2">
+<h2 id="orgced8f2a">Upper 1</h2>
+<div class="outline-text-2" id="text-orgced8f2a">
+</div>
+<div id="outline-container-orgc7e0365" class="outline-3">
+<h3 id="orgc7e0365">A1. Push Press</h3>
+<div class="outline-text-3" id="text-orgc7e0365">
+<p>
+<a href="https://www.youtube.com/embed/Z9b5LJ1Am_A">https://www.youtube.com/embed/Z9b5LJ1Am_A</a>
+<img src="https://img.youtube.com/vi/Z9b5LJ1Am_A/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Use momentum from the hips to help you press more than you otherwise would.</li>
+<li>The bar starts resting high on your chest. Grip slightly wider than shoulder width.</li>
+<li>Dip into about a quarter squat and as you stand push the weight overhead.</li>
+<li>Legs should be straight at the end of the movement and arms should be locked out.</li>
+<li>Lower the weight in a controlled fashion back to the starting position.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orge1c6483" class="outline-3">
+<h3 id="orge1c6483">A2. Paused Semisupinated Grip Pull-Up</h3>
+<div class="outline-text-3" id="text-orge1c6483">
+<p>
+<a href="https://www.youtube.com/embed/ZB3GmD4-1hE">https://www.youtube.com/embed/ZB3GmD4-1hE</a>
+<img src="https://img.youtube.com/vi/ZB3GmD4-1hE/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>"semi supinated" means that your palms are facing one another. If you do not have a bar that allows for this, use a supinated grip (palms toward you)</li>
+<li>keep your chest up. squeeze shoulder blades together at the top of the movement.</li>
+<li>If you do not have an assisted chinup machine, you can use a lat pulldown instead.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgd9b450b" class="outline-3">
+<h3 id="orgd9b450b">B1. Split Squat to Cable Row</h3>
+<div class="outline-text-3" id="text-orgd9b450b">
+<p>
+<a href="https://www.youtube.com/embed/LqGpV_hHBSM">https://www.youtube.com/embed/LqGpV_hHBSM</a>
+<img src="https://img.youtube.com/vi/LqGpV_hHBSM/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>pull with the opposite arm of the leg that is forward.</li>
+<li>hips should move straight up and down</li>
+<li>use full range of motion in the shoulder but do not lean forward or backwards in the rowing motion.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orge474635" class="outline-3">
+<h3 id="orge474635">B2. Alternating Iso Hold DB Bench</h3>
+<div class="outline-text-3" id="text-orge474635">
+<p>
+<a href="https://www.youtube.com/embed/5C9B2mrhZ1g">https://www.youtube.com/embed/5C9B2mrhZ1g</a>
+<img src="https://img.youtube.com/vi/5C9B2mrhZ1g/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Hold one dumbbell as you press the other.</li>
+<li>Keep tension in the pectoral of the side you are holding.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org9bba183" class="outline-3">
+<h3 id="org9bba183">This strength session should be followed by <a href="https://www.ultyresults.com/products/ultimate-athlete-project/categories/89285/posts/241195">Core Circuit 1</a></h3>
+</div>
+</div>
+<div id="outline-container-org154c3c6" class="outline-2">
+<h2 id="org154c3c6">Upper 2</h2>
+<div class="outline-text-2" id="text-org154c3c6">
+</div>
+<div id="outline-container-org188b6ff" class="outline-3">
+<h3 id="org188b6ff">A. Clap Pushups</h3>
+<div class="outline-text-3" id="text-org188b6ff">
+<p>
+<a href="https://www.youtube.com/embed/7lHuWdR6iQs">https://www.youtube.com/embed/7lHuWdR6iQs</a>
+<img src="https://img.youtube.com/vi/7lHuWdR6iQs/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>do as many pushups as possible. be explosive! don't pace yourself, go fast.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org1a51815" class="outline-3">
+<h3 id="org1a51815">B1. One Arm Semi-supinated grip Incline DB Bench</h3>
+<div class="outline-text-3" id="text-org1a51815">
+<p>
+<a href="https://www.youtube.com/embed/tkPqct_J338">https://www.youtube.com/embed/tkPqct_J338</a>
+<img src="https://img.youtube.com/vi/tkPqct_J338/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Hold a dumbbell only in one hand while performing this exercise.</li>
+<li>Engage the core to resist rotation.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgc7a5240" class="outline-3">
+<h3 id="orgc7a5240">B2. Prone Flat Elbow Out DB Rows</h3>
+<div class="outline-text-3" id="text-orgc7a5240">
+<p>
+<a href="https://www.youtube.com/embed/G9iMBoBVvYk">https://www.youtube.com/embed/G9iMBoBVvYk</a>
+<img src="https://img.youtube.com/vi/G9iMBoBVvYk/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Think about squeezing your shoulder blades together at the top (retract the shoulders)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org01e2339" class="outline-3">
+<h3 id="org01e2339">B1. Stability Ball Incline Db Fly</h3>
+<div class="outline-text-3" id="text-org01e2339">
+<p>
+<a href="https://www.youtube.com/embed/rVPVf8JDen0">https://www.youtube.com/embed/rVPVf8JDen0</a>
+<img src="https://img.youtube.com/vi/rVPVf8JDen0/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Shoulders on stability ball</li>
+<li>Drop hips to create an incline</li>
+<li>Keep spine neutral, core engaged</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orge386b94" class="outline-3">
+<h3 id="orge386b94">C2. Bow and Arrow</h3>
+<div class="outline-text-3" id="text-orge386b94">
+<p>
+<a href="https://www.youtube.com/embed/Fq9Jlz261m4">https://www.youtube.com/embed/Fq9Jlz261m4</a>
+<img src="https://img.youtube.com/vi/Fq9Jlz261m4/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>if you imagine an archer, you will naturally do this exercise correctly</li>
+<li>stand up tall</li>
+<li>keep the elbow of the pulling arm up</li>
+<li>squeeze the shoulder blades together during the iso hold</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org8fcf64f" class="outline-3">
+<h3 id="org8fcf64f">C3. Cuban to Press</h3>
+<div class="outline-text-3" id="text-org8fcf64f">
+<p>
+<a href="https://www.youtube.com/embed/v19DV8xcMDA">https://www.youtube.com/embed/v19DV8xcMDA</a>
+<img src="https://img.youtube.com/vi/v19DV8xcMDA/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Avoid shrugging the weight</li>
+<li>This should be done in one fluid movement</li>
+<li>Keep shoulders back but avoid flaring the ribcage</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org5db562d" class="outline-2">
+<h2 id="org5db562d">Core 1</h2>
+<div class="outline-text-2" id="text-org5db562d">
+</div>
+<div id="outline-container-org18ff2c0" class="outline-3">
+<h3 id="org18ff2c0">A1. Overhead Medicine Ball Carry</h3>
+<div class="outline-text-3" id="text-org18ff2c0">
+<p>
+<a href="https://www.youtube.com/embed/CCl-GOORm1Y">https://www.youtube.com/embed/CCl-GOORm1Y</a>
+<img src="https://img.youtube.com/vi/CCl-GOORm1Y/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Bend side to side while walking and holding medicine ball overhead.</li>
+<li>Bend to the side of the forward foot.</li>
+<li>This can be done with a dumbbell if you have no medicine ball</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org82d02ea" class="outline-3">
+<h3 id="org82d02ea">A2. One Arm Carry</h3>
+<div class="outline-text-3" id="text-org82d02ea">
+<p>
+<a href="https://www.youtube.com/embed/h0QZyB5mvkc">https://www.youtube.com/embed/h0QZyB5mvkc</a>
+<img src="https://img.youtube.com/vi/h0QZyB5mvkc/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Use a heavy dumbbell</li>
+<li>Walk 20 yards and back</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org23e9f63" class="outline-3">
+<h3 id="org23e9f63">A3. Prone Quadruped Bent Leg Lift</h3>
+<div class="outline-text-3" id="text-org23e9f63">
+<p>
+<a href="https://www.youtube.com/embed/muJEa4AIEM0">https://www.youtube.com/embed/muJEa4AIEM0</a>
+<img src="https://img.youtube.com/vi/muJEa4AIEM0/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Keep back as stationary as possible while lifting the one leg up and back.</li>
+<li>Heel should point to the sky</li>
+<li>Squeeze your glute, do not arch your back</li>
+<li>This exercise may not feel super hard. it does require focus to do it right. This exercise works at separating the hips and will prep you for things to come.</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-orgd880939" class="outline-2">
+<h2 id="orgd880939">Core 2</h2>
+<div class="outline-text-2" id="text-orgd880939">
+</div>
+<div id="outline-container-orga274bf7" class="outline-3">
+<h3 id="orga274bf7">A1. Stir the Pot</h3>
+<div class="outline-text-3" id="text-orga274bf7">
+<p>
+<a href="https://www.youtube.com/embed/FTumEC5enyU">https://www.youtube.com/embed/FTumEC5enyU</a>
+<img src="https://img.youtube.com/vi/FTumEC5enyU/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Maintain a good plank position with shoulders hips and ankles in a line.</li>
+<li>Place your feet wider apart to make the exercises slightly easier if necessary.</li>
+<li>With shoulders retracted and fingers interlaced, move the stability ball in small circles.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org5467a5e" class="outline-3">
+<h3 id="org5467a5e">A2. Alternating legs Stability Ball Pull-In</h3>
+<div class="outline-text-3" id="text-org5467a5e">
+<p>
+<a href="https://www.youtube.com/embed/lgcDUHlaQTM">https://www.youtube.com/embed/lgcDUHlaQTM</a>
+<img src="https://img.youtube.com/vi/lgcDUHlaQTM/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Left, right, both equals one rep.</li>
+<li>Return to a flat plank position every rep. Don't let the hips sag.</li>
+<li>Do as many reps as possible with both feet if this variation is too difficult.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org3ca6942" class="outline-3">
+<h3 id="org3ca6942">A3. Stability Ball DB Russian Twist</h3>
+<div class="outline-text-3" id="text-org3ca6942">
+<p>
+<a href="https://www.youtube.com/embed/T88m08cIlPo">https://www.youtube.com/embed/T88m08cIlPo</a>
+<img src="https://img.youtube.com/vi/T88m08cIlPo/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Core is engaged at all times.</li>
+<li>Look at the weight as you rotate.</li>
+<li>Keep hips up by squeezing the glutes.</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org9e729cd" class="outline-2">
+<h2 id="org9e729cd">SAQ 1 &amp; 2</h2>
+<div class="outline-text-2" id="text-org9e729cd">
+<p>
+These workouts are to be preceded by the <a href="https://ultyresults.mykajabi.com/products/uap/categories/89306/posts/231481">Nonlinear Warmup</a>.
+</p>
+</div>
+
+<div id="outline-container-orgb617fd9" class="outline-3">
+<h3 id="orgb617fd9">SAQ 1: Lateral</h3>
+</div>
+<div id="outline-container-orgafec003" class="outline-3">
+<h3 id="orgafec003">A. Counter Movement Lateral Hops</h3>
+<div class="outline-text-3" id="text-orgafec003">
+<p>
+<a href="https://www.youtube.com/embed/zsikQYzW1xw">https://www.youtube.com/embed/zsikQYzW1xw</a>
+<img src="https://img.youtube.com/vi/zsikQYzW1xw/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Be sure to pause between each jump</li>
+<li>Aim for height and stick the landing between hurdles or cones</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org78bc779" class="outline-3">
+<h3 id="org78bc779">B. Lateral Bound and Return</h3>
+<div class="outline-text-3" id="text-org78bc779">
+<p>
+<a href="https://www.youtube.com/embed/gxkZIPJYgro">https://www.youtube.com/embed/gxkZIPJYgro</a>
+<img src="https://img.youtube.com/vi/gxkZIPJYgro/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Like the Bound and Stick, but with an extra bound back to the starting point.</li>
+<li>Stick the landing as with the bound and stick</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orge523d77" class="outline-3">
+<h3 id="orge523d77">C. 5-10-5 Lateral Drill</h3>
+<div class="outline-text-3" id="text-orge523d77">
+<p>
+<a href="https://www.youtube.com/embed/lIq87ZhL8bE">https://www.youtube.com/embed/lIq87ZhL8bE</a>
+<img src="https://img.youtube.com/vi/lIq87ZhL8bE/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>First 5yards hips will be mostly perpendicular to line of movement. Use a big crossover push.</li>
+<li>Second 10 yards open the hips early coming in to the second turn</li>
+<li>Third five yards turn the hips and commit to accelerating though the cone.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org1170588" class="outline-3">
+<h3 id="org1170588">SAQ 2: Linear and Vertical</h3>
+</div>
+<div id="outline-container-org7ae7f56" class="outline-3">
+<h3 id="org7ae7f56">A. Galloping</h3>
+<div class="outline-text-3" id="text-org7ae7f56">
+<p>
+20 yards each leg
+</p>
+
+<p>
+<a href="https://www.youtube.com/embed/0BPaYtKq76M">https://www.youtube.com/embed/0BPaYtKq76M</a>
+<img src="https://img.youtube.com/vi/0BPaYtKq76M/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Repeatedly leap off the same leg as high and as far as possible</li>
+<li>Use your arms for momentum</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org80daa50" class="outline-3">
+<h3 id="org80daa50">B. 3-Step Approach Jumps</h3>
+<div class="outline-text-3" id="text-org80daa50">
+<p>
+<a href="https://www.youtube.com/embed/ldBS5OCXVTk">https://www.youtube.com/embed/ldBS5OCXVTk</a>
+<img src="https://img.youtube.com/vi/ldBS5OCXVTk/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Reach up with the arm opposite the leg pushing off the ground for maximum reach height (layup style)</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org4163dcd" class="outline-3">
+<h3 id="org4163dcd">C. 5-10-5 Linear Drill</h3>
+<div class="outline-text-3" id="text-org4163dcd">
+<p>
+<a href="https://www.youtube.com/embed/hdD8O9katw4">https://www.youtube.com/embed/hdD8O9katw4</a>
+<img src="https://img.youtube.com/vi/hdD8O9katw4/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>5 yards sprint, 10 yards quick backpedal, 5 yards accelerate</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgfd2c77e" class="outline-3">
+<h3 id="orgfd2c77e">D. Accelerate and decelerate</h3>
+<div class="outline-text-3" id="text-orgfd2c77e">
+<p>
+<a href="https://www.youtube.com/embed/j_9qk0MJ4Fw">https://www.youtube.com/embed/j_9qk0MJ4Fw</a>
+<img src="https://img.youtube.com/vi/j_9qk0MJ4Fw/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Accelerate as quickly as possible to maximum speed.</li>
+<li>Decelerate to walking by the time you get to the end point</li>
+<li>Allow yourself to decellerate natually. do not force yourself to decellerate more quickly than you are capable.</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org98e5e71" class="outline-2">
+<h2 id="org98e5e71">Conditioning 1 &amp; 2</h2>
+<div class="outline-text-2" id="text-org98e5e71">
+</div>
+<div id="outline-container-org38f8f62" class="outline-3">
+<h3 id="org38f8f62">Conditioning 1: Multidirectional</h3>
+</div>
+<div id="outline-container-orgd085af7" class="outline-3">
+<h3 id="orgd085af7">A. 160 yard shuttles</h3>
+<div class="outline-text-3" id="text-orgd085af7">
+<p>
+<a href="https://www.youtube.com/embed/cpAnh4vAmrA">https://www.youtube.com/embed/cpAnh4vAmrA</a>
+<img src="https://img.youtube.com/vi/cpAnh4vAmrA/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>40 yards down, 40 yards back and repeat.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org13ce8a3" class="outline-3">
+<h3 id="org13ce8a3">B. 5-10-5 shuttle, five frog jumps and repeat</h3>
+<div class="outline-text-3" id="text-org13ce8a3">
+<p>
+<a href="https://www.youtube.com/embed/57fJcrpPif8">https://www.youtube.com/embed/57fJcrpPif8</a>
+<img src="https://img.youtube.com/vi/57fJcrpPif8/hqdefault.jpg" alt="hqdefault.jpg" />
+</p>
+
+<ul class="org-ul">
+<li>Get your butt low. Touch the ground on the frog jumps if possible</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org9e5ea9c" class="outline-3">
+<h3 id="org9e5ea9c">Conditioning 2: Linear / Recovery</h3>
+</div>
+<div id="outline-container-org74696ee" class="outline-3">
+<h3 id="org74696ee">A. Run at 80% sprint speed</h3>
+<div class="outline-text-3" id="text-org74696ee">
+<ul class="org-ul">
+<li>20 seconds of running, 40 seconds rest (preferably walking)</li>
+<li>repeat as comfortable to moderately difficult. (start with about 10-12 reps. more or less if needed)</li>
+<li>focus on running form. If perfect form cannot be maintained, stop!</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
