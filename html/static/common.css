@@ -21,7 +21,7 @@ body {
     width: 482px;
     margin: auto;
     margin-bottom: 50px;
-    margin-top: 50px;
+    margin-top: 20px;
     border-radius: 5px;
     padding: 20px 30px;
     box-shadow: 11px 11px 20px -5px  rgba(0,0,0,0.4);
@@ -50,5 +50,36 @@ a {
 }
 
 a:hover {
-    text-shadow: 2px 2px 2px lightgrey;
+    color: #62be69;
+}
+
+img {
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    width: 70%;
+}
+
+table, td, th {
+    padding: 3px;
+    margin: auto;
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-color: steelblue;
+    border-width: 2px;
+}
+
+table {
+    box-shadow: 1px 1px 20px -5px  rgba(0,0,0,0.4);
+}
+
+ol, ul {
+    padding: 0;
+    margin-left: 15px;
+}
+
+li {
+    padding: 2px;
 }
