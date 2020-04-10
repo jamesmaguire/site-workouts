@@ -1,0 +1,37 @@
+#+TITLE: Beach Conditioning 1 & 2
+#+SUBTITLE: uap-pre-season-1
+#+SETUPFILE: ../workout.setup
+#+HTML_LINK_UP: uap-pre-season-1.html
+
+
+* Conditioning 1
+
+    This should be preceded by the [[https://www.ultyresults.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
+
+*  A. Shuffle
+
+     [[https://www.youtube.com/embed/aIEw4tUr1ys]]
+     [[https://img.youtube.com/vi/aIEw4tUr1ys/hqdefault.jpg]]
+
+     -   about 10 yards
+
+*  B. Short Shuttle
+
+     -   This can vary, but I do 5 yards, 10 yards
+
+*  C. Forward, Back, Spin, Sprint
+
+     [[https://www.youtube.com/embed/WHHYJO_Koyo]]
+     [[https://img.youtube.com/vi/WHHYJO_Koyo/hqdefault.jpg]]
+
+
+
+* Conditioning 2
+
+    -   Run at about 80% of your full sprint speed for 20 seconds. Rest for
+      40 seconds. This is one rep.
+    -   Pick up where you left off in Off-Season Phase 5, or choose
+      somewhere between 10-16 reps as your starting point. Don't kill
+      yourself on these; this is supposed to be an easier workout and you
+      should not be sore the next day.
+    -   Add 2 reps each week.

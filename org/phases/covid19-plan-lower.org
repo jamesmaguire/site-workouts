@@ -1,0 +1,48 @@
+#+TITLE: Lower
+#+SUBTITLE: covid19-plan
+#+SETUPFILE: ../workout.setup
+#+HTML_LINK_UP: covid19-plan.html
+
+   | Sets | Sequence              | Rest | Rest between sets |
+   |------+-----------------------+------+-------------------|
+   |    3 | 8x2xA1 - 20xA2 - 8xA3 | 30 s | 60 s              |
+   |    3 | 20xB1 - 8xB2          | 0 s  | 30 s              |
+
+* A1. Front foot elevated paused split squat
+    https://www.youtube.com/watch?v=MNzBPh5oJeI
+    https://img.youtube.com/vi/MNzBPh5oJeI/hqdefault.jpg
+
+    - 8 reps per leg
+    - Timing is 3s down, 2s hold, 2s up, 0s hold
+    - Torso vertical, front knee maintains position (no backward/forward tracking)
+* A2. Front box squat w/ ankle extension
+    https://www.youtube.com/watch?v=X8ioiXYQ6Mc
+    https://img.youtube.com/vi/X8ioiXYQ6Mc/hqdefault.jpg
+
+    - 20 reps
+    - Reach butt back to tap bench/box (about knee level)
+    - Fast/explosive no rest between reps
+* A3. Glute bridges w/ walking feet
+    https://www.youtube.com/watch?v=y-KB3TMN2mY
+    https://img.youtube.com/vi/y-KB3TMN2mY/hqdefault.jpg
+
+    - 8 reps
+    - Timing is 2s up, 2s hold, alternate legs (1s each), 2s down, 0s hold
+    - Raise using glutes, hold while lifting left leg, then right leg, then down
+    - Tight glutes to prevent sagging or rotating during leg raises
+* B1. Standing calf raises
+    https://www.youtube.com/watch?v=-aPRGxbST7g
+    https://img.youtube.com/vi/-aPRGxbST7g/hqdefault.jpg
+
+    - 20 reps (if too easy, 10 left leg only + 10 right leg only)
+    - Fast/explosive as possible without jumping
+    - Squeeze calves at top for full contraction
+* B2. Standing hip flexion
+    https://www.youtube.com/watch?v=VI5t7nVw__o
+    https://img.youtube.com/vi/VI5t7nVw__o/hqdefault.jpg
+
+    - 8 reps
+    - Place foot on bench/chair for about 90deg angle
+    - Pull top leg up past 90deg keeping hips level
+    - Timing is 1s up, 3s hold, 1s down, 0s hold
+

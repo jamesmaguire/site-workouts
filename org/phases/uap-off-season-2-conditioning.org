@@ -1,0 +1,22 @@
+#+TITLE: Conditioning
+#+SUBTITLE: uap-off-season-2
+#+SETUPFILE: ../workout.setup
+#+HTML_LINK_UP: uap-off-season-2.html
+
+   *The conditioning this phase is meant to be more restorative than taxing.* It's not supposed to be hard. We are just maintaining a bit of what you've got and getting blood circulating to help with the recovery from your lifting and plyometric sessions.
+
+   You will be running intervals of a 1:1 work : rest ratio. Thirty seconds running, thirty seconds of walking. Running should be done at about 70% sprint speed or about what your timed mile pace would be. It is a run, not a jog. But also not a sprint. The purpose is to run at a pace that elicits good running form. Run at the pace that has you naturally landing on the mid or forefoot. No heel striking of shuffling or anything other than good, happy running form!
+
+   Start with about 15-20 reps. This workout should be preceeded by the linear warmup. So though it is a short workout, your heart rate will still be elevated for over 20 minutes.
+
+* This is what your training log looks like this phase:
+    [[https://s3.amazonaws.com/kajabi-media/assets/projects/10479/assets_bag/original/ph2conditioningtable.png?1346355132]]
+
+* Other options
+    Because conditioning is not the focus of this phase, feel free to do some other type of conditioning of your choice. Just don't do anything that prevents your full recovery by the next leg lifting day or SAQ workout.
+
+    1. [A Multidirectional Movement
+    Workout.](http://melissasultimatefitness.com/2011/complete-multidirectional-movement-workout/) Has more variety. A good choice if you're not playing ultimate at the moment. Do the movements at lower intensity than shown on the blog.
+
+    2. [Other Interval
+    Protocols.](http://melissasultimatefitness.com/2010/interval-training-for-cardiovascular-fitness-part-iii-three-interval-protocols-ive-used-successfully/) Any of these can work just fine for your conditioning this phase. Try them all!

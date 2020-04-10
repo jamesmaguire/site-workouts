@@ -1,0 +1,105 @@
+#+TITLE: The Power of a good Warmup
+#+SUBTITLE: uap-warmups
+#+SETUPFILE: ../workout.setup
+#+HTML_LINK_UP: uap-warmups.html
+
+
+   The UAP has such strong programming...it would be a shame to not get all the benefits you can from following it! I'm a strong believer in the power of a short warm up specific to the movement you're going to be doing - you want great range of motion, less stress on your joints and the right musculature working during your session. Rolling on a foam roller for a couple minutes and then jumping into training is not your best bet - here's a breakdown of what I consider to be the best bang-for-your-buck warm up movements for some of the different program days! :)
+
+   First of all, I can't recommend [[https://www.youtube.com/embed/2S3Y1PSrVJU][lacrosse balls]] [[https://img.youtube.com/vi/2S3Y1PSrVJU][lacrosse balls/hqdefault.jpg]] enough...you don't need to hit every point in your body, but spend a couple minutes targeting the places you're tight, in addition to musculature you're going to be using that day. Do this before doing mobility/activation work! If you're naturally mobile in a certain area (ankles, hips) you can totally skip those mobility exercises and shorten your warm up.
+
+* Upper
+    *Mobility:* *shoulders, mid-back*
+
+    - [[https://www.youtube.com/embed/watch?v=tl9TBVxWS6A][Band Pull]]
+    [[https://img.youtube.com/vi/watch?v=tl9TBVxWS6A][Band Pull/hqdefault.jpg]]
+    - [[https://www.youtube.com/embed/LyWVNOfEnCc][Mid-Back Mobility]]
+    [[https://img.youtube.com/vi/LyWVNOfEnCc][Mid-Back Mobility/hqdefault.jpg]]
+
+    *Activation: core*
+
+    - [[https://www.youtube.com/embed/watch?v=z_Edc-R8EVU][Crawling]]
+    [[https://img.youtube.com/vi/watch?v=z_Edc-R8EVU][Crawling/hqdefault.jpg]]
+
+* SAQ
+    *Mobility: *hips, ankles*
+
+    - [[https://www.youtube.com/embed/watch?v=LRLAqL6blT0][Frog Stretch]]
+    [[https://img.youtube.com/vi/watch?v=LRLAqL6blT0][Frog Stretch/hqdefault.jpg]] (hips)
+    - [[https://www.youtube.com/embed/Bqt_R2HX6KQ][Ankle Mobility]]
+    [[https://img.youtube.com/vi/Bqt_R2HX6KQ][Ankle Mobility/hqdefault.jpg]]
+
+    *Activation: glutes, core*
+
+    - [[https://www.youtube.com/embed/watch?v=wdbl1tmmm4E][Circle Band]]
+    [[https://img.youtube.com/vi/watch?v=wdbl1tmmm4E][Circle Band/hqdefault.jpg]] (glutes)
+    - [[https://www.youtube.com/embed/watch?v=z_Edc-R8EVU][Crawling]]
+    [[https://img.youtube.com/vi/watch?v=z_Edc-R8EVU][Crawling/hqdefault.jpg]] (core)
+
+* Lower
+    *Mobility: hips, ankles, shoulders*
+
+    - [[https://www.youtube.com/embed/watch?v=LRLAqL6blT0][Frog Stretch]]
+    [[https://img.youtube.com/vi/watch?v=LRLAqL6blT0][Frog Stretch/hqdefault.jpg]] (hips)
+    - [[https://www.youtube.com/embed/Bqt_R2HX6KQ][Ankle Mobility]]
+    [[https://img.youtube.com/vi/Bqt_R2HX6KQ][Ankle Mobility/hqdefault.jpg]]
+    - [[https://www.youtube.com/embed/watch?v=tl9TBVxWS6A][Band Pull]]
+    [[https://img.youtube.com/vi/watch?v=tl9TBVxWS6A][Band Pull/hqdefault.jpg]]
+
+    *Activation: glutes, core*
+
+    - [[https://www.youtube.com/embed/watch?v=OszMdC2rPf8][Running Man]]
+    [[https://img.youtube.com/vi/watch?v=OszMdC2rPf8][Running Man/hqdefault.jpg]] (glutes)
+    - [[https://www.youtube.com/embed/watch?v=z_Edc-R8EVU][Crawling]]
+    [[https://img.youtube.com/vi/watch?v=z_Edc-R8EVU][Crawling/hqdefault.jpg]] (core)
+
+* Core
+    *Mobility: mid-back, shoulders, hips*
+
+    - [[https://www.youtube.com/embed/LyWVNOfEnCc][Mid-Back Mobility]]
+    [[https://img.youtube.com/vi/LyWVNOfEnCc][Mid-Back Mobility/hqdefault.jpg]]
+    - [[https://www.youtube.com/embed/watch?v=tl9TBVxWS6A][Band Pull]]
+    [[https://img.youtube.com/vi/watch?v=tl9TBVxWS6A][Band Pull/hqdefault.jpg]]
+    - [[https://www.youtube.com/embed/watch?v=LRLAqL6blT0][Frog Stretch]]
+    [[https://img.youtube.com/vi/watch?v=LRLAqL6blT0][Frog Stretch/hqdefault.jpg]] (hips)
+
+    *Activation: core*
+
+    - [[https://www.youtube.com/embed/watch?v=z_Edc-R8EVU][Crawling]]
+    [[https://img.youtube.com/vi/watch?v=z_Edc-R8EVU][Crawling/hqdefault.jpg]]
+
+* Full Body
+    *Mobility: hips, mid-back*
+
+    - [[https://www.youtube.com/embed/watch?v=LRLAqL6blT0][Frog Stretch]]
+    [[https://img.youtube.com/vi/watch?v=LRLAqL6blT0][Frog Stretch/hqdefault.jpg]] (hips)
+    - [[https://www.youtube.com/embed/LyWVNOfEnCc][Mid-Back Mobility]]
+    [[https://img.youtube.com/vi/LyWVNOfEnCc][Mid-Back Mobility/hqdefault.jpg]]
+
+    *Activation: glutes, core*
+
+    - [[https://www.youtube.com/embed/watch?v=OszMdC2rPf8][Running Man]]
+    [[https://img.youtube.com/vi/watch?v=OszMdC2rPf8][Running Man/hqdefault.jpg]] (glute activation)
+    - [[https://www.youtube.com/embed/watch?v=z_Edc-R8EVU][Crawling]]
+    [[https://img.youtube.com/vi/watch?v=z_Edc-R8EVU][Crawling/hqdefault.jpg]] (core)
+
+* Conditioning
+    *Mobility: hips, ankle, shoulders*
+
+    - [[https://www.youtube.com/embed/watch?v=LRLAqL6blT0][Frog Stretch]]
+    [[https://img.youtube.com/vi/watch?v=LRLAqL6blT0][Frog Stretch/hqdefault.jpg]] (hips)
+    - [[https://www.youtube.com/embed/Bqt_R2HX6KQ][Ankle Mobility]]
+    [[https://img.youtube.com/vi/Bqt_R2HX6KQ][Ankle Mobility/hqdefault.jpg]]
+    - [[https://www.youtube.com/embed/watch?v=tl9TBVxWS6A][Band Pull]]
+    [[https://img.youtube.com/vi/watch?v=tl9TBVxWS6A][Band Pull/hqdefault.jpg]]
+
+    *Activation: glutes, core*
+
+    - [[https://www.youtube.com/embed/watch?v=wdbl1tmmm4E][Circle Band]]
+    [[https://img.youtube.com/vi/watch?v=wdbl1tmmm4E][Circle Band/hqdefault.jpg]] (glutes)
+    - [[https://www.youtube.com/embed/watch?v=z_Edc-R8EVU][Crawling]]
+    [[https://img.youtube.com/vi/watch?v=z_Edc-R8EVU][Crawling/hqdefault.jpg]] (core)
+
+    Just a few minutes at the beginning of your time at the gym/on the field can make all the difference - add a thoughtful warm up to the thoughtful programming and you're WINNING. :)
+*
+    Have a question? Send it to [[[/cdn-cgi/l/email-protection][email protected]]]{.__cf_email__} with the subject line "The Knowledge!"

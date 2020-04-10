@@ -1,0 +1,33 @@
+#+TITLE: Conditioning
+#+SUBTITLE: uap-five-body-weight-workouts
+#+SETUPFILE: ../workout.setup
+#+HTML_LINK_UP: uap-five-body-weight-workouts.html
+
+   Do each exercise for AMRAP in 30 seconds. Move immediately to the next exercise. Alternatively rest 15-30 seconds before moving on to the next exercise.
+
+   The first week, go through the circuit only once. This workout can be done up to three times per week.
+
+   Progress can be measured by:
+
+   Decreasing your rest between exercises or not resting at all
+   Doing more repetitions
+   Finishing the circuit more quickly (same number reps, done faster)
+   Building up to going through the circuit up to three times.
+
+   The circuit consists of these exercises (click for an explanation of form, along with a demo)
+
+   https://www.youtube.com/watch?v=DbvYVs_TgZM
+
+   1. Rocking Push-up
+   2. Hindu Squat
+   3. Monkey Crawl
+   4. Fireman drill
+   5. Catch squat
+   6. Sprinter-start Lunge
+   7. Donkey Kick
+   8. Karate-kick lunge
+   9. Catcher squat
+   10. Alternate Crab/Bear
+   11. Helicopter
+   12. Glute Bridge
+

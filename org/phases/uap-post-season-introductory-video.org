@@ -1,0 +1,6 @@
+#+TITLE: Introductory Video
+#+SUBTITLE: uap-post-season
+#+SETUPFILE: ../workout.setup
+#+HTML_LINK_UP: uap-post-season.html
+
+   After all of your hard work, it's time for a much needed break! Post Season, give yourself permission to slack off a bit, guilt free. Still, it's important to stay active. Now's a great time for playing other sports, learning something new, and refreshing your mind and body.

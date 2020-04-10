@@ -1,0 +1,27 @@
+#+TITLE: Conditioning 1 & 2
+#+SUBTITLE: uap-in-season-1
+#+SETUPFILE: ../workout.setup
+#+HTML_LINK_UP: uap-in-season-1.html
+
+
+*  Conditioning 1: 80/20
+
+    -   Run at about 80% of your full sprint speed for 20 seconds. Rest for
+      40 seconds. This is one rep.
+    -   Pick up where you left off in Phase 5. Or choose somewhere between
+      10-16 reps as your starting point. Don't kill yourself on these.
+      This is supposed to be an easier workout and you should not be sore
+      the next day.
+    -   Add 2 reps each week.
+
+*  Conditioning 2: 160 Shuttle
+
+    -   This workout should be preceded by the Nonlinear Warmup unless doing
+      the workout after practice, league game, or pickup.
+    -   Set up two cones 40 yards apart or use the width of an ultimate
+      field. Sprinting to the other side and back twice is a 160 shuttle.
+      All reps should be performed as fast as possible.
+    -   For Week 1 complete 2 sets of 2 reps and 1 set of 1 rep. Rest 90s
+      between reps and 120s between sets.
+    -   For all other weeks complete 3 sets of 2 reps each. Still rest 90s
+      between reps and 120s between sets.

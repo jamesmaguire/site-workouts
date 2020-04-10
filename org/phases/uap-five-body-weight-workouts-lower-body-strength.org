@@ -1,0 +1,48 @@
+#+TITLE: Lower body strength
+#+SUBTITLE: uap-five-body-weight-workouts
+#+SETUPFILE: ../workout.setup
+#+HTML_LINK_UP: uap-five-body-weight-workouts.html
+
+   Today we are doing three pairs of exercises. The first two are primarily for warm up and activation. The second pair is the primary focus of the workout. The last pair of exercises are supporting exercises, one primarily for injury risk reduction.
+
+   You might prefer sneakers or you might prefer doing these exercises barefoot on a yoga mat or other soft surface. Either way will work.
+
+   | Sets | Sequence              | Rest | Rest between sets |
+   |------+-----------------------+------+-------------------|
+   |    3 | 10xA1 - 10xA2         | 0 s  | 60 s              |
+   |    3 | 10xB1 - 10xB2         | 0 s  | 60 s              |
+   |    3 | 20xC1 - 10xC2         | 0 s  | 60 s              |
+
+* A1. Plie Squat
+   This exercise is important because it targets the inner thigh/groin in the kind of way that it is used for activities like marking, lunging, and throwing with the hip externally rotated.
+
+* A2. Cook Hip Lift
+   Excellent exercise for glute activation. Keeping the knee tight toward the chest prevents compensation patterns like arching the back instead of squeezing the glute.
+
+   https://fast.wistia.net/embed/iframe/yc232uhyji
+   https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/qzRw2sywT6aNBNDPmtMT_file.jpg
+
+* B1. Catch Squat
+   Excellent exercise for glute activation. Keeping the knee tight toward the chest prevents compensation patterns like arching the back instead of squeezing the glute.
+
+   https://fast.wistia.net/embed/iframe/qtse3dilo1
+   https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/kRDwtsqcQ6yNBXUBgchX_file.jpg
+
+* B2. Sprinter Start & Step
+   The goal of this exercise is to explosively use your glutes and hamstring to push you forward.
+
+   https://fast.wistia.net/embed/iframe/vk8l2ta2cr
+   https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/DV5osbxBTli8nHTcvWaX_sprinterStart_1.jpg
+
+* C1. Calf Raises
+   Go the whole way up on the balls of your feet for a full range of motion.
+
+   https://fast.wistia.net/embed/iframe/tnvkk11yzi
+   https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/vu58ri6TAGkJbR0CwXRA_calfRaises_1.jpg
+
+* C2. Standing Hip Flexion
+   This exercise targets the hip flexor. The use of a bench or chair is mainly so that you can tell if your leg is slowly dropping lower.
+
+   https://fast.wistia.net/embed/iframe/wdgkodyyxf
+   https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/nZYA3zBhQsy7gu7rHFt1_hipFlexion_1.jpg
+
