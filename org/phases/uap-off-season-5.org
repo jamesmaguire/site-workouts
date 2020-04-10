@@ -1,7 +1,7 @@
 #+TITLE: UAP Off-season 5
 #+SETUPFILE: ../phase.setup
 
-- [[file:uap-off-season-5-schedule-workout-logs.org][Schedule & Workout Logs]]
+
 - [[file:uap-off-season-5-lower-1.org][Lower 1]]
 - [[file:uap-off-season-5-lower-2.org][Lower 2]]
 - [[file:uap-off-season-5-upper-1.org][Upper 1]]
@@ -12,7 +12,7 @@
 - [[file:uap-off-season-5-conditioning-1-2.org][Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-   [[file:uap-pdfs/offseason5.pdf][Workout log (pdf)]]
+   [[file:../uap-pdfs/offseason5.pdf][Workout log (pdf)]]
 
    This is the last phase in which we focus on Strength, and we'll add a
    bit of an emphasis on strength endurance. Because of this, you won't

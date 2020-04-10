@@ -1,7 +1,7 @@
 #+TITLE: UAP In-season 1
 #+SETUPFILE: ../phase.setup
 
-- [[file:uap-in-season-1-schedule-workout-logs.org][Schedule & Workout Logs]]
+
 - [[file:uap-in-season-1-lower.org][Lower]]
 - [[file:uap-in-season-1-upper.org][Upper]]
 - [[file:uap-in-season-1-saq-1-2.org][SAQ 1 & 2]]
@@ -10,7 +10,7 @@
 - [[file:uap-in-season-1-core-2.org][Core 2]]
 
 * Schedule & Workout Logs
-   [[file:uap-pdfs/inseason1.pdf][Workout log (pdf)]]
+   [[file:../uap-pdfs/inseason1.pdf][Workout log (pdf)]]
 
    This schedule assumes weekend practices or tournaments.
 

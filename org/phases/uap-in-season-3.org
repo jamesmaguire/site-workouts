@@ -1,7 +1,7 @@
 #+TITLE: UAP In-season 3
 #+SETUPFILE: ../phase.setup
 
-- [[file:uap-in-season-3-schedule-workout-logs.org][Schedule & Workout Logs]]
+
 - [[file:uap-in-season-3-lower.org][Lower]]
 - [[file:uap-in-season-3-upper.org][Upper]]
 - [[file:uap-in-season-3-core-1.org][Core 1]]
@@ -10,7 +10,7 @@
 - [[file:uap-in-season-3-conditioning-1-2.org][Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-   [[file:uap-pdfs/inseason3.pdf][Workout log (pdf)]]
+   [[file:../uap-pdfs/inseason3.pdf][Workout log (pdf)]]
 
    -   In this phase we are assuming that you are doing more ultimate
      specific training. Athletic training time decreases while ultimate

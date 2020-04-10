@@ -1,7 +1,6 @@
 #+TITLE: UAP Preparation
 #+SETUPFILE: ../phase.setup
 
-- [[file:uap-preparation-schedule-workout-logs.org][Schedule & Workout Logs]]
 - [[file:uap-preparation-strength-1.org][Strength 1]]
 - [[file:uap-preparation-strength-2.org][Strength 2]]
 - [[file:uap-preparation-core-1.org][Core 1]]
@@ -10,7 +9,7 @@
 - [[file:uap-preparation-conditioning-1-2.org][Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-   [[file:uap-pdfs/preparation0.pdf][Workout log (pdf)]]
+   [[file:../uap-pdfs/preparation0.pdf][Workout log (pdf)]]
 ** General Principles
      We are assuming each lifting session is about one hour, core circuits are about 10-15 minutes, each conditioning session is about 30-45 minutes (including warmup), and each SAQ session is about 20 minutes (including warmup).
 

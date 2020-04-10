@@ -1,7 +1,7 @@
 #+TITLE: UAP Off-season 6
 #+SETUPFILE: ../phase.setup
 
-- [[file:uap-off-season-6-schedule-workout-logs.org][Schedule & Workout Logs]]
+
 - [[file:uap-off-season-6-lower-1.org][Lower 1]]
 - [[file:uap-off-season-6-lower-2.org][Lower 2]]
 - [[file:uap-off-season-6-upper-1.org][Upper 1]]
@@ -12,7 +12,7 @@
 - [[file:uap-off-season-6-conditioning-1-2.org][Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-   [[file:uap-pdfs/offseason6.pdf][Workout log (pdf)]]
+   [[file:../uap-pdfs/offseason6.pdf][Workout log (pdf)]]
 
    - Keep 2 days between the legs and SAQ Day 1 workouts.
    - Conditioning workouts can always be done after the leg strength

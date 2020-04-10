@@ -1,7 +1,7 @@
 #+TITLE: UAP Off-season 2
 #+SETUPFILE: ../phase.setup
 
-- [[file:uap-off-season-2-schedule-workout-logs.org][Schedule & Workout Logs]]
+
 - [[file:uap-off-season-2-lower-1.org][Lower 1]]
 - [[file:uap-off-season-2-lower-2.org][Lower 2]]
 - [[file:uap-off-season-2-upper-1.org][Upper 1]]
@@ -12,7 +12,7 @@
 - [[file:uap-off-season-2-conditioning.org][Conditioning]]
 
 * Schedule & Workout Logs
-   [[file:uap-pdfs/offseason2.pdf][Workout log (pdf)]]
+   [[file:../uap-pdfs/offseason2.pdf][Workout log (pdf)]]
 
    The explosive lifts on leg days and SAQ Day 1 are the most important parts of this phase. Schedule around them, prioritize them each week and make sure you are recovered in time to perform these workouts. Lifting is scheduled four times per week this phase.
 

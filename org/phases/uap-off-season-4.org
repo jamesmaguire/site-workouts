@@ -1,7 +1,7 @@
 #+TITLE: UAP Off-season 4
 #+SETUPFILE: ../phase.setup
 
-- [[file:uap-off-season-4-schedule-workout-logs.org][Schedule & Workout Logs]]
+
 - [[file:uap-off-season-4-lower-1.org][Lower 1]]
 - [[file:uap-off-season-4-lower-2.org][Lower 2]]
 - [[file:uap-off-season-4-upper-1.org][Upper 1]]
@@ -12,7 +12,7 @@
 - [[file:uap-off-season-4-conditioning-1-2.org][Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-   [[file:uap-pdfs/offseason4.pdf][Workout log (pdf)]]
+   [[file:../uap-pdfs/offseason4.pdf][Workout log (pdf)]]
 
    The explosive lifts on leg days and SAQ Workouts are the most important parts of this phase. Schedule around them, prioritise them each week and make sure you are recovered in time to perform these workouts.
 

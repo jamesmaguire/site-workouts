@@ -1,7 +1,7 @@
 #+TITLE: UAP Pre-season 1
 #+SETUPFILE: ../phase.setup
 
-- [[file:uap-pre-season-1-schedule-workout-logs.org][Schedule & Workout Logs]]
+
 - [[file:uap-pre-season-1-lower.org][Lower]]
 - [[file:uap-pre-season-1-upper.org][Upper]]
 - [[file:uap-pre-season-1-full-body.org][Full Body]]
@@ -14,7 +14,7 @@
 - [[file:uap-pre-season-1-beach-conditioning-1-2.org][Beach Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-   [[file:uap-pdfs/preseason1.pdf][Workout log (pdf)]]
+   [[file:../uap-pdfs/preseason1.pdf][Workout log (pdf)]]
 
    Starting preseason work. The emphasis this phase is strength endurance
    and conditioning. Strength training is around 8-10RM range and rest

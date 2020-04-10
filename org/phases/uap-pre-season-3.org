@@ -1,7 +1,7 @@
 #+TITLE: UAP Pre-season 3
 #+SETUPFILE: ../phase.setup
 
-- [[file:uap-pre-season-3-schedule-workout-logs.org][Schedule & Workout Logs]]
+
 - [[file:uap-pre-season-3-lower.org][Lower]]
 - [[file:uap-pre-season-3-upper.org][Upper]]
 - [[file:uap-pre-season-3-core-1.org][Core 1]]
@@ -10,7 +10,7 @@
 - [[file:uap-pre-season-3-grass-conditioning-1,-2-3.org][Grass Conditioning 1, 2 & 3]]
 
 * Schedule & Workout Logs
-   [[file:uap-pdfs/preseason3.pdf][Workout log (pdf)]]
+   [[file:../uap-pdfs/preseason3.pdf][Workout log (pdf)]]
 
    This is the third, and last, phase of preseason work. The main goals are cardiovascular conditioning and starting to incorporate some sport-specific skills. We are cutting back the lifting to 2 days per week to allow more time for conditioning. In this way, this is a bit of a transition phase between preseason and in season. So if your amount of playing is increasing, that's fine.
 
