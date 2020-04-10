@@ -1,8 +1,9 @@
 #+TITLE: UAP Five body weight workouts
 #+SETUPFILE: ../phase.setup
 
-- [[file:uap-five-body-weight-workouts-upper-body-strength.org][Upper body strength]]
-- [[file:uap-five-body-weight-workouts-conditioning.org][Conditioning]]
-- [[file:uap-five-body-weight-workouts-lower-body-strength.org][Lower body strength]]
-- [[file:uap-five-body-weight-workouts-conditioning.org][Conditioning]]
-- [[file:uap-five-body-weight-workouts-full-body-strength-endurance.org][Full body strength endurance]]
+- [[file:uap-five-body-weight-workouts-upper-body-strength.org][Day 1: Upper body strength]]
+- [[file:uap-five-body-weight-workouts-conditioning.org][Day 2: Conditioning]]
+- [[file:uap-five-body-weight-workouts-lower-body-strength.org][Day 3: Lower body strength]]
+- [[file:uap-five-body-weight-workouts-conditioning.org][Day 4: Conditioning]]
+- [[file:uap-five-body-weight-workouts-full-body-strength-endurance.org][Day 5: Full body strength endurance]]
+- [[file:uap-five-body-weight-workouts-core.org][Day 6 (bonus): Core]]
