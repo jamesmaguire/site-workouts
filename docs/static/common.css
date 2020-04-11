@@ -1,26 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
-html {
-    min-height: 100%
-}
-
 body {
     font-family: Open Sans, Lora, serif;
     font-size: 12px;
     line-height: 1.4;
     background: linear-gradient(to bottom right,
                                 #024d75,#516781,#526980);
-                                /* rgba(251,250,246,1), */
-                                /* rgba(212,206,191,1)); */
 }
 
 #content {
     color: #565656;
     background: #FFF;
     width: 482px;
+    max-width: 80%;
     margin: auto;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
     margin-top: 20px;
     border-radius: 5px;
     padding: 20px 30px;
