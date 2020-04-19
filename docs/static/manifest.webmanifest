@@ -1,0 +1,16 @@
+{
+  "theme_color": "#024d75",
+  "background_color": "#024d75",
+  "description": "Ultimate workout plans and programs",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "Workouts",
+  "short_name": "Workouts",
+  "start_url": "/www-workouts/index.html"
+}
