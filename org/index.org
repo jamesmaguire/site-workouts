@@ -5,6 +5,7 @@
 
 - [[file:phases/uap-five-body-weight-workouts.org][UAP Five body weight workouts]]
 - [[file:phases/covid19-plan.org][COVID19 plan]]
+- [[file:phases/uap-6-week.org][UAP 6 Week Speed, Agility and Conditioning]]
 - [[file:phases/uap-preparation.org][UAP Preparation]]
 - [[file:phases/uap-off-season-1.org][UAP Off-season 1]]
 - [[file:phases/uap-off-season-2.org][UAP Off-season 2]]

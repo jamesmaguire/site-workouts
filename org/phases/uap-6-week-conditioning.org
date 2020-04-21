@@ -1,0 +1,34 @@
+#+TITLE: Conditioning
+#+SUBTITLE: uap-six-week-speed-agility-conditioning
+#+SETUPFILE: ../workout.setup
+#+HTML_LINK_UP: uap-6-week.html
+
+For the quantities of sets, reps, and timing of each exercise please see the [[../../docs/uap-pdfs/6week.pdf][PDF]] Exercises below are listed in the order they appear in the program.
+
+* 1. The 80/20 workout
+  https://www.youtube.com/embed/cZA1U6-Etb4
+  https://img.youtube.com/vi/cZA1U6-Etb4/hqdefault.jpg
+  
+  This is the standard workout you'll be using for the duration of the program.
+
+  Before your first linear workout (the 80/20 workout) you need to find your starting point. The starting number of reps will be dependent on your current fitness level. The 80/20 workout consists of running at 80% sprint speed for 20 seconds and walking for 40 seconds.&nbsp; The goal of your first workout will be to experiment with pacing and choose a starting point for your workouts.&nbsp; The running pace should feel like a fast run more than a sprint. You should be at a speed at which you’re landing a bit forward of the midfoot.&nbsp; It should feel like a pleasant speed, not a forced speed. Try to maintain this speed for every repetition.&nbsp; When it starts feeling like you are struggling to maintain good form or that you are not able to complete a repetition at the same pace, then stop.&nbsp; This will be your test number and you will start your workouts at this number minus 2 repetitions. You will be starting at a number of repetitions lower than what you can do to ensure complete recovery between workouts.
+
+  Read the pdf to see how many reps you should do throughout the whole program, whenever it says "test," you are using the initial test number.
+
+* 2. Skater Hops
+  See pdf for reps and work:rest intervals
+  
+  https://www.youtube.com/embed/OTUNlc93jac
+  https://img.youtube.com/vi/OTUNlc93jac/hqdefault.jpg
+
+* 3. 150 shuttles
+  Can be done as 160 shuttles instead if you're using an ultimate field for your workouts. Attempt to change direction with right and left handed turns an equal number of times.
+  
+  https://www.youtube.com/embed/ZAuBWII18p4
+  https://img.youtube.com/vi/ZAuBWII18p4/hqdefault.jpg
+  
+* 4. Zig Zag Sprints
+  Set up 2 rows of cones about 5-7 yards apart. In each row, three cones are placed about 8 yards apart. The two rows are off set by 4 yards to create a zig-zag pattern.
+
+  https://www.youtube.com/embed/YdgYleKenGM
+  https://img.youtube.com/vi/YdgYleKenGM/hqdefault.jpg
