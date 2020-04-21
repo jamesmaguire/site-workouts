@@ -11,7 +11,7 @@
 - [[file:uap-in-season-1-alt-conditioning-1-2.org][Conditioning 1 & 2]]
 
 * Schedule and Workout Logs
-   [[file:../uap-pdfs/inseason1alt.pdf][Workout log (pdf)]]
+   [[file:../../docs/uap-pdfs/inseason1alt.pdf][Workout log (pdf)]]
 
    This Schedule assumes weekend practice or tournaments.
    [[https://s3.amazonaws.com/kajabi-storefronts-production/products/18202/images/i8nyjvlLT4yPxqNTG2en_Screen_Shot_2018-06-05_at_7.04.10_PM.png]]

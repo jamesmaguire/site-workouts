@@ -10,7 +10,7 @@
 - [[file:uap-taper-conditioning-1-2.org][Conditioning 1 & 2]]
   
 * Schedule & Workout Logs
-   [[file:../uap-pdfs/taper0.pdf][Workout log (pdf)]]
+   [[file:../../docs/uap-pdfs/taper0.pdf][Workout log (pdf)]]
    
    On this page you'll find everything you need to complete the
    conditioning sessions of the Taper Phase. If you ever need a lighter day

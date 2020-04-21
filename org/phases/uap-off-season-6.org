@@ -12,7 +12,7 @@
 - [[file:uap-off-season-6-conditioning-1-2.org][Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-   [[file:../uap-pdfs/offseason6.pdf][Workout log (pdf)]]
+   [[file:../../docs/uap-pdfs/offseason6.pdf][Workout log (pdf)]]
 
    - Keep 2 days between the legs and SAQ Day 1 workouts.
    - Conditioning workouts can always be done after the leg strength

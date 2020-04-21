@@ -9,7 +9,7 @@
 - [[file:uap-preparation-conditioning-1-2.org][Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-   [[file:../uap-pdfs/preparation0.pdf][Workout log (pdf)]]
+   [[file:../../docs/uap-pdfs/preparation0.pdf][Workout log (pdf)]]
 ** General Principles
      We are assuming each lifting session is about one hour, core circuits are about 10-15 minutes, each conditioning session is about 30-45 minutes (including warmup), and each SAQ session is about 20 minutes (including warmup).
 

@@ -1,7 +1,7 @@
 #+TITLE: UAP Six Week Speed, Agility and Conditioning
 #+SETUPFILE: ../phase.setup
 
-[[file:../uap-pdfs/6week.pdf][Workout log (pdf)]]
+[[file:../../docs/uap-pdfs/6week.pdf][Workout log (pdf)]]
    
 - [[file:uap-6-week-warmup.org][Warmup]]
 - [[file:uap-6-week-speed-1-2.org][Speed (week 1-2)]]

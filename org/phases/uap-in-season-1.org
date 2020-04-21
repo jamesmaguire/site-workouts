@@ -10,7 +10,7 @@
 - [[file:uap-in-season-1-core-2.org][Core 2]]
 
 * Schedule & Workout Logs
-   [[file:../uap-pdfs/inseason1.pdf][Workout log (pdf)]]
+   [[file:../../docs/uap-pdfs/inseason1.pdf][Workout log (pdf)]]
 
    This schedule assumes weekend practices or tournaments.
 
