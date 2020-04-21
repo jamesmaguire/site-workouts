@@ -1,14 +1,13 @@
 #+TITLE: UAP Off-season 1
 #+SETUPFILE: ../phase.setup
 
-
 - [[file:uap-off-season-1-lower.org][Lower]]
 - [[file:uap-off-season-1-full-body.org][Full Body]]
 - [[file:uap-off-season-1-upper.org][Upper]]
 - [[file:uap-off-season-1-core-1.org][Core 1]]
 - [[file:uap-off-season-1-core-2.org][Core 2]]
-- [[file:uap-off-season-1-saq-1:-latera.org][SAQ 1: Latera]]
-- [[file:uap-off-season-1-saq-2:-linea.org][SAQ 2: Linea]]
+- [[file:uap-off-season-1-saq-1.org][SAQ 1: Lateral]]
+- [[file:uap-off-season-1-saq-2.org][SAQ 2: Linear]]
 - [[file:uap-off-season-1-conditioning-1-2.org][Conditioning 1 & 2]]
 - [[file:uap-off-season-1-indoor-conditioning-1-2.org][Indoor Conditioning 1 & 2]]
 

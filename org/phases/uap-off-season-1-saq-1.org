@@ -1,0 +1,33 @@
+#+TITLE: SAQ 1: Lateral
+#+SUBTITLE: uap-off-season-1
+#+SETUPFILE: ../workout.setup
+#+HTML_LINK_UP: uap-off-season-1.html
+
+These workouts are to be preceded by the [[./uap-warmups-nonlinear-warmup.org][Nonlinear Warmup]].
+
+* A. Non-countermovement Lateral Hops
+
+  https://www.youtube.com/embed/Zf17iGdNpaU
+  https://img.youtube.com/vi/Zf17iGdNpaU/hqdefault.jpg
+
+  - Be sure to pause between each jump
+  - Aim for height and stick the landing between hurdles or cones
+
+* B. Lateral Skips
+
+  https://www.youtube.com/embed/DxdXUL6W_I0
+  https://img.youtube.com/vi/DxdXUL6W_I0/hqdefault.jpg
+
+  - Really push off the outside of the foot.
+  - Be explosive and aim for maximum lateral displacement.
+
+* C. Lateral Start
+
+  https://www.youtube.com/embed/TSidobyZYac
+  https://img.youtube.com/vi/TSidobyZYac/hqdefault.jpg
+
+  - Start hips facing perpendicular to the direction of sprinting
+  - Shift your weight in the direction you want to go and push off the
+    inside foot
+  - Within three strides, hips should be completely facing the direction
+    of sprinting
