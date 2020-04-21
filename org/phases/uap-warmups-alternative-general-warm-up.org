@@ -3,25 +3,22 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-warmups.html
 
-   There is no one perfect warm up. How much of a warm up you need will depend on things like your age, the time of day, or how you're feeling on a particular day.  Below are some exercises you can do for a warm up to prepare for any of the lactic of alactic sessions.
+There is no one perfect warm up. How much of a warm up you need will depend on things like your age, the time of day, or how you're feeling on a particular day.  Below are some exercises you can do for a warm up to prepare for any of the lactic of alactic sessions.
 
-   In general, you just want to do progress from less intense movement to movement that is the same intensity of the workout you will be doing.  You'll see I start with mobility drills and move into sprint and multidirectional movement drills.  There are about a million options to choose from for warm-up drills.  Feel free to wander from what is presented below.
+In general, you just want to do progress from less intense movement to movement that is the same intensity of the workout you will be doing.  You'll see I start with mobility drills and move into sprint and multidirectional movement drills.  There are about a million options to choose from for warm-up drills.  Feel free to wander from what is presented below.
 
 * Some Mobility First
-    *(click each to display more info)*
-
-* 1. Five Point Lunge
-* 2. High Knee Hugs
-* 3. Walking Quad Stretch
-* 4. Three Point SLDL
-     or combo of 3 and 4 in the Walking quad stretch plus SLDL
+  1. Five Point Lunge
+  2. High Knee Hugs
+  3. Walking Quad Stretch
+  4. Three Point SLDL or combo of 3 and 4 in the Walking quad stretch plus SLDL
 
 * Now warm up the body
-* 1. Power Skips
-* 2. High Knees
-* 3. Butt Kicks
-* 4. Cariocas
-* 5. Shuffles
-* 6. Leprechaun Skips
-* 7. Zombie Kicks
-* 8. Five step bursts
+  1. Power Skips
+  2. High Knees
+  3. Butt Kicks
+  4. Cariocas
+  5. Shuffles
+  6. Leprechaun Skips
+  7. Zombie Kicks
+  8. Five step bursts

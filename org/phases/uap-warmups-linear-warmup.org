@@ -3,44 +3,38 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-warmups.html
 
-   This is a complete warm-up to do before a linear conditioning session
-
-   part 1
-
-   part 2
-
-   part 3
+This is a complete warm-up to do before a linear conditioning session
 
 * Part 1: Physical Warm Up
-    Do each of these over 35m / 40 yards...
+  Do each of these over 35m / 40 yards...
 
-    1.  Run at 60% speed
-    2.  Backwards run with large steps
-    3.  Run at 60% speed
-    4.  Backward skip
-    5.  Casual (low intensity) skip
-    6.  Low intensity shuffle. Change direction you're facing every four steps
+  1. Run at 60% speed
+  2. Backwards run with large steps
+  3. Run at 60% speed
+  4. Backward skip
+  5. Casual (low intensity) skip
+  6. Low intensity shuffle. Change direction you're facing every four steps
 
 * Part 2: Mobility
-    All exercises for about 15m/20 yards unless otherwise stated..
+  All exercises for about 15m/20 yards unless otherwise stated..
 
-    1.  lunge and twist (10 yards)
-    2.  lunge and reach (10 yards)
-    3.  high knee hugs
-    4.  cook hip lifts (5 reps each leg. 2 second hold at the top)
-    5.  walking quad stretch
-    6.  frog squats (10 reps)
-    7.  penguin walks (forward 10 yards and backwards 10 yards)
-    8.  drinking birds
+  1. lunge and twist (10 yards)
+  2. lunge and reach (10 yards)
+  3. high knee hugs
+  4. cook hip lifts (5 reps each leg. 2 second hold at the top)
+  5. walking quad stretch
+  6. frog squats (10 reps)
+  7. penguin walks (forward 10 yards and backwards 10 yards)
+  8. drinking birds
 
 * Part 3: Nervous System
-    All exercises about 15 yards unless specified otherwise. *Allow some rest between exercises* so that you can move at high intensity, especially in exercises 4-8. The purpose here is NOT to elevate your heart rate, but to prepare your nervous system to recuit the maximum number of fast twitch muscle fibers as quickly as possible.
+  All exercises about 15 yards unless specified otherwise. *Allow some rest between exercises* so that you can move at high intensity, especially in exercises 4-8. The purpose here is NOT to elevate your heart rate, but to prepare your nervous system to recuit the maximum number of fast twitch muscle fibers as quickly as possible.
 
-    1.  power skip
-    2.  bounding
-    3.  high knee run
-    4.  butt kicks
-    5.  cycle kicks
-    6.  Zombie Walks
-    7.  arms plus high knee hold
-    8.  5 step accelerations (1-2 reps each leg forward)
+  1. power skip
+  2. bounding
+  3. high knee run
+  4. butt kicks
+  5. cycle kicks
+  6. Zombie Walks
+  7. arms plus high knee hold
+  8. 5 step accelerations (1-2 reps each leg forward)
