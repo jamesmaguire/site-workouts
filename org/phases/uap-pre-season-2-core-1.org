@@ -6,16 +6,16 @@
 
 * A1. Deadbug
 
-    [[https://www.youtube.com/embed/Lbod9T8LvJc]]
-    [[https://img.youtube.com/vi/Lbod9T8LvJc/hqdefault.jpg]]
+    {{{youtube(Lbod9T8LvJc)}}}
+
 
     -   Maintain natural curve in the spine
     -   Move slowly with core conrtansly enganged
 
 * A2. Flat Lateral extension
 
-    [[https://www.youtube.com/embed/dmF-RPmsN6g]]
-    [[https://img.youtube.com/vi/dmF-RPmsN6g/hqdefault.jpg]]
+    {{{youtube(dmF-RPmsN6g)}}}
+
 
     -   This position is most easily obtained with a partner sitting on your
       feet. I have also done it hooking my lower foot under a 60 pound
@@ -26,8 +26,8 @@
 
 * A3. V-ups
 
-    [[https://www.youtube.com/embed/EDm1xprt2sY]]
-    [[https://img.youtube.com/vi/EDm1xprt2sY/hqdefault.jpg]]
+    {{{youtube(EDm1xprt2sY)}}}
+
 
     -   Move under control with core engaged
     -   Aim hands to mid calf or above

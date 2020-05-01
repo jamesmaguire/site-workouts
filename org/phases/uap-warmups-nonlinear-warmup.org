@@ -19,36 +19,36 @@
 
 * Part 2: Mobility
   1. Five Point Lunge
-     [[https://www.youtube.com/embed/bBdSuretuHY]]
-     [[https://img.youtube.com/vi/bBdSuretuHY/hqdefault.jpg]]
+     {{{youtube(bBdSuretuHY)}}}
+
 
    2. High Knee Hugs
-     [[https://www.youtube.com/embed/Re1haQf-j3o]]
-     [[https://img.youtube.com/vi/Re1haQf-j3o/hqdefault.jpg]]
+     {{{youtube(Re1haQf-j3o)}}}
+
 
   3. Figure 4 Hugs
-     [[https://www.youtube.com/embed/qOoeym_Xu0s]]
-     [[https://img.youtube.com/vi/qOoeym_Xu0s/hqdefault.jpg]]
+     {{{youtube(qOoeym_Xu0s)}}}
+
 
   4. Three Point SLDL (3 times each leg)
-     [[https://www.youtube.com/embed/r1hPMviYbLQ]]
-     [[https://img.youtube.com/vi/r1hPMviYbLQ/hqdefault.jpg]]
+     {{{youtube(r1hPMviYbLQ)}}}
+
 
   5. Walking Quad Stretch
-     [[https://www.youtube.com/embed/05TNLo-d2i0]]
-     [[https://img.youtube.com/vi/05TNLo-d2i0/hqdefault.jpg]]
+     {{{youtube(05TNLo-d2i0)}}}
+
 
   6. Side-Side-Middle Lunge
-     [[https://www.youtube.com/embed/jJslMqcz_XQ]]
-     [[https://img.youtube.com/vi/jJslMqcz_XQ/hqdefault.jpg]]
+     {{{youtube(jJslMqcz_XQ)}}}
+
 
   7. Standing T-Spine Rotation (5 rotations each side)
-     [[https://www.youtube.com/embed/xi48S_aB_FA]]
-     [[https://img.youtube.com/vi/xi48S_aB_FA/hqdefault.jpg]]
+     {{{youtube(xi48S_aB_FA)}}}
+
 
   8. Penguin Walk (about 10 yards forward and 10 yards backward)
-     [[https://www.youtube.com/embed/cJvms057Rg4]]
-     [[https://img.youtube.com/vi/cJvms057Rg4/hqdefault.jpg]]
+     {{{youtube(cJvms057Rg4)}}}
+
 
 * Part 3: Nervous System
   All exercises should be done for about 15 yards unless otherwise noted. *Allow some rest between exercises* so that you can move at high intensity with quick, light feet. The purpose here is NOT to elevate your heart rate, but to prepare your nervous system to recuit the maximum number of fast twitch muscle fibers as quickly as possible.
@@ -57,8 +57,8 @@
   2. Lateral high knee skip
   3. Backwards run
   4. Lateral skips
-     [[https://www.youtube.com/embed/6dBXyLSqN4Y]]
-     [[https://img.youtube.com/vi/6dBXyLSqN4Y/hqdefault.jpg]]
+     {{{youtube(6dBXyLSqN4Y)}}}
+
 
   5. Falling Leaf
   6. Leprechaun Skips

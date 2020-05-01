@@ -6,8 +6,8 @@
 
 * A1. Leg Lowering
 
-    [[https://www.youtube.com/embed/U6Z2BbzQo1k]]
-    [[https://img.youtube.com/vi/U6Z2BbzQo1k/hqdefault.jpg]]
+    {{{youtube(U6Z2BbzQo1k)}}}
+
 
     -   Engage the lower core to keep hips stable.
     -   Check for hip motion in the lowering leg by placing your hand above
@@ -19,8 +19,8 @@
 
 * A2. Paused Rotation Plank
 
-    [[https://www.youtube.com/embed/ULxjyAzHpbs]]
-    [[https://img.youtube.com/vi/ULxjyAzHpbs/hqdefault.jpg]]
+    {{{youtube(ULxjyAzHpbs)}}}
+
 
     -   From the plank position rotate to a side plank, then back to center,
       then to the other side.
@@ -28,8 +28,8 @@
 
 * A3. Diagonal Plate Raise
 
-    [[https://www.youtube.com/embed/f0JinAZhiug]]
-    [[https://img.youtube.com/vi/f0JinAZhiug/hqdefault.jpg]]
+    {{{youtube(f0JinAZhiug)}}}
+
 
     -   Start in a squat position with the plate held to one side.
     -   Lift the plate diagonally and up over the opposite shoulder.

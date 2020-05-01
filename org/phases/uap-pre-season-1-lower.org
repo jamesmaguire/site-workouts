@@ -6,15 +6,15 @@
 
 *  A1. Front DB Box Squat with Ankle Extension
 
-    [[https://www.youtube.com/embed/kiki_7Rdl_s]]
-    [[https://img.youtube.com/vi/kiki_7Rdl_s/hqdefault.jpg]]
+    {{{youtube(kiki_7Rdl_s)}}}
+
 
     -   Reach your butt back and just tap the bench or box
 
 *  A2. Accentuated Dumbbell RDL
 
-    [[https://www.youtube.com/embed/At9rCSBgy8c]]
-    [[https://img.youtube.com/vi/At9rCSBgy8c/hqdefault.jpg]]
+    {{{youtube(At9rCSBgy8c)}}}
+
 
     -   Get your hips back. Knees bent at about 10-15 degrees.
     -   Maintain a neutral spine!
@@ -27,8 +27,8 @@
 
 *  B1. Backward DB Lunge
 
-    [[https://www.youtube.com/embed/BYbEvMbOfMI]]
-    [[https://img.youtube.com/vi/BYbEvMbOfMI/hqdefault.jpg]]
+    {{{youtube(BYbEvMbOfMI)}}}
+
 
     -   Step back with one leg. Do not let your knee touch the ground
     -   Explosively step forward again using primarily the front leg
@@ -38,8 +38,8 @@
 
 *  B2. Cable Pull Through
 
-    [[https://www.youtube.com/embed/94mnZc1fTiQ]]
-    [[https://img.youtube.com/vi/94mnZc1fTiQ/hqdefault.jpg]]
+    {{{youtube(94mnZc1fTiQ)}}}
+
 
     -   feet are slightly wider than shoulder width. knees are bent about 10
       degrees.
@@ -48,8 +48,8 @@
 
 *  C1. Wall Overhead Iso Squat
 
-    [[https://www.youtube.com/embed/Cmgb_eKAYyU]]
-    [[https://img.youtube.com/vi/Cmgb_eKAYyU/hqdefault.jpg]]
+    {{{youtube(Cmgb_eKAYyU)}}}
+
 
     -   Keep elbows locked out
     -   Knees near 90 degrees

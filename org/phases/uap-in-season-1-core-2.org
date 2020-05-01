@@ -14,8 +14,8 @@
 
 *  Stir the pot (6 circles each direction. Add 2 reps each week)
 
-    [[https://www.youtube.com/embed/FTumEC5enyU]]
-    [[https://img.youtube.com/vi/FTumEC5enyU/hqdefault.jpg]]
+    {{{youtube(FTumEC5enyU)}}}
+
 
     -   Maintain a good plank position with shoulders hips and ankles in a
       line.
@@ -26,8 +26,8 @@
 
 *  Stability Ball Pike (8-10 reps. add 2 reps each week)
 
-    [[https://www.youtube.com/embed/jAA5x303V-A]]
-    [[https://img.youtube.com/vi/jAA5x303V-A/hqdefault.jpg]]
+    {{{youtube(jAA5x303V-A)}}}
+
 
     -   Start in a plank position with shoulders retracted.
     -   With the core engaged, initiate the movement of the ball with your
@@ -37,8 +37,8 @@
 
 *  Stability Ball DB Paused Russian Twist (8 reps each side. Add 2 each week)
 
-    [[https://www.youtube.com/embed/T88m08cIlPo]]
-    [[https://img.youtube.com/vi/T88m08cIlPo/hqdefault.jpg]]
+    {{{youtube(T88m08cIlPo)}}}
+
 
     -   Use your glutes to keep your hips up
     -   Keeping your shoulders retracted and arms straight, rotate to one

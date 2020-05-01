@@ -5,16 +5,16 @@
 
 * A1. Reverse Crunch
 
-    [[https://www.youtube.com/embed/p8UWxC8wxvQ]]
-    [[https://img.youtube.com/vi/p8UWxC8wxvQ/hqdefault.jpg]]
+    {{{youtube(p8UWxC8wxvQ)}}}
+
 
     -   Initiate movement from the lower abs
     -   Aim hips and feet straight up, not over the head.
 
 * A2. Side Plank with Hip Abduction
 
-    [[https://www.youtube.com/embed/1_k1Vr9xe4I]]
-    [[https://img.youtube.com/vi/1_k1Vr9xe4I/hqdefault.jpg]]
+    {{{youtube(1_k1Vr9xe4I)}}}
+
 
     -   Shoulders, hips and ankles in a line
     -   Raise the top leg
@@ -22,8 +22,8 @@
 
 * A3. Inchworm
 
-    [[https://www.youtube.com/embed/JE7JVgtMIJ8]]
-    [[https://img.youtube.com/vi/JE7JVgtMIJ8/hqdefault.jpg]]
+    {{{youtube(JE7JVgtMIJ8)}}}
+
 
     -   Shoulders, hips, and ankles form a straight line at all times
     -   Walk your hands out, hold for two, walk back to a pushup position

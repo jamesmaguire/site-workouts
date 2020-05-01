@@ -6,8 +6,8 @@
 
 *  A1. Backward Medicine Ball Toss
 
-    [[https://www.youtube.com/embed/ySGKPo_1VT0]]
-    [[https://img.youtube.com/vi/ySGKPo_1VT0/hqdefault.jpg]]
+    {{{youtube(ySGKPo_1VT0)}}}
+
 
     -   Bring the ball down between your legs
     -   Think about pushing your hips back as if in a deadlift
@@ -17,8 +17,8 @@
 
 *  A2. One Leg Medicine Ball Toss
 
-    [[https://www.youtube.com/embed/WFRybTvdVnM]]
-    [[https://img.youtube.com/vi/WFRybTvdVnM/hqdefault.jpg]]
+    {{{youtube(WFRybTvdVnM)}}}
+
 
     -   Stand on one leg holding the medicine ball in both hands.
     -   The throw should feel like a single leg countermovement jump except
@@ -30,8 +30,8 @@
 
 *  B1. Deadlift
 
-    [[https://www.youtube.com/embed/PrBBOFdOHk8]]
-    [[https://img.youtube.com/vi/PrBBOFdOHk8/hqdefault.jpg]]
+    {{{youtube(PrBBOFdOHk8)}}}
+
 
     -   Shoulders retracted.
     -   Spine neutral. Look at a spot on the floor about 5 feet in front of
@@ -42,8 +42,8 @@
 
 *  B2. Box Jumps
 
-    [[https://www.youtube.com/embed/tVnU1kwoIMM]]
-    [[https://img.youtube.com/vi/tVnU1kwoIMM/hqdefault.jpg]]
+    {{{youtube(tVnU1kwoIMM)}}}
+
 
     -   Find a bench, box, or other object that allows you to land on it
       with a knee angle of greater than 90 degrees. Otherwise, the surface
@@ -52,8 +52,8 @@
 
 *  C1. Paused Heel-Elevated Hip Lift
 
-    [[https://www.youtube.com/embed/EFLq2nE7up8]]
-    [[https://img.youtube.com/vi/EFLq2nE7up8/hqdefault.jpg]]
+    {{{youtube(EFLq2nE7up8)}}}
+
 
     -   Elevate the foot of the working leg on a step
     -   Can be elevated on a Bosu ball for added difficulty.
@@ -62,8 +62,8 @@
 
 *  C2. Speed Calf Raises
 
-    [[https://www.youtube.com/embed/mRI2dU4Dcgc]]
-    [[https://img.youtube.com/vi/mRI2dU4Dcgc/hqdefault.jpg]]
+    {{{youtube(mRI2dU4Dcgc)}}}
+
 
     -   Place your midfoot on a step or box. Hold onto something to help
       your balance.

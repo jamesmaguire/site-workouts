@@ -6,8 +6,8 @@
 
 *  A1. Russian Step Ups
 
-    [[https://www.youtube.com/embed/jSnoZlYUttg]]
-    [[https://img.youtube.com/vi/jSnoZlYUttg/hqdefault.jpg]]
+    {{{youtube(jSnoZlYUttg)}}}
+
 
     -   find a rhythm, be explosive, drive the knee up!
     -   Use the foot on the bench to initiate and drive the movement. Don't
@@ -15,8 +15,8 @@
 
 *  A2. Squat to Press
 
-    [[https://www.youtube.com/embed/1O8jb9KLtf4]]
-    [[https://img.youtube.com/vi/1O8jb9KLtf4/hqdefault.jpg]]
+    {{{youtube(1O8jb9KLtf4)}}}
+
 
     -   Find a rhythm and move quickly
     -   Aim for parallel in the squats
@@ -25,8 +25,8 @@
 
 *  B1. DB King Squat
 
-    [[https://www.youtube.com/embed/7P6tu--nyVA]]
-    [[https://img.youtube.com/vi/7P6tu--nyVA/hqdefault.jpg]]
+    {{{youtube(7P6tu--nyVA)}}}
+
 
     -   First part of the exercise is a pendulum RDL. Keep knee at about 10
       degree bend. Get the back leg's thigh close to parallel.
@@ -40,8 +40,8 @@
 
 *  B2. Diagonal Walking DB Lunge
 
-    [[https://www.youtube.com/embed/o9MgO2kMiAM]]
-    [[https://img.youtube.com/vi/o9MgO2kMiAM/hqdefault.jpg]]
+    {{{youtube(o9MgO2kMiAM)}}}
+
 
     -   Keep toes and hips forward. Lunge diagonal to the forward direction.
     -   It may become difficult to hold the dumbells. You can either think

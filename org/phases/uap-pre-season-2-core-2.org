@@ -6,8 +6,8 @@
 
 * A1. Pre-stretch Crunches with DB
 
-    [[https://www.youtube.com/embed/E3tF_mL21wY]]
-    [[https://img.youtube.com/vi/E3tF_mL21wY/hqdefault.jpg]]
+    {{{youtube(E3tF_mL21wY)}}}
+
 
     -   Feel a slight stretch in the abs at the initiation of the movement
     -   Contract the abs until the back is flat
@@ -16,8 +16,8 @@
 
 * A2. 1-arm 1-leg cable row
 
-    [[https://www.youtube.com/embed/hJRCQh02QHI]]
-    [[https://img.youtube.com/vi/hJRCQh02QHI/hqdefault.jpg]]
+    {{{youtube(hJRCQh02QHI)}}}
+
 
     -   Keep hips level.
     -   Resist rotation of the torso and hips as you pull.
@@ -27,8 +27,8 @@
 
 * A3. Kneeling Half-chop
 
-    [[https://www.youtube.com/embed/X6GjkIVLE9Q]]
-    [[https://img.youtube.com/vi/X6GjkIVLE9Q/hqdefault.jpg]]
+    {{{youtube(X6GjkIVLE9Q)}}}
+
 
     -   Knee closest to the cable column is bent
     -   Look at the weight as you pull it across your body

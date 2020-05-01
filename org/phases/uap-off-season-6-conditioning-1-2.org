@@ -12,8 +12,8 @@
 
 * Low Squat Jumps
 
-     [[https://www.youtube.com/embed/BamolXOPM8s]]
-     [[https://img.youtube.com/vi/BamolXOPM8s/hqdefault.jpg]]
+     {{{youtube(BamolXOPM8s)}}}
+
 
      -   Stay low! knees close to 90 degrees
      -   Minimal ground contact time
@@ -23,8 +23,8 @@
 
 * Shuttle Complex
 
-     [[https://www.youtube.com/embed/rc5xOevyKWQ]]
-     [[https://img.youtube.com/vi/rc5xOevyKWQ/hqdefault.jpg]]
+     {{{youtube(rc5xOevyKWQ)}}}
+
 
      -   Sprints, clap pushups, and frog jumps
 

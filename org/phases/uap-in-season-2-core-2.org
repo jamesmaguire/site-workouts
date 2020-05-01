@@ -9,8 +9,8 @@
 
 *  B1. Kneeling Half Chop
 
-    [[https://www.youtube.com/embed/IR7smihfMTE]]
-    [[https://img.youtube.com/vi/IR7smihfMTE/hqdefault.jpg]]
+    {{{youtube(IR7smihfMTE)}}}
+
 
     -   Knee farthest from cable column is bent
     -   Look at the weight as you pull it across your body*
@@ -18,8 +18,8 @@
 
 *  B2. Kneeling Overhead Pallof Press
 
-    [[https://www.youtube.com/embed/tGgkOlsd7Pc]]
-    [[https://img.youtube.com/vi/tGgkOlsd7Pc/hqdefault.jpg]]
+    {{{youtube(tGgkOlsd7Pc)}}}
+
 
     -   Knee closest to the cable column is bent
     -   Attmept to hold the cable handle straight above your head without
@@ -27,8 +27,8 @@
 
 *  B3. Crunch and Reach
 
-    [[https://www.youtube.com/embed/WERESBqkrd0]]
-    [[https://img.youtube.com/vi/WERESBqkrd0/hqdefault.jpg]]
+    {{{youtube(WERESBqkrd0)}}}
+
 
     -   maintain neutrality of lower spine by reaching UP instead of
       crunching toward your knees.

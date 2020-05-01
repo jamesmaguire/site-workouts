@@ -6,39 +6,39 @@
 
 *  A1. Incline Barbell Bench Press
 
-    [[https://www.youtube.com/embed/6oeMI_uz1cM]]
-    [[https://img.youtube.com/vi/6oeMI_uz1cM/hqdefault.jpg]]
+    {{{youtube(6oeMI_uz1cM)}}}
+
 
     -   Keep shoulders retracted.
 
 *  A2. Prone Grip Inverse Row
 
-    [[https://www.youtube.com/embed/pb3tuBcHxl8]]
-    [[https://img.youtube.com/vi/pb3tuBcHxl8/hqdefault.jpg]]
+    {{{youtube(pb3tuBcHxl8)}}}
+
 
     -   Get chest all the way up to the bar
     -   Maintain plank position without flaring the rib cage
 
 *  B1. Feet Elevated Pushups
 
-    [[https://www.youtube.com/embed/joo2MaxFqWM]]
-    [[https://img.youtube.com/vi/joo2MaxFqWM/hqdefault.jpg]]
+    {{{youtube(joo2MaxFqWM)}}}
+
 
     -   Maintain perfect plank position
     -   Hands placement wherever is comfortable
 
 *  B2. DB Row
 
-    [[https://www.youtube.com/embed/4NZMfd6bRt8]]
-    [[https://img.youtube.com/vi/4NZMfd6bRt8/hqdefault.jpg]]
+    {{{youtube(4NZMfd6bRt8)}}}
+
 
     -   Keep shoulders level
     -   Pull weight until upper arm is parallel to the torso
 
 *  C1. Paused Incline Y to T
 
-    [[https://www.youtube.com/embed/2Z-Ib02O8J0]]
-    [[https://img.youtube.com/vi/2Z-Ib02O8J0/hqdefault.jpg]]
+    {{{youtube(2Z-Ib02O8J0)}}}
+
 
     -   Initiate the movement at the shoulders. Thumbs face up to the Y
       position.

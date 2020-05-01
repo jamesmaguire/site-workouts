@@ -10,15 +10,15 @@
 
 * A. Extended Pro Lateral
 
-     [[https://www.youtube.com/embed/MBXRV2E0owc]]
-     [[https://img.youtube.com/vi/MBXRV2E0owc/hqdefault.jpg]]
+     {{{youtube(MBXRV2E0owc)}}}
+
 
      -   5, 10, 15, 20, 10 (5, 10, 15, 20 is shown)
 
 * B. Zig-zag sprints
 
-     [[https://www.youtube.com/embed/YdgYleKenGM]]
-     [[https://img.youtube.com/vi/YdgYleKenGM/hqdefault.jpg]]
+     {{{youtube(YdgYleKenGM)}}}
+
 
      -   Set up 2 rows of cones about 5-7 yards apart.  In each row, three
        cones are placed about 8 yards apart. The two rows are offset by 4
@@ -29,13 +29,13 @@
 
 * A. Shuttle with Throwing - Backhand
 
-     [[https://www.youtube.com/embed/vLcyN6ZUlns]]
-     [[https://img.youtube.com/vi/vLcyN6ZUlns/hqdefault.jpg]]
+     {{{youtube(vLcyN6ZUlns)}}}
+
 
 * B. Shuttle with Throwing - Backhand forehand
 
-     [[https://www.youtube.com/embed/hSaaVxxsxB8]]
-     [[https://img.youtube.com/vi/hSaaVxxsxB8/hqdefault.jpg]]
+     {{{youtube(hSaaVxxsxB8)}}}
+
 
      -   Distances are 10, 20, 30 yards
 
@@ -43,5 +43,5 @@
 
      -   Mark for 20 seconds. stall your partner twice.
 
-     [[https://www.youtube.com/embed/AYjPT2s6wmc]]
-     [[https://img.youtube.com/vi/AYjPT2s6wmc/hqdefault.jpg]]
+     {{{youtube(AYjPT2s6wmc)}}}
+

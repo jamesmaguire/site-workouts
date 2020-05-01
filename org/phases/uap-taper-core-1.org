@@ -8,16 +8,16 @@
 
 *  A1. Stability Ball Ab Roll Out
 
-    [[https://www.youtube.com/embed/M7hR9Oe9t2U]]
-    [[https://img.youtube.com/vi/M7hR9Oe9t2U/hqdefault.jpg]]
+    {{{youtube(M7hR9Oe9t2U)}}}
+
 
     -   Engage the core and do not hyperextend the back
     -   Pause at the extended position
 
 *  A2. Stability Ball Band Russian Twist
 
-    [[https://www.youtube.com/embed/T88m08cIlPo]]
-    [[https://img.youtube.com/vi/T88m08cIlPo/hqdefault.jpg]]
+    {{{youtube(T88m08cIlPo)}}}
+
 
     -   Use your glutes to keep your hips up
     -   Keeping your shoulders retracted and arms straight, rotate to one
@@ -25,8 +25,8 @@
 
 *  A3. Stability Ball Alt Pull In
 
-    [[https://www.youtube.com/embed/lgcDUHlaQTM]]
-    [[https://img.youtube.com/vi/lgcDUHlaQTM/hqdefault.jpg]]
+    {{{youtube(lgcDUHlaQTM)}}}
+
 
     -   Right leg, left leg, both legs = one rep
     -   Do all reps with both legs if this version is too difficult

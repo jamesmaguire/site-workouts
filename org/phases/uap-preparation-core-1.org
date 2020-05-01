@@ -7,21 +7,21 @@
 
    Perform the circuit 3 times through with norest or minimal rest between exercises and sets.
 * Plank (25 seconds. Add 5 seconds each week)
-    [[https://www.youtube.com/embed/mqOPjpN-1go]]
-    [[https://img.youtube.com/vi/mqOPjpN-1go/hqdefault.jpg]]
+    {{{youtube(mqOPjpN-1go)}}}
+
 
     - Shoulders hips and ankles should form a straight line.
     - Shoulders should be more retracted than rounded.
 
 * Oblique Bridge (8-10 each side. Add 2 reps each week)
-    [[https://www.youtube.com/embed/n4SvbcbG5tg]]
-    [[https://img.youtube.com/vi/n4SvbcbG5tg/hqdefault.jpg]]
+    {{{youtube(n4SvbcbG5tg)}}}
+
 
     - Contract your obliques to raise your hip from the floor to a side plank position.
 
 * Cook Hip Lift (6-8 reps. Add 2 reps each week)
-    [[https://www.youtube.com/embed/q0fX-i03fYE]]
-    [[https://img.youtube.com/vi/q0fX-i03fYE/hqdefault.jpg]]
+    {{{youtube(q0fX-i03fYE)}}}
+
 
     - Start with knees bent, both feet on the floor.
     - Pull one leg in tightly toward the chest.

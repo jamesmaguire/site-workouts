@@ -8,15 +8,15 @@
 
 * A. Mountain Climber
 
-     [[https://www.youtube.com/embed/EujScxvh4Uw]]
-     [[https://img.youtube.com/vi/EujScxvh4Uw/hqdefault.jpg]]
+     {{{youtube(EujScxvh4Uw)}}}
+
 
 
 
 * B. Forward Frog Jumps
 
-     [[https://www.youtube.com/embed/nhDXP6h33qM]]
-     [[https://img.youtube.com/vi/nhDXP6h33qM/hqdefault.jpg]]
+     {{{youtube(nhDXP6h33qM)}}}
+
 
 
 
@@ -24,18 +24,18 @@
 
 * A. Wide Fast Foot
 
-     [[https://www.youtube.com/embed/aJkw2WK-gA4]]
-     [[https://img.youtube.com/vi/aJkw2WK-gA4/hqdefault.jpg]]
+     {{{youtube(aJkw2WK-gA4)}}}
+
 
 
 
 * B. Side Zig Zag Grid
 
-     [[https://www.youtube.com/embed/MibJOtAmwy4]]
-     [[https://img.youtube.com/vi/MibJOtAmwy4/hqdefault.jpg]]
+     {{{youtube(MibJOtAmwy4)}}}
 
 
 
-     [[https://www.youtube.com/embed/rQeNk__Tvzw]]
-     [[https://img.youtube.com/vi/rQeNk__Tvzw/hqdefault.jpg]]
+
+     {{{youtube(rQeNk__Tvzw)}}}
+
 

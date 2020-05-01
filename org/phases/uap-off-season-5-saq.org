@@ -10,16 +10,16 @@
 
 *  A. Single Leg Lateral Line Hops
 
-    [[https://www.youtube.com/embed/DA-h-gnDcNM]]
-    [[https://img.youtube.com/vi/DA-h-gnDcNM/hqdefault.jpg]]
+    {{{youtube(DA-h-gnDcNM)}}}
+
 
     -   Focus on staying light and quick on your feet.
     -   Grount contact should be on the balls of your feet.
 
 *  B. Low Run to Sprint
 
-    [[https://www.youtube.com/embed/KtrjXwQuqnU]]
-    [[https://img.youtube.com/vi/KtrjXwQuqnU/hqdefault.jpg]]
+    {{{youtube(KtrjXwQuqnU)}}}
+
 
     -   Stay in the althetic position.
     -   Move quickly and lightly on the balls of your feet.
@@ -28,8 +28,8 @@
 
 *  C. Jab Step Agility to Cut
 
-    [[https://www.youtube.com/embed/_6k3XvTzuak]]
-    [[https://img.youtube.com/vi/_6k3XvTzuak/hqdefault.jpg]]
+    {{{youtube(_6k3XvTzuak)}}}
+
 
     -   Focus on good quality of movement.
     -   Move more quickly and more powerfully as you become more
@@ -38,8 +38,8 @@
 
 *  D. Waltz Agility to Cut
 
-    [[https://www.youtube.com/embed/GD_f0hbzGcs]]
-    [[https://img.youtube.com/vi/GD_f0hbzGcs/hqdefault.jpg]]
+    {{{youtube(GD_f0hbzGcs)}}}
+
 
     -   Focus on good quality of movement.
     -   Move more quickly and more powerfully as you become more

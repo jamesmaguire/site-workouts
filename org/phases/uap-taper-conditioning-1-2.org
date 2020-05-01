@@ -19,13 +19,13 @@
 
      Backhand
 
-     [[https://www.youtube.com/embed/vLcyN6ZUlns]]
-     [[https://img.youtube.com/vi/vLcyN6ZUlns/hqdefault.jpg]]
+     {{{youtube(vLcyN6ZUlns)}}}
+
 
      and forehand
 
-     [[https://www.youtube.com/embed/hSaaVxxsxB8]]
-     [[https://img.youtube.com/vi/hSaaVxxsxB8/hqdefault.jpg]]
+     {{{youtube(hSaaVxxsxB8)}}}
+
 
      -   Distances are 10, 20, 30 yards
 
@@ -37,8 +37,8 @@
 
 * B1. Skater Hops
 
-     [[https://www.youtube.com/embed/sRYnYJNCYpU]]
-     [[https://img.youtube.com/vi/sRYnYJNCYpU/hqdefault.jpg]]
+     {{{youtube(sRYnYJNCYpU)}}}
+
 
      -   Choose a distance at which you can reach the tops of the cones
        consistently for 30 seconds
@@ -51,8 +51,8 @@
 
 * B2. Shuffle
 
-     [[https://www.youtube.com/embed/hS3efBLyb-w]]
-     [[https://img.youtube.com/vi/hS3efBLyb-w/hqdefault.jpg]]
+     {{{youtube(hS3efBLyb-w)}}}
+
 
      -   Stay low throughout the shuffling
      -   Stay light on the balls of your feet

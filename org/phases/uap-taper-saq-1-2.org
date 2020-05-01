@@ -10,8 +10,8 @@
 
 * A. 5-10-5 drill
 
-     [[https://www.youtube.com/embed/lIq87ZhL8bE]]
-     [[https://img.youtube.com/vi/lIq87ZhL8bE/hqdefault.jpg]]
+     {{{youtube(lIq87ZhL8bE)}}}
+
 
      -   Alternate starting directions each set.
      -   First five yards, hips should remain mostly forward.
@@ -20,8 +20,8 @@
 
 * B. Zig-Zag Sprints
 
-     [[https://www.youtube.com/embed/YdgYleKenGM]]
-     [[https://img.youtube.com/vi/YdgYleKenGM/hqdefault.jpg]]
+     {{{youtube(YdgYleKenGM)}}}
+
 
      -   You should be using the jab step.
 
@@ -29,16 +29,16 @@
 
 * A. Counter-Movement Lateral Hops
 
-     [[https://www.youtube.com/embed/zsikQYzW1xw]]
-     [[https://img.youtube.com/vi/zsikQYzW1xw/hqdefault.jpg]]
+     {{{youtube(zsikQYzW1xw)}}}
+
 
      -   Use your arms to generate height.
      -   Land softly between the cones.
 
 * B. 3 Point Start
 
-     [[https://www.youtube.com/embed/j76bJSWSKzg]]
-     [[https://img.youtube.com/vi/j76bJSWSKzg/hqdefault.jpg]]
+     {{{youtube(j76bJSWSKzg)}}}
+
 
      -   Hips up. Feet should be closer to hands than you might think.
      -   Lean over the hand on the ground. You should feel that you are close

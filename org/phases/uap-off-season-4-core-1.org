@@ -4,23 +4,23 @@
 #+HTML_LINK_UP: uap-off-season-4.html
 
 * A1. Overhead Medicine Ball Carry
-    [[https://www.youtube.com/embed/CCl-GOORm1Y]]
-    [[https://img.youtube.com/vi/CCl-GOORm1Y/hqdefault.jpg]]
+    {{{youtube(CCl-GOORm1Y)}}}
+
 
     - Bend side to side while walking and holding medicine ball overhead.
     - Bend to the side of the forward foot.
     - This can be done with a dumbbell if you have no medicine ball
 
 * A2. One Arm Carry
-    [[https://www.youtube.com/embed/h0QZyB5mvkc]]
-    [[https://img.youtube.com/vi/h0QZyB5mvkc/hqdefault.jpg]]
+    {{{youtube(h0QZyB5mvkc)}}}
+
 
     - Use a heavy dumbbell
     - Walk 20 yards and back
 
 * A3. Prone Quadruped Bent Leg Lift
-    [[https://www.youtube.com/embed/muJEa4AIEM0]]
-    [[https://img.youtube.com/vi/muJEa4AIEM0/hqdefault.jpg]]
+    {{{youtube(muJEa4AIEM0)}}}
+
 
     - Keep back as stationary as possible while lifting the one leg up and back.
     - Heel should point to the sky

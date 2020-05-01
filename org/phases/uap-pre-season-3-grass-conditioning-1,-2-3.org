@@ -10,16 +10,16 @@
     The Tabata conditioning should be done no more than twice in a week. Your reps are simple: sprint for 20 seconds, rest for 10.
 * Conditioning 2: With Disc
 * A1. Kill Drill
-     [[https://www.youtube.com/embed/Oy1AoKkqJjM]]
-     [[https://img.youtube.com/vi/Oy1AoKkqJjM/hqdefault.jpg]]
+     {{{youtube(Oy1AoKkqJjM)}}}
+
 
 * A2. Marking & Pivoting
-     [[https://www.youtube.com/embed/AYjPT2s6wmc]]
-     [[https://img.youtube.com/vi/AYjPT2s6wmc/hqdefault.jpg]]
+     {{{youtube(AYjPT2s6wmc)}}}
+
 
 * A3. Full Body Shuttle
-     [[https://www.youtube.com/embed/U-6P_zMnABc]]
-     [[https://img.youtube.com/vi/U-6P_zMnABc/hqdefault.jpg]]
+     {{{youtube(U-6P_zMnABc)}}}
+
 
 * Conditioning 3: Linear & Recovery
     This should be an easy day. You'll run at about 70% of sprint speed (the pace of a fast mile) for 30seconds, then rest for seconds. That's one rep. Do however many reps feel comfortable.

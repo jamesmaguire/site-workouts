@@ -6,8 +6,8 @@
 
 *  A1. Barbell paused Rear Foot Elevated Split Squat
 
-    [[https://www.youtube.com/embed/QK3J4Xwv3Ww]]
-    [[https://img.youtube.com/vi/QK3J4Xwv3Ww/hqdefault.jpg]]
+    {{{youtube(QK3J4Xwv3Ww)}}}
+
 
     -   Back foot can be dorsiflexed or flat. whatever position is
       comfortable and stable is fine
@@ -17,8 +17,8 @@
 
 *  A2. Split squat jump for height
 
-    [[https://www.youtube.com/embed/Bo_Rg5fhZMQ]]
-    [[https://img.youtube.com/vi/Bo_Rg5fhZMQ/hqdefault.jpg]]
+    {{{youtube(Bo_Rg5fhZMQ)}}}
+
 
     -   Get low but do not let the back knee smash into the ground
     -   Jump as high as possible and switch which leg is forward mid-flight
@@ -27,8 +27,8 @@
 
 *  B1. Single Leg Barbell RDL
 
-    [[https://www.youtube.com/embed/d567Ek9MNK8]]
-    [[https://img.youtube.com/vi/d567Ek9MNK8/hqdefault.jpg]]
+    {{{youtube(d567Ek9MNK8)}}}
+
 
     -   Maintain a neutral spine. This is more important than how low you
       go!
@@ -44,8 +44,8 @@
 
 *  B2. Backwards Dumbbell lunge
 
-    [[https://www.youtube.com/embed/BYbEvMbOfMI]]
-    [[https://img.youtube.com/vi/BYbEvMbOfMI/hqdefault.jpg]]
+    {{{youtube(BYbEvMbOfMI)}}}
+
 
     -   Step back with one leg. Do not let your knee touch the ground
     -   Explosively step forward again using primarily the front leg
@@ -55,8 +55,8 @@
 
 *  C1. Stability ball Hip Extentions/Lying Curl
 
-    [[https://www.youtube.com/embed/rs65GbhEBQA]]
-    [[https://img.youtube.com/vi/rs65GbhEBQA/hqdefault.jpg]]
+    {{{youtube(rs65GbhEBQA)}}}
+
 
     -   Use your glutes/hamstrings and keep the spine neutral (don't arch
       your back to get the hips up)
@@ -67,8 +67,8 @@
 
 *  C2. Romanian Rhythm Squat
 
-    [[https://www.youtube.com/embed/MmWbus0fmdo]]
-    [[https://img.youtube.com/vi/MmWbus0fmdo/hqdefault.jpg]]
+    {{{youtube(MmWbus0fmdo)}}}
+
 
     -   Neutral spine, knees in line with toes
     -   Alternate ten reps of quarter squats with ten reps of quarter squats

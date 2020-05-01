@@ -10,8 +10,8 @@
 
 * A. Lateral Bound and Return
 
-     [[https://www.youtube.com/embed/gxkZIPJYgro]]
-     [[https://img.youtube.com/vi/gxkZIPJYgro/hqdefault.jpg]]
+     {{{youtube(gxkZIPJYgro)}}}
+
 
      -   Like the Bound and Stick, but with an extra bound back to the
        starting point.
@@ -19,13 +19,13 @@
 
 * B. Heiden Hops
 
-     [[https://www.youtube.com/embed/u2e262ks7aY]]
-     [[https://img.youtube.com/vi/u2e262ks7aY/hqdefault.jpg]]
+     {{{youtube(u2e262ks7aY)}}}
+
 
 * C. 5-10-5 lateral drill
 
-     [[https://www.youtube.com/embed/lIq87ZhL8bE]]
-     [[https://img.youtube.com/vi/lIq87ZhL8bE/hqdefault.jpg]]
+     {{{youtube(lIq87ZhL8bE)}}}
+
 
      -   First 5 yards hips will be mostly perpendicular to line of movement.
        Use a big crossover push.
@@ -46,8 +46,8 @@
 
 * C. Forward Frog Jumps
 
-     [[https://www.youtube.com/embed/nhDXP6h33qM]]
-     [[https://img.youtube.com/vi/nhDXP6h33qM/hqdefault.jpg]]
+     {{{youtube(nhDXP6h33qM)}}}
+
 
      -   the purpose of this drill is to get full extension of ankles, knees,
        and hips

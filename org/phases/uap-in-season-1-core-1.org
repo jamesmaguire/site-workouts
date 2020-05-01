@@ -14,24 +14,24 @@
 
 *  Plank (25 seconds. Add 5 seconds each week)
 
-    [[https://www.youtube.com/embed/mqOPjpN-1go]]
-    [[https://img.youtube.com/vi/mqOPjpN-1go/hqdefault.jpg]]
+    {{{youtube(mqOPjpN-1go)}}}
+
 
     -   Shoulders hips and ankles should form a straight line.
     -   Shoulders should be more retracted than rounded.
 
 *  Oblique Bridge (10-12 each side. Add 2 reps each week)
 
-    [[https://www.youtube.com/embed/n4SvbcbG5tg]]
-    [[https://img.youtube.com/vi/n4SvbcbG5tg/hqdefault.jpg]]
+    {{{youtube(n4SvbcbG5tg)}}}
+
 
     -   Contract your obliques to raise your hip from the floor to a side
       plank position.
 
 *  Rowboat (15 reps. Add 5 reps each week)
 
-    [[https://www.youtube.com/embed/lS5pAo2bqFk]]
-    [[https://img.youtube.com/vi/lS5pAo2bqFk/hqdefault.jpg]]
+    {{{youtube(lS5pAo2bqFk)}}}
+
 
     -   Keep your chest up and shoulders retracted. This is not a crunch.
     -   Move slowly with balance and control. The core should be under

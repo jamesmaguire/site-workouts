@@ -27,16 +27,16 @@
 
 * A1. Skater Hops
 
-     [[https://www.youtube.com/embed/sRYnYJNCYpU]]
-     [[https://img.youtube.com/vi/sRYnYJNCYpU/hqdefault.jpg]]
+     {{{youtube(sRYnYJNCYpU)}}}
+
 
      -   Should be at a challenging distance that you can maintain for 30
        seconds.
 
 * A2. Shuffle
 
-     [[https://www.youtube.com/embed/hS3efBLyb-w]]
-     [[https://img.youtube.com/vi/hS3efBLyb-w/hqdefault.jpg]]
+     {{{youtube(hS3efBLyb-w)}}}
+
 
      -   about 10 yards
 

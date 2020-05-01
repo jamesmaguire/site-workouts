@@ -11,8 +11,8 @@
 
 *  A1. Single Arm DB High Pull
 
-    [[https://www.youtube.com/embed/qagm6U0CDLA]]
-    [[https://img.youtube.com/vi/qagm6U0CDLA/hqdefault.jpg]]
+    {{{youtube(qagm6U0CDLA)}}}
+
 
     -   It's all in the hips.
     -   DB should follow a straight line trajectory upwards
@@ -20,16 +20,16 @@
 
 *  A2. DB High Pull to Press
 
-    [[https://www.youtube.com/embed/I-jYhdJqAPk]]
-    [[https://img.youtube.com/vi/I-jYhdJqAPk/hqdefault.jpg]]
+    {{{youtube(I-jYhdJqAPk)}}}
+
 
     -   Catch the weight at the shoulder in a semisupinated position
     -   Push the weight up as you stand up from a quarter squat position
 
 *  A3. Squat to Press
 
-    [[https://www.youtube.com/embed/1O8jb9KLtf4]]
-    [[https://img.youtube.com/vi/1O8jb9KLtf4/hqdefault.jpg]]
+    {{{youtube(1O8jb9KLtf4)}}}
+
 
     -   Find a rhythm and move quickly
     -   Aim for parallel in the squats
@@ -40,8 +40,8 @@
 
 *  Day 1. Backward Lunges
 
-    [[https://www.youtube.com/embed/BYbEvMbOfMI]]
-    [[https://img.youtube.com/vi/BYbEvMbOfMI/hqdefault.jpg]]
+    {{{youtube(BYbEvMbOfMI)}}}
+
 
     -   Step back with one leg. Do not let your knee touch the ground
     -   Explosively step forward again using primarily the front leg
@@ -51,8 +51,8 @@
 
 *  Day 2. Russian Step Ups
 
-    [[https://www.youtube.com/embed/jSnoZlYUttg]]
-    [[https://img.youtube.com/vi/jSnoZlYUttg/hqdefault.jpg]]
+    {{{youtube(jSnoZlYUttg)}}}
+
 
     -   find a rhythm, be explosive, drive the knee up!
     -   Use the foot on the bench to initiate and drive the movement. Don't

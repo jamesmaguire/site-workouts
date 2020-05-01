@@ -12,13 +12,13 @@
 
 * A. 5-10-5, 5 Frog Jump
 
-     [[https://www.youtube.com/embed/57fJcrpPif8]]
-     [[https://img.youtube.com/vi/57fJcrpPif8/hqdefault.jpg]]
+     {{{youtube(57fJcrpPif8)}}}
+
 
 * B. Zig-Zag Sprint
 
-     [[https://www.youtube.com/embed/YdgYleKenGM]]
-     [[https://img.youtube.com/vi/YdgYleKenGM/hqdefault.jpg]]
+     {{{youtube(YdgYleKenGM)}}}
+
 
      -   Set up 2 rows of cones about 5-7 yards apart. In each row*,* three
        cones are placed about 8 yards apart. The two rows are off set by 4
@@ -26,8 +26,8 @@
 
 * C. Figure Eight Sprint
 
-     [[https://www.youtube.com/embed/zwHfN0hlEVc]]
-     [[https://img.youtube.com/vi/zwHfN0hlEVc/hqdefault.jpg]]
+     {{{youtube(zwHfN0hlEVc)}}}
+
 
      -   Attempt to cut on the inside foot rather than the outside foot (like
        in the jab step).
@@ -38,8 +38,8 @@
 
 * 150 Shuttle (6x 25m)
 
-     [[https://www.youtube.com/embed/cpAnh4vAmrA]]
-     [[https://img.youtube.com/vi/cpAnh4vAmrA/hqdefault.jpg]]
+     {{{youtube(cpAnh4vAmrA)}}}
+
 
      -   Setup 2 cones 25m apart
      -   One rep is 6 sprints of 25m length, no rest between sprints

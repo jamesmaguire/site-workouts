@@ -6,8 +6,8 @@
 
 *  A1. Kneeling Overhead Pallof Press
 
-    [[https://www.youtube.com/embed/tGgkOlsd7Pc]]
-    [[https://img.youtube.com/vi/tGgkOlsd7Pc/hqdefault.jpg]]
+    {{{youtube(tGgkOlsd7Pc)}}}
+
 
     -   Knee closest to the cable column is bent
     -   Attempt to hold the cable handle straight above your head without
@@ -15,8 +15,8 @@
 
 *  A2. 1 & 1/4 Wood Chop
 
-    [[https://www.youtube.com/embed/COCqjeny0Ds]]
-    [[https://img.youtube.com/vi/COCqjeny0Ds/hqdefault.jpg]]
+    {{{youtube(COCqjeny0Ds)}}}
+
 
     -   (start light 8-10 each side. Add one rep each week.)
     -   explosive chop. quarter rep at the end
@@ -25,8 +25,8 @@
 
 * A3. Plank Walk
 
-     [[https://www.youtube.com/embed/_QmurtmSi7s]]
-     [[https://img.youtube.com/vi/_QmurtmSi7s/hqdefault.jpg]]
+     {{{youtube(_QmurtmSi7s)}}}
+
 
      -   Keep shoulders, hips, and ankles in a line
      -   Walk five paces sideways and back twice for each repetition.

@@ -6,8 +6,8 @@
 
 *  A1. Front Foot Elevated Paused Split Squat
 
-    [[https://www.youtube.com/embed/NpzqPBBn1qo]]
-    [[https://img.youtube.com/vi/NpzqPBBn1qo/hqdefault.jpg]]
+    {{{youtube(NpzqPBBn1qo)}}}
+
 
     -   push through the heel of your front foot
     -   hips should move straight up and down
@@ -16,8 +16,8 @@
 
 *  A2. Split Squats jumps for height
 
-    [[https://www.youtube.com/embed/Bo_Rg5fhZMQ]]
-    [[https://img.youtube.com/vi/Bo_Rg5fhZMQ/hqdefault.jpg]]
+    {{{youtube(Bo_Rg5fhZMQ)}}}
+
 
     -   Get low but do not leg the back knee smash into the ground
     -   Jump as high as possible and switch which leg is forward mid-flight
@@ -26,8 +26,8 @@
 
 *  B1. Weighted Hip Thrust
 
-    [[https://www.youtube.com/embed/tWd5ikvnaPc]]
-    [[https://img.youtube.com/vi/tWd5ikvnaPc/hqdefault.jpg]]
+    {{{youtube(tWd5ikvnaPc)}}}
+
 
     -   Weight rests approximately on hip flexors
     -   Place a sweatshirt or folded up yoga mat between your hips and the
@@ -37,16 +37,16 @@
 
 *  B2. Goblet Squats
 
-    [[https://www.youtube.com/embed/JyigpzdH3ps]]
-    [[https://img.youtube.com/vi/JyigpzdH3ps/hqdefault.jpg]]
+    {{{youtube(JyigpzdH3ps)}}}
+
 
     -   Initiate the movement with hips going back
     -   Squat as deep as mobility allows while maintaining spine neutrality
 
 *  C1. Russian Step Up
 
-    [[https://www.youtube.com/embed/jSnoZlYUttg]]
-    [[https://img.youtube.com/vi/jSnoZlYUttg/hqdefault.jpg]]
+    {{{youtube(jSnoZlYUttg)}}}
+
 
     -   find a rhythm, be explosive, drive the knee up!
     -   Use the foot on the bench to initiate and drive the movement.
@@ -54,8 +54,8 @@
 
 *  C2. Standing Hip Flexion
 
-    [[https://www.youtube.com/embed/VcJsZ--kcSY]]
-    [[https://img.youtube.com/vi/VcJsZ--kcSY/hqdefault.jpg]]
+    {{{youtube(VcJsZ--kcSY)}}}
+
 
     -   Place on foot on a box or bench that causes your knee to be close to
       90 degrees.

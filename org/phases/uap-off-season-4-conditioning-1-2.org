@@ -5,14 +5,14 @@
 
 * Conditioning 1: Multidirectional
 * A. 160 yard shuttles
-     [[https://www.youtube.com/embed/cpAnh4vAmrA]]
-     [[https://img.youtube.com/vi/cpAnh4vAmrA/hqdefault.jpg]]
+     {{{youtube(cpAnh4vAmrA)}}}
+
 
      - 40 yards down, 40 yards back and repeat.
 
 * B. 5-10-5 shuttle, five frog jumps and repeat
-     [[https://www.youtube.com/embed/57fJcrpPif8]]
-     [[https://img.youtube.com/vi/57fJcrpPif8/hqdefault.jpg]]
+     {{{youtube(57fJcrpPif8)}}}
+
 
      - Get your butt low. Touch the ground on the frog jumps if possible
 

@@ -4,15 +4,15 @@
 #+HTML_LINK_UP: uap-6-week.html
 
 * Forward Frog Jumps
-  https://www.youtube.com/embed/nhDXP6h33qM
-  https://img.youtube.com/vi/nhDXP6h33qM/hqdefault.jpg
+  {{{youtube(nhDXP6h33qM)}}}
+
 
   - the purpose of this drill is to get full extension of ankles, knees, and hips
   - propel yourself explosively upward and a little bit forward
 
 * Three Step Approach Jumps
-  https://www.youtube.com/embed/ldBS5OCXVTk
-  https://img.youtube.com/vi/ldBS5OCXVTk/hqdefault.jpg
+  {{{youtube(ldBS5OCXVTk)}}}
+
 
   - Reach up with the arm opposite the leg pushing off the ground for maximum reach height (lay-up style)
 
@@ -24,19 +24,19 @@
 Practice the movement slowly to understand the footwork pattern before working on speed.
 
 ** Slow practise:
-   https://www.youtube.com/embed/GtmDQJ8a13Q
-   https://img.youtube.com/vi/GtmDQJ8a13Q/hqdefault.jpg
+   {{{youtube(GtmDQJ8a13Q)}}}
+
 
 ** When the footwork pattern is mastered, go at full speed:
-   https://www.youtube.com/embed/Bn3BWRKhwi0
-   https://img.youtube.com/vi/Bn3BWRKhwi0/hqdefault.jpg
+   {{{youtube(Bn3BWRKhwi0)}}}
+
 
    - aim for both speed and accuracy of foot placement
    - center of mass should remain on the line created by the cones
    - keep your head up, not looking at your feet
 
 * Zig Zag Sprints
-  https://www.youtube.com/embed/YdgYleKenGM
-  https://img.youtube.com/vi/YdgYleKenGM/hqdefault.jpg
+  {{{youtube(YdgYleKenGM)}}}
+
 
   - You should be using the jab step or waltz step in each turn. practice both!

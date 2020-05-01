@@ -4,8 +4,8 @@
 #+HTML_LINK_UP: uap-off-season-2.html
 
 * A1. Push Press
-    [[https://www.youtube.com/embed/Z9b5LJ1Am_A]]
-    [[https://img.youtube.com/vi/Z9b5LJ1Am_A/hqdefault.jpg]]
+    {{{youtube(Z9b5LJ1Am_A)}}}
+
 
     - Use momentum from the hips to help you press more than you otherwise would.
     - The bar starts resting high on your chest. Grip slightly wider than shoulder width.
@@ -14,22 +14,22 @@
     - Lower the weight in a controlled fashion back to the starting position.
 
 * A2. Supine Grip Pull-up
-    [[https://www.youtube.com/embed/_zHfvOXQ0KY]]
-    [[https://img.youtube.com/vi/_zHfvOXQ0KY/hqdefault.jpg]]
+    {{{youtube(_zHfvOXQ0KY)}}}
+
 
     - Pause at the top
     - Do not pull your elbows behind your torso. Even with the torso is good.
 
 * B1. Alternating Iso Hold DB Bench
-    [[https://www.youtube.com/embed/5C9B2mrhZ1g]]
-    [[https://img.youtube.com/vi/5C9B2mrhZ1g/hqdefault.jpg]]
+    {{{youtube(5C9B2mrhZ1g)}}}
+
 
     - Hold one dumbbell as you press the other.
     - Keep tention in the pectoral of the side you are holding.
 
 * B2. RRR Press
-    [[https://www.youtube.com/embed/mgaEUINQY_M]]
-    [[https://img.youtube.com/vi/mgaEUINQY_M/hqdefault.jpg]]
+    {{{youtube(mgaEUINQY_M)}}}
+
 
     - Retract, Row, Rotate, Press
     - Retract the shoulders at the beginning of each rep.

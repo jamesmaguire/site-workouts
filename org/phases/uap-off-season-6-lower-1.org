@@ -6,8 +6,8 @@
 
 *  A1. Power Snatch from Floor
 
-    [[https://www.youtube.com/embed/IZo2ZR1YDN8]]
-    [[https://img.youtube.com/vi/IZo2ZR1YDN8/hqdefault.jpg]]
+    {{{youtube(IZo2ZR1YDN8)}}}
+
 
     -   If you are unsure of your form, or experience any shoulder pain, do
       not do this exercise. You can try single arm dumbell snatches as an
@@ -20,8 +20,8 @@
 
 *  B1. Paused Heel Elevated Back Squat
 
-    [[https://www.youtube.com/embed/53dwivfQVrE]]
-    [[https://img.youtube.com/vi/53dwivfQVrE/hqdefault.jpg]]
+    {{{youtube(53dwivfQVrE)}}}
+
 
     -   Place 5 lb weight plates under the heels
     -   Isometric hold for three counts at the bottom of your squat
@@ -31,24 +31,24 @@
 
 *  B2. Triple Jump
 
-    [[https://www.youtube.com/embed/ZbIpfvOsUuM]]
-    [[https://img.youtube.com/vi/ZbIpfvOsUuM/hqdefault.jpg]]
+    {{{youtube(ZbIpfvOsUuM)}}}
+
 
     -   Minimal ground contact time between jumps
     -   Stick the landing on the last jump
 
 *  C1. Lateral DB Lunge
 
-    [[https://www.youtube.com/embed/CgwuHvxPOcc]]
-    [[https://img.youtube.com/vi/CgwuHvxPOcc/hqdefault.jpg]]
+    {{{youtube(CgwuHvxPOcc)}}}
+
 
     -   Speed is more important than weight used. Start with bodyweight if
       necessary.
 
 *  C2. Standing Hip Flexion
 
-    [[https://www.youtube.com/embed/VcJsZ--kcSY]]
-    [[https://img.youtube.com/vi/VcJsZ--kcSY/hqdefault.jpg]]
+    {{{youtube(VcJsZ--kcSY)}}}
+
 
     -   Place on foot on a box or bench that causes your knee to be close to
       90 degrees.

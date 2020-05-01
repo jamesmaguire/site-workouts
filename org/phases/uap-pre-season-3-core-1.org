@@ -4,23 +4,23 @@
 #+HTML_LINK_UP: uap-pre-season-3.html
 
 * A1. Prone Same Side Stability
-    [[https://www.youtube.com/embed/AE9XbWnC2Ro]]
-    [[https://img.youtube.com/vi/AE9XbWnC2Ro/hqdefault.jpg]]
+    {{{youtube(AE9XbWnC2Ro)}}}
+
 
     - During limb extension, maintain a neutral spine without arching the back
     - Maintain balance as you bring the elbow and knee together.
     - Attempt to keep the hips level and center of gravity stationary
 
 * A2. Side Plank with Hip Abduction
-    [[https://www.youtube.com/embed/1_k1Vr9xe4I]]
-    [[https://img.youtube.com/vi/1_k1Vr9xe4I/hqdefault.jpg]]
+    {{{youtube(1_k1Vr9xe4I)}}}
+
 
     - Lift hips off the ground to come to a plank position
     - Lift leg as high as is comfortable keeping toes pointed forward. Watch for internal or external rotation of the hips and avoid it.
 
 * A3. Reverse Crunch
-    [[https://www.youtube.com/embed/p8UWxC8wxvQ]]
-    [[https://img.youtube.com/vi/p8UWxC8wxvQ/hqdefault.jpg]]
+    {{{youtube(p8UWxC8wxvQ)}}}
+
 
     - Initiate movement from the lower abs
     - Aim hips and feet straight up, not over the head.

@@ -14,8 +14,8 @@
 
     Many people learn by watcing videos of others on YouTube. Here's David Bell, the originator of the Parkour movement. Obviously, don't try this at home:
 
-    [[https://www.youtube.com/embed/x98jCBnWO8w]]
-    [[https://img.youtube.com/vi/x98jCBnWO8w/hqdefault.jpg]]
+    {{{youtube(x98jCBnWO8w)}}}
+
 
 * 2. Jump Rope Training
     Learning to jump rops is a surprisingly humbling experience (wasn't I good at this at, like, age six?). But, it is also something you can get much better at very quickly. Start by just jumping regularly and working on your speed (jumps per minute) and endurance. Start gradually!
@@ -24,20 +24,20 @@
 
     Here is a nice little intro video with suggestions on how to get started:
 
-    [[https://www.youtube.com/embed/k9bLUzJwJyc]]
-    [[https://img.youtube.com/vi/k9bLUzJwJyc/hqdefault.jpg]]
+    {{{youtube(k9bLUzJwJyc)}}}
+
 
     And two examples of where you can go wtih jump rope training:
 
     Here's Buddy Lee who really helped to popularize jump rope training:
 
-    [[https://www.youtube.com/embed/5MfhJjbNNJE]]
-    [[https://img.youtube.com/vi/5MfhJjbNNJE/hqdefault.jpg]]
+    {{{youtube(5MfhJjbNNJE)}}}
+
 
     And someone participates in jump rope competition:
 
-    [[https://www.youtube.com/embed/1dtBfKsFEOo]]
-    [[https://img.youtube.com/vi/1dtBfKsFEOo/hqdefault.jpg]]
+    {{{youtube(1dtBfKsFEOo)}}}
+
 
 * 3. Climbing
     I've only been climbing a few times so I'm no expert. May help with general grip strength. Not sure how much carryover there would be to disc gripping. But also good for working on shoulder strength and balance.

@@ -8,8 +8,8 @@
 
 * A. 3-Step Approach Jump (1 each leg)
 
-     [[https://www.youtube.com/embed/ldBS5OCXVTk]]
-     [[https://img.youtube.com/vi/ldBS5OCXVTk/hqdefault.jpg]]
+     {{{youtube(ldBS5OCXVTk)}}}
+
 
      -   Rest 60 Seconds between Sets
      -   6 Sets
@@ -18,8 +18,8 @@
 
 * B. Low Run to 15 Yard Sprint
 
-     [[https://www.youtube.com/embed/KtrjXwQuqnU]]
-     [[https://img.youtube.com/vi/KtrjXwQuqnU/hqdefault.jpg]]
+     {{{youtube(KtrjXwQuqnU)}}}
+
 
      -   Rest 90 seconds after each rep
      -   5 reps
@@ -32,8 +32,8 @@
 
 * A. Shuffle 8 Yards to Sprint 15 yards (alternate directions each rep)
 
-     [[https://www.youtube.com/embed/hX3TKqIFCbM]]
-     [[https://img.youtube.com/vi/hX3TKqIFCbM/hqdefault.jpg]]
+     {{{youtube(hX3TKqIFCbM)}}}
+
 
      -   Rest 90 seconds
      -   6 Reps
@@ -41,8 +41,8 @@
 
 * B. Single Leg Line Hops (alternate legs each rep)
 
-     [[https://www.youtube.com/embed/DA-h-gnDcNM]]
-     [[https://img.youtube.com/vi/DA-h-gnDcNM/hqdefault.jpg]]
+     {{{youtube(DA-h-gnDcNM)}}}
+
 
      -   Hop for 5 yards
      -   Rest 90 seconds

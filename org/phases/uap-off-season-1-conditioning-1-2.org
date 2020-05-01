@@ -18,14 +18,14 @@
    These exercises should be done as a circuit. All exercises are done for 30 seconds with 90 seconds rest. First to skater hops, rest 90 seconds, shuffle, rest 90 seconds, short shuttle, etc. until the prescribed reps of each exercise are done.
 
 * A1. Skater Hops
-     [[https://www.youtube.com/embed/GFJBgHzg5gg]]
-     [[https://img.youtube.com/vi/GFJBgHzg5gg/hqdefault.jpg]]
+     {{{youtube(GFJBgHzg5gg)}}}
+
 
      - Should be at a challenging distance that you can maintain for thirty seconds.
 
 * A2. Shuffle
-     [[https://www.youtube.com/embed/aIEw4tUr1ys]]
-     [[https://img.youtube.com/vi/aIEw4tUr1ys/hqdefault.jpg]]
+     {{{youtube(aIEw4tUr1ys)}}}
+
 
      - about 10 yards
 

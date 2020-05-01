@@ -18,29 +18,29 @@ You should not get near failure on these. They are to get your muscles warm and 
 Below are some suggestions for mobility drills and light warmup exercises.
 
 * Inchworms
-  [[https://www.youtube.com/embed/bfWcQlN-sq8]]
-  [[https://img.youtube.com/vi/bfWcQlN-sq8/hqdefault.jpg]]
+  {{{youtube(bfWcQlN-sq8)}}}
+
 
 * Down Dog to Plank to Up Dog (what's "up dog?" Not mutch, what's up with you?)
-  [[https://www.youtube.com/embed/A6mSKpqJR38]]
-  [[https://img.youtube.com/vi/A6mSKpqJR38/hqdefault.jpg]]
+  {{{youtube(A6mSKpqJR38)}}}
+
 
 * Pushup with Rotation
-  [[https://www.youtube.com/embed/8BAGcv4Xw1k]]
-  [[https://img.youtube.com/vi/8BAGcv4Xw1k/hqdefault.jpg]]
+  {{{youtube(8BAGcv4Xw1k)}}}
+
 
 * T-spine rotation (this is more mobility drill than warmup drill)
-  [[https://www.youtube.com/embed/xi48S_aB_FA]]
-  [[https://img.youtube.com/vi/xi48S_aB_FA/hqdefault.jpg]]
+  {{{youtube(xi48S_aB_FA)}}}
+
 
 * Lat Pulldowns
-  [[https://www.youtube.com/embed/G4q1hXoESos]]
-  [[https://img.youtube.com/vi/G4q1hXoESos/hqdefault.jpg]]
+  {{{youtube(G4q1hXoESos)}}}
+
 
 * Retraction to row
-  [[https://www.youtube.com/embed/30YE0OH5DNE]]
-  [[https://img.youtube.com/vi/30YE0OH5DNE/hqdefault.jpg]]
+  {{{youtube(30YE0OH5DNE)}}}
+
 
 * Shoulder Rotations
-  [[https://www.youtube.com/embed/JiavICGaFp8]]
-  [[https://img.youtube.com/vi/JiavICGaFp8/hqdefault.jpg]]
+  {{{youtube(JiavICGaFp8)}}}
+

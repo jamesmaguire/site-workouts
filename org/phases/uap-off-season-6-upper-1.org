@@ -6,16 +6,16 @@
 
 *  A1. 1/2 Typewriter Chinups
 
-    [[https://www.youtube.com/embed/qLrCs74tFSg]]
-    [[https://img.youtube.com/vi/qLrCs74tFSg/hqdefault.jpg]]
+    {{{youtube(qLrCs74tFSg)}}}
+
 
     -   Maintain height during lateral motion
     -   Elbows in line with the torso
 
 *  A2. Pullover
 
-    [[https://www.youtube.com/embed/52c015jdieo]]
-    [[https://img.youtube.com/vi/52c015jdieo/hqdefault.jpg]]
+    {{{youtube(52c015jdieo)}}}
+
 
     -   Keep elbows at approximately the same angle throughout the movement
     -   As you lower the weight, you should feel a slight stretch in your
@@ -28,8 +28,8 @@
 
 *  B1. Prone Incline Row/Iso DB Row
 
-    [[https://www.youtube.com/embed/bz2jv6bB1DM]]
-    [[https://img.youtube.com/vi/bz2jv6bB1DM/hqdefault.jpg]]
+    {{{youtube(bz2jv6bB1DM)}}}
+
 
     -   Reps with non-dominant arm first. The opposite arm holds at the top
       position until all reps are complete. Then rep with the dominant arm
@@ -40,8 +40,8 @@
 
 *  B2. Press/ Iso Flat DB Press
 
-    [[https://www.youtube.com/embed/FytJJimZjFs]]
-    [[https://img.youtube.com/vi/FytJJimZjFs/hqdefault.jpg]]
+    {{{youtube(FytJJimZjFs)}}}
+
 
     -   Reps with non-dominant arm first. The opposite arm holds at the 1/2
       rep position until all reps are complete. Then rep with the dominant

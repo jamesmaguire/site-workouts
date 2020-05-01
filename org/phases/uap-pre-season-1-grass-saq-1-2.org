@@ -3,44 +3,45 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-pre-season-1.html
 
-
-   These workouts are to be preceded by the [[https://www.ultyresults.com/products/ultimate-athlete-project/categories/89306/posts/231481][Nonlinear Warmup]].
+These workouts are to be preceded by the [[https://www.ultyresults.com/products/ultimate-athlete-project/categories/89306/posts/231481][Nonlinear Warmup]].
 
 * SAQ 1
 
-    This day is all about Jumping.
+  This day is all about Jumping.
 
-* A. 2 Low Squat Jumps to Scissor Jumps [[https://www.youtube.com/embed/Mf7cZzcCyuc]] [[https://img.youtube.com/vi/Mf7cZzcCyuc/hqdefault.jpg]] -   Knees should be close to 90 degrees in the low squat jumps. -   Get as high as possible in the scissor jumps with minimal ground contact times between jumps.
-* B. Single Leg Bench Pushoff Jumps
+** A. 2 Low Squat Jumps to Scissor Jumps
+   {{{youtube(Mf7cZzcCyuc)}}}
+  
+   - Knees should be close to 90 degrees in the low squat jumps.
+   - Get as high as possible in the scissor jumps with minimal ground contact times between jumps.
+    
+** B. Single Leg Bench Pushoff Jumps
 
-     [[https://www.youtube.com/embed/zT_jMofv4V8]]
-     [[https://img.youtube.com/vi/zT_jMofv4V8/hqdefault.jpg]]
+   {{{youtube(zT_jMofv4V8)}}}
 
-     -   Slam the working leg onto the bench and push yourself as high into
-       the air as possible.
-     -   You should move slightly forward with each jump to ensure maximal
-       hip extension.
+   -   Slam the working leg onto the bench and push yourself as high into
+     the air as possible.
+   -   You should move slightly forward with each jump to ensure maximal
+     hip extension.
 
 * SAQ 2
 
-    This day is all about footwork.
+  This day is all about footwork.
 
-* A. Jab Step and Cut
+** A. Jab Step and Cut
 
-     [[https://www.youtube.com/embed/_6k3XvTzuak]]
-     [[https://img.youtube.com/vi/_6k3XvTzuak/hqdefault.jpg]]
+   {{{youtube(_6k3XvTzuak)}}}
 
-     -   Focus on good quality of movement.
-     -   Move more quickly and more powerfully as you become more
-       comforatable with the movement pattern.
-     -   Work on a strong push off the outside foot.
+   -   Focus on good quality of movement.
+   -   Move more quickly and more powerfully as you become more
+     comforatable with the movement pattern.
+   -   Work on a strong push off the outside foot.
 
-* B. Waltz and Cut
+** B. Waltz and Cut
 
-     [[https://www.youtube.com/embed/GD_f0hbzGcs]]
-     [[https://img.youtube.com/vi/GD_f0hbzGcs/hqdefault.jpg]]
+   {{{youtube(GD_f0hbzGcs)}}}
 
-     -   Focus on good quality of movement.
-     -   Move more quickly and more powerfully as you become more
-       comforatable with the movement pattern.
-     -   Work on movement of the hips and a strong push off the inside foot.
+   -   Focus on good quality of movement.
+   -   Move more quickly and more powerfully as you become more
+     comforatable with the movement pattern.
+   -   Work on movement of the hips and a strong push off the inside foot.

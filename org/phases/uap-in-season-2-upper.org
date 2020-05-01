@@ -6,15 +6,15 @@
 
 *  A1. Paused Incline DB Bench Press
 
-    [[https://www.youtube.com/embed/k4mI7a_tSbw]]
-    [[https://img.youtube.com/vi/k4mI7a_tSbw/hqdefault.jpg]]
+    {{{youtube(k4mI7a_tSbw)}}}
+
 
     -   during the pause at the bottom your pectorals should feel tension
 
 *  A2. Speed Push Ups
 
-    [[https://www.youtube.com/embed/7lHuWdR6iQs]]
-    [[https://img.youtube.com/vi/7lHuWdR6iQs/hqdefault.jpg]]
+    {{{youtube(7lHuWdR6iQs)}}}
+
 
     -   do as many pushups as possible.  be explosive!  don't pace
       yourself, go fast.
@@ -27,8 +27,8 @@
 
 *  B2. Pullovers
 
-    [[https://www.youtube.com/embed/52c015jdieo]]
-    [[https://img.youtube.com/vi/52c015jdieo/hqdefault.jpg]]
+    {{{youtube(52c015jdieo)}}}
+
 
     -   Keep elbows at approximately the same angle throughout the movement
     -   As you lower the weight, you should feel a slight stretch in your
@@ -41,8 +41,8 @@
 
 *  C1. Bow and Arrow
 
-    [[https://www.youtube.com/embed/Fq9Jlz261m4]]
-    [[https://img.youtube.com/vi/Fq9Jlz261m4/hqdefault.jpg]]
+    {{{youtube(Fq9Jlz261m4)}}}
+
 
     -   if you imagine an archer, you will naturally do this exercise
       correctly
@@ -52,8 +52,8 @@
 
 *  C2. Band Internal Rotations
 
-    [[https://www.youtube.com/embed/i-CwRCoXZD8]]
-    [[https://img.youtube.com/vi/i-CwRCoXZD8/hqdefault.jpg]]
+    {{{youtube(i-CwRCoXZD8)}}}
+
 
     -   Keep elbow tight to the body.
     -   Keep shoulder retracted and chest up.

@@ -10,15 +10,15 @@
    SAQ 1: Linear SAQ
 
 * Box Jumps
-    [[https://www.youtube.com/embed/tVnU1kwoIMM]]
-    [[https://img.youtube.com/vi/tVnU1kwoIMM/hqdefault.jpg]]
+    {{{youtube(tVnU1kwoIMM)}}}
+
 
     - knee angle at takeoff should be approximately the same as knee angle upon landing. If knee angle is less than 90 degrees, your box is definitely too high.
     - practice landing quietly
 
 * Forward Frog Jumps
-    [[https://www.youtube.com/embed/09KPdgduavA]]
-    [[https://img.youtube.com/vi/09KPdgduavA/hqdefault.jpg]]
+    {{{youtube(09KPdgduavA)}}}
+
 
     - the purpose of this drill is to get full extension of ankels, knees, and hips
     - propel yourself explosively upward and a little bit forward
@@ -26,21 +26,21 @@
     SAQ 2: Lateral SAQ
 
 * Lateral Bound and Stick
-    [[https://www.youtube.com/embed/jnGMnjRXNAI]]
-    [[https://img.youtube.com/vi/jnGMnjRXNAI/hqdefault.jpg]]
+    {{{youtube(jnGMnjRXNAI)}}}
+
 
     - bound sideways as far as you can while still being able to stick the landing
     - bend your knees to absorb the landing and land quietly
 
 * Single Leg Box Jumps - Medial
-    [[https://www.youtube.com/embed/iYteMFa1GlQ]]
-    [[https://img.youtube.com/vi/iYteMFa1GlQ/hqdefault.jpg]]
+    {{{youtube(iYteMFa1GlQ)}}}
+
 
     -
 
 * Single Leg Box Jumps - Lateral
-    [[https://www.youtube.com/embed/waVdgd9JPVw]]
-    [[https://img.youtube.com/vi/waVdgd9JPVw/hqdefault.jpg]]
+    {{{youtube(waVdgd9JPVw)}}}
+
 
     - choose a 4-8 inch box or step
     - jump laterally and land as quietly as possible

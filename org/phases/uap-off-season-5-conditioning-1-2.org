@@ -14,8 +14,8 @@
 
 * B. 160 yard shuttle (across an ultimate field and back twice)
 
-     [[https://www.youtube.com/embed/cpAnh4vAmrA]]
-     [[https://img.youtube.com/vi/cpAnh4vAmrA/hqdefault.jpg]]
+     {{{youtube(cpAnh4vAmrA)}}}
+
 
      -   40 yards down, 40 yards back and repeat.
 
@@ -29,8 +29,8 @@
 
 * A. Zigzag Sprints
 
-     [[https://www.youtube.com/embed/YdgYleKenGM]]
-     [[https://img.youtube.com/vi/YdgYleKenGM/hqdefault.jpg]]
+     {{{youtube(YdgYleKenGM)}}}
+
 
      -   Set up 2 rows of cones about 5-7 yards apart. In each row, three
        cones are placed about 8 yards apart. The two rows are off set by 4
@@ -38,8 +38,8 @@
 
 * B. Forward, Back, Spin Sprints
 
-     [[https://www.youtube.com/embed/WHHYJO_Koyo]]
-     [[https://img.youtube.com/vi/WHHYJO_Koyo/hqdefault.jpg]]
+     {{{youtube(WHHYJO_Koyo)}}}
+
 
      -   Use just one row of cones.
      -   Sprint to the first cone, backpedal back, sprint to the second cone,
@@ -49,8 +49,8 @@
 
 * C. Figure Eight Sprints
 
-     [[https://www.youtube.com/embed/zwHfN0hlEVc]]
-     [[https://img.youtube.com/vi/zwHfN0hlEVc/hqdefault.jpg]]
+     {{{youtube(zwHfN0hlEVc)}}}
+
 
      -   Attempt to cut on the inside foot rather than the outside foot (like
        in the jab step).

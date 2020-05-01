@@ -5,26 +5,26 @@
 
 * Conditioning 1: Multidirectional
 * A1. Backward Skip
-     [[https://www.youtube.com/embed/01Da7x93pp8]]
-     [[https://img.youtube.com/vi/01Da7x93pp8/hqdefault.jpg]]
+     {{{youtube(01Da7x93pp8)}}}
+
 
      - 40 yards
 
 * A2. Low Intensity Shuffles
-     [[https://www.youtube.com/embed/rMtlUzNgO38]]
-     [[https://img.youtube.com/vi/rMtlUzNgO38/hqdefault.jpg]]
+     {{{youtube(rMtlUzNgO38)}}}
+
 
      - 40 yards
 
 * A3. Backward Run
-     [[https://www.youtube.com/embed/AbDDEwW62dI]]
-     [[https://img.youtube.com/vi/AbDDEwW62dI/hqdefault.jpg]]
+     {{{youtube(AbDDEwW62dI)}}}
+
 
      - 40 yards
 
 * A4. Diagonal Marking Approach
-     [[https://www.youtube.com/embed/jagDmUcBrSk]]
-     [[https://img.youtube.com/vi/jagDmUcBrSk/hqdefault.jpg]]
+     {{{youtube(jagDmUcBrSk)}}}
+
 
      - 40 yards
 * Conditioning 2: Linear / Recovery

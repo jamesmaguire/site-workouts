@@ -4,35 +4,35 @@
 #+HTML_LINK_UP: uap-off-season-4.html
 
 * A. Clap Pushups
-    [[https://www.youtube.com/embed/7lHuWdR6iQs]]
-    [[https://img.youtube.com/vi/7lHuWdR6iQs/hqdefault.jpg]]
+    {{{youtube(7lHuWdR6iQs)}}}
+
 
     - do as many pushups as possible. be explosive! don't pace yourself, go fast.
 
 * B1. One Arm Semi-supinated grip Incline DB Bench
-    [[https://www.youtube.com/embed/tkPqct_J338]]
-    [[https://img.youtube.com/vi/tkPqct_J338/hqdefault.jpg]]
+    {{{youtube(tkPqct_J338)}}}
+
 
     - Hold a dumbbell only in one hand while performing this exercise.
     - Engage the core to resist rotation.
 
 * B2. Prone Flat Elbow Out DB Rows
-    [[https://www.youtube.com/embed/G9iMBoBVvYk]]
-    [[https://img.youtube.com/vi/G9iMBoBVvYk/hqdefault.jpg]]
+    {{{youtube(G9iMBoBVvYk)}}}
+
 
     - Think about squeezing your shoulder blades together at the top (retract the shoulders)
 
 * B1. Stability Ball Incline Db Fly
-    [[https://www.youtube.com/embed/rVPVf8JDen0]]
-    [[https://img.youtube.com/vi/rVPVf8JDen0/hqdefault.jpg]]
+    {{{youtube(rVPVf8JDen0)}}}
+
 
     - Shoulders on stability ball
     - Drop hips to create an incline
     - Keep spine neutral, core engaged
 
 * C2. Bow and Arrow
-    [[https://www.youtube.com/embed/Fq9Jlz261m4]]
-    [[https://img.youtube.com/vi/Fq9Jlz261m4/hqdefault.jpg]]
+    {{{youtube(Fq9Jlz261m4)}}}
+
 
     - if you imagine an archer, you will naturally do this exercise correctly
     - stand up tall
@@ -40,8 +40,8 @@
     - squeeze the shoulder blades together during the iso hold
 
 * C3. Cuban to Press
-    [[https://www.youtube.com/embed/v19DV8xcMDA]]
-    [[https://img.youtube.com/vi/v19DV8xcMDA/hqdefault.jpg]]
+    {{{youtube(v19DV8xcMDA)}}}
+
 
     - Avoid shrugging the weight
     - This should be done in one fluid movement

@@ -6,32 +6,32 @@
 
 *  A1. Flat Barbell Press
 
-    [[https://www.youtube.com/embed/r7WFii7ezGM]]
-    [[https://img.youtube.com/vi/r7WFii7ezGM/hqdefault.jpg]]
+    {{{youtube(r7WFii7ezGM)}}}
+
 
     -   Shoulders retracted and flat againts the bench
     -   Controlled and slow down, fast up
 
 *  A2. Clap Pushups (or speed pushups)
 
-    [[https://www.youtube.com/embed/7lHuWdR6iQs]]
-    [[https://img.youtube.com/vi/7lHuWdR6iQs/hqdefault.jpg]]
+    {{{youtube(7lHuWdR6iQs)}}}
+
 
     -   do as many pushups as possible. be explosive! don't pace yourself,
       go fast.
 
 *  A3. 1/2 Typewriter Chin Ups
 
-    [[https://www.youtube.com/embed/qLrCs74tFSg]]
-    [[https://img.youtube.com/vi/qLrCs74tFSg/hqdefault.jpg]]
+    {{{youtube(qLrCs74tFSg)}}}
+
 
     -   Maintain height during lateral motion
     -   Elbows in line with torso
 
 *  B1. Stability Ball Incline DB Flys
 
-    [[https://www.youtube.com/embed/rVPVf8JDen0]]
-    [[https://img.youtube.com/vi/rVPVf8JDen0/hqdefault.jpg]]
+    {{{youtube(rVPVf8JDen0)}}}
+
 
     -   Shoulders on stability ball
     -   Drop hips to create an incline
@@ -39,16 +39,16 @@
 
 *  B2. Prone Flat Elbow-out DB Rows
 
-    [[https://www.youtube.com/embed/Y3PPxC-okmM]]
-    [[https://img.youtube.com/vi/Y3PPxC-okmM/hqdefault.jpg]]
+    {{{youtube(Y3PPxC-okmM)}}}
+
 
     -   Think about squeezing your shoulder blades together at the top
       (retract the shoulders)
 
 *  B3. Low Incline Y to T Raise
 
-    [[https://www.youtube.com/embed/2Z-Ib02O8J0]]
-    [[https://img.youtube.com/vi/2Z-Ib02O8J0/hqdefault.jpg]]
+    {{{youtube(2Z-Ib02O8J0)}}}
+
 
     -   Initiate the movement at the shoulders. Thumbs face up to the Y
       position.

@@ -6,8 +6,8 @@
 
 *  A1. Heel Elevated Back Squat
 
-    [[https://www.youtube.com/embed/53dwivfQVrE]]
-    [[https://img.youtube.com/vi/53dwivfQVrE/hqdefault.jpg]]
+    {{{youtube(53dwivfQVrE)}}}
+
 
     -   Place 5 lb weight plates under the heels
     -   Isometric hold for three counts at the bottom of your squat
@@ -17,8 +17,8 @@
 
 *  A2. Penta Jump
 
-    [[https://www.youtube.com/embed/F1ScvdPdRE8]]
-    [[https://img.youtube.com/vi/F1ScvdPdRE8/hqdefault.jpg]]
+    {{{youtube(F1ScvdPdRE8)}}}
+
 
     -   Jumps for distance. Avoid hitting the ground heels first.
     -   Attempt to land on the midfoot
@@ -27,8 +27,8 @@
 
 *  B1. Backward Lunge to SLDL
 
-    [[https://www.youtube.com/embed/hM-zid_rFw0]]
-    [[https://img.youtube.com/vi/hM-zid_rFw0/hqdefault.jpg]]
+    {{{youtube(hM-zid_rFw0)}}}
+
 
     -   Do all reps on one leg, then the other.
     -   Aim for 90 degrees for the working leg in the backward lunge.
@@ -38,8 +38,8 @@
 
 *  B2. Cable Pull Through
 
-    [[https://www.youtube.com/embed/94mnZc1fTiQ]]
-    [[https://img.youtube.com/vi/94mnZc1fTiQ/hqdefault.jpg]]
+    {{{youtube(94mnZc1fTiQ)}}}
+
 
     -   feet are slightly wider than shoulder width. knees are bent about 10
       degrees.
@@ -48,8 +48,8 @@
 
 *  C1. Paused SL Heel-Elevated Hip Lift
 
-    [[https://www.youtube.com/embed/EFLq2nE7up8]]
-    [[https://img.youtube.com/vi/EFLq2nE7up8/hqdefault.jpg]]
+    {{{youtube(EFLq2nE7up8)}}}
+
 
     -   Elevate the foot of the working leg on a step
     -   Can be elevated on a Bosu ball for added difficulty.
@@ -58,8 +58,8 @@
 
 *  C2. Squat to Press
 
-    [[https://www.youtube.com/embed/1O8jb9KLtf4]]
-    [[https://img.youtube.com/vi/1O8jb9KLtf4/hqdefault.jpg]]
+    {{{youtube(1O8jb9KLtf4)}}}
+
 
     -   Find a rhythm and move quickly
     -   Aim for parallel in the squats

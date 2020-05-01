@@ -7,8 +7,8 @@ These workouts are to be preceded by the [[./uap-warmups-linear-warmup.org][Line
 
 * A. Scissor Jumps
 
-  https://www.youtube.com/embed/Bo_Rg5fhZMQ
-  https://img.youtube.com/vi/Bo_Rg5fhZMQ/hqdefault.jpg
+  {{{youtube(Bo_Rg5fhZMQ)}}}
+
 
   - Aim for maximum height
   - Feet should be shoulder width apart when landing.
@@ -22,8 +22,8 @@ These workouts are to be preceded by the [[./uap-warmups-linear-warmup.org][Line
 
 * C. Accelerate/Decelerate
 
-  https://www.youtube.com/embed/j_9qk0MJ4Fw
-  https://img.youtube.com/vi/j_9qk0MJ4Fw/hqdefault.jpg
+  {{{youtube(j_9qk0MJ4Fw)}}}
+
 
   - Accelerate as quickly as possible to maximum speed.
   - Decelerate to walking by the time you get to the end point
@@ -32,8 +32,8 @@ These workouts are to be preceded by the [[./uap-warmups-linear-warmup.org][Line
 
 * D. Low Squat Jumps
 
-  https://www.youtube.com/embed/tiaf7MAyJ-w
-  https://img.youtube.com/vi/tiaf7MAyJ-w/hqdefault.jpg
+  {{{youtube(tiaf7MAyJ-w)}}}
+
 
   - Get your butt low but chest up, maintaining a neutral spine.
   - Think of lifting your knees quickly to your chest.

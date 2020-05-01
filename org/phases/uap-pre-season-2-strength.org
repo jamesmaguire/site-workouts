@@ -6,8 +6,8 @@
 
 *  A1. Semi-supinated grip Pull-ups
 
-    [[https://www.youtube.com/embed/R-j7IvquHwE]]
-    [[https://img.youtube.com/vi/R-j7IvquHwE/hqdefault.jpg]]
+    {{{youtube(R-j7IvquHwE)}}}
+
 
     -   "semi-supinated" means that your palms are facing one another. If
       you do not have a bar that allows for this, use a supinated grip
@@ -19,16 +19,16 @@
 
 *  A2. Bodyweight (BW) Squats
 
-    [[https://www.youtube.com/embed/IpkzKC2mt7c]]
-    [[https://img.youtube.com/vi/IpkzKC2mt7c/hqdefault.jpg]]
+    {{{youtube(IpkzKC2mt7c)}}}
+
 
     -   Get below parallel on each rep
     -   Arms are extended to help maintain balance and keep weight on heels
 
 * B1. Bench Dips
 
-     [[https://www.youtube.com/embed/XwXGdC0K050]]
-     [[https://img.youtube.com/vi/XwXGdC0K050/hqdefault.jpg]]
+     {{{youtube(XwXGdC0K050)}}}
+
 
      -   You should feel some tension in the pectorals at the bottom of the
        movement
@@ -36,16 +36,16 @@
 
 *  B2. 45 Degree Lunges (BW)
 
-    [[https://www.youtube.com/embed/o9MgO2kMiAM]]
-    [[https://img.youtube.com/vi/o9MgO2kMiAM/hqdefault.jpg]]
+    {{{youtube(o9MgO2kMiAM)}}}
+
 
     -   Step out at a 45 degree angle while keeping hips square
     -   Get low but do not let the back knee hit the ground
 
 *  C1. Pushups
 
-    [[https://www.youtube.com/embed/7lHuWdR6iQs]]
-    [[https://img.youtube.com/vi/7lHuWdR6iQs/hqdefault.jpg]]
+    {{{youtube(7lHuWdR6iQs)}}}
+
 
     -   Maintain perfect plank position
     -   Can be done on your knees if you cannot complete all as regular
@@ -53,8 +53,8 @@
 
 *  C2. Diagonal Plate Raise
 
-    [[https://www.youtube.com/embed/gbX8ipoRB7s]]
-    [[https://img.youtube.com/vi/gbX8ipoRB7s/hqdefault.jpg]]
+    {{{youtube(gbX8ipoRB7s)}}}
+
 
     -   Start in a squat position with the plate held to one side.
     -   Lift the plate diagonally and up over the opposite shoulder.
@@ -62,16 +62,16 @@
 
 *  D1. Plank Step-Up
 
-    [[https://www.youtube.com/embed/wiqVGrgaV4Q]]
-    [[https://img.youtube.com/vi/wiqVGrgaV4Q/hqdefault.jpg]]
+    {{{youtube(wiqVGrgaV4Q)}}}
+
 
     -   Maintain perfect alignment of shoulders hips and ankles
     -   Walk onto and off of the step as quickly as possible
 
 *  D2. Scissor Jumps for height
 
-    [[https://www.youtube.com/embed/Bo_Rg5fhZMQ]]
-    [[https://img.youtube.com/vi/Bo_Rg5fhZMQ/hqdefault.jpg]]
+    {{{youtube(Bo_Rg5fhZMQ)}}}
+
 
     -   Aim for maximum height
     -   Feet should be shoulder width apart when landing.

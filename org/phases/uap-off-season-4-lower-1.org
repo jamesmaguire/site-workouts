@@ -4,35 +4,35 @@
 #+HTML_LINK_UP: uap-off-season-4.html
 
 * A. Rotational Scoop Toss
-    [[https://www.youtube.com/embed/yqM86sNdRzU]]
-    [[https://img.youtube.com/vi/yqM86sNdRzU/hqdefault.jpg]]
+    {{{youtube(yqM86sNdRzU)}}}
+
 
     - Start with hips perpendicular to the wall.
     - Throw the ball as hard as you can at the wall. Try to break the wall.
     - After follow through, hips should be about square to the wall.
 
 * B1. Snatch Progression
-    [[https://www.youtube.com/embed/Zo2K2l9rMp0]]
-    [[https://img.youtube.com/vi/Zo2K2l9rMp0/hqdefault.jpg]]
+    {{{youtube(Zo2K2l9rMp0)}}}
+
 
     - All about the hips. Get hips back.
     - "Jump" the weight up.
     - Keep the weight close to your body. Should come straight up, not out away from your body.
     - Lock out elbows in the catch.
     - If you do not have the shoulder mobility required for this exercise or it is otherwise uncomfortable, try dumb bell snatches instead. Do 6 reps - three in each hand.
-    - Here's an (Alternate) DB Snatch Progression: [[https://www.youtube.com/embed/lDQscKAcVcM][Link]]
-    [[https://img.youtube.com/vi/lDQscKAcVcM][Link/hqdefault.jpg]]
+    - Here's an (Alternate) DB Snatch Progression: {{{youtubelink(lDQscKAcVcM)}}}
+
 
 * B2. Box Jumps
-    [[https://www.youtube.com/embed/tVnU1kwoIMM]]
-    [[https://img.youtube.com/vi/tVnU1kwoIMM/hqdefault.jpg]]
+    {{{youtube(tVnU1kwoIMM)}}}
+
 
     - Find a bench, box, or other object that allows you to land on it with a knee angle of greater than 90 degrees. Otherwise, the surface is definitely too high.
     - Land softly with the entire foot on the surface.
 
 * C1. Backward Lunges
-    [[https://www.youtube.com/embed/BYbEvMbOfMI]]
-    [[https://img.youtube.com/vi/BYbEvMbOfMI/hqdefault.jpg]]
+    {{{youtube(BYbEvMbOfMI)}}}
+
 
     - Step back with one leg. Do not let your knee touch the ground
     - Explosively step forward again using primarily the front leg
@@ -40,8 +40,8 @@
     - Do all reps on one leg first and then the other
 
 * C2.Barbell RDL
-    [[https://www.youtube.com/embed/XxM-QNjznF0]]
-    [[https://img.youtube.com/vi/XxM-QNjznF0/hqdefault.jpg]]
+    {{{youtube(XxM-QNjznF0)}}}
+
 
     - Keep back flat
     - Knees at about 10 degree angle throughout the movement

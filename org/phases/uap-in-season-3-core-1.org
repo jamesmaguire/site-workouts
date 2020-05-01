@@ -6,8 +6,8 @@
 
 * A1. Plank Walk
 
-    [[https://www.youtube.com/embed/kgUyyg22tIA]]
-    [[https://img.youtube.com/vi/kgUyyg22tIA/hqdefault.jpg]]
+    {{{youtube(kgUyyg22tIA)}}}
+
 
     -   Keep shoulders, hips, and ankles in a line
     -   Walk ten yards sideways and back twice for a total of forty yards.
@@ -16,8 +16,8 @@
 
 * A2. Stability Ball Pike
 
-    [[https://www.youtube.com/embed/jAA5x303V-A]]
-    [[https://img.youtube.com/vi/jAA5x303V-A/hqdefault.jpg]]
+    {{{youtube(jAA5x303V-A)}}}
+
 
     -   Start in a plank position with shoulders retracted.
     -   With the core engaged, initiate the movement of the ball with your
@@ -27,8 +27,8 @@
 
 * A3. Side Plank with Hip Abduction
 
-    [[https://www.youtube.com/embed/1_k1Vr9xe4I]]
-    [[https://img.youtube.com/vi/1_k1Vr9xe4I/hqdefault.jpg]]
+    {{{youtube(1_k1Vr9xe4I)}}}
+
 
     -   Lift hips off the ground to come to a plank position
     -   Lift leg as high as is comfortable keeping toes pointed forward.

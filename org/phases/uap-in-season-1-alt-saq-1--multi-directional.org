@@ -4,16 +4,16 @@
 #+HTML_LINK_UP: uap-in-season-1-alt.html
 
 * A. One Foot Forward Hop into Marking Base
-    [[https://www.youtube.com/embed/eCf9JI8fkcU]]
-    [[https://img.youtube.com/vi/eCf9JI8fkcU/hqdefault.jpg]]
+    {{{youtube(eCf9JI8fkcU)}}}
+
 
     - Hop forward off of one foot and land in your marking base.
     - Hold for 2-5 seconds.
     - Reset and repeat for 10 jumps off your left foot and 10 jumps off of your right foot.
 
 * B: Fast Feet Shuffle
-    [[https://www.youtube.com/embed/UvgZCVcsReA]]
-    [[https://img.youtube.com/vi/UvgZCVcsReA/hqdefault.jpg]]
+    {{{youtube(UvgZCVcsReA)}}}
+
 
     Standing in your marking base, you're going to do the fast feet drill, but this time you'll be shuffling between two cones at about 5 yards (4.5 meters) apart.
 
@@ -22,8 +22,8 @@
     Alternate which direction you start. Do 1 where you start toward the left and 1 where you start toward the right.
 
 * C. Side Shuffle with Pause and Reach
-    [[https://www.youtube.com/embed/GcyU5FrmcPY]]
-    [[https://img.youtube.com/vi/GcyU5FrmcPY/hqdefault.jpg]]
+    {{{youtube(GcyU5FrmcPY)}}}
+
 
     Set up two cones/items to mark off 5 yards or 4.5 meters. You'll side shuffle from one object to the other, and reach/pause. (Remember, you're visualizing reaching to block a high release, low release or standard "around" throw at that cone). Focus on minimizing weight shifts. Your goal is to be able to reach without letting your weight shift to your outside leg. Things to add today:
 

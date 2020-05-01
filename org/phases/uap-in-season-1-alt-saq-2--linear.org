@@ -4,8 +4,8 @@
 #+HTML_LINK_UP: uap-in-season-1-alt.html
 
 * A. Lateral Shuffle to Sprint
-    [[https://www.youtube.com/embed/hX3TKqIFCbM]]
-    [[https://img.youtube.com/vi/hX3TKqIFCbM/hqdefault.jpg]]
+    {{{youtube(hX3TKqIFCbM)}}}
+
 
     - One rep = 7 yard shuffle, 20 yards sprint
     - Rest 60 seconds between reps
@@ -14,16 +14,16 @@
     - After the last rep, rest 2 minutes
 
 * B. 3-Point Start
-    [[https://www.youtube.com/embed/j76bJSWSKzg]]
-    [[https://img.youtube.com/vi/j76bJSWSKzg/hqdefault.jpg]]
+    {{{youtube(j76bJSWSKzg)}}}
+
 
     - Rest 60 seconds between reps
     - 3 Reps facing each direction
     - After the last rep, rest 2 minutes
 
 * C. Low Squat Jump
-    [[https://www.youtube.com/embed/tiaf7MAyJ-w]]
-    [[https://img.youtube.com/vi/tiaf7MAyJ-w/hqdefault.jpg]]
+    {{{youtube(tiaf7MAyJ-w)}}}
+
 
     - Try to get your hands lower than your knees while maintaining a neutral spine.
     - Rapidly bring your knees to your chest for 10 seconds

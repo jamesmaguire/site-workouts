@@ -10,8 +10,8 @@
 
 *  A. Shuffle
 
-     [[https://www.youtube.com/embed/aIEw4tUr1ys]]
-     [[https://img.youtube.com/vi/aIEw4tUr1ys/hqdefault.jpg]]
+     {{{youtube(aIEw4tUr1ys)}}}
+
 
      -   about 10 yards
 
@@ -21,8 +21,8 @@
 
 *  C. Forward, Back, Spin, Sprint
 
-     [[https://www.youtube.com/embed/WHHYJO_Koyo]]
-     [[https://img.youtube.com/vi/WHHYJO_Koyo/hqdefault.jpg]]
+     {{{youtube(WHHYJO_Koyo)}}}
+
 
 
 

@@ -4,8 +4,8 @@
 #+HTML_LINK_UP: uap-off-season-2.html
 
 * A1. Squat Jumps
-    [[https://www.youtube.com/embed/U4l8ZYKkQBQ]]
-    [[https://img.youtube.com/vi/U4l8ZYKkQBQ/hqdefault.jpg]]
+    {{{youtube(U4l8ZYKkQBQ)}}}
+
 
     - Total weight used, including the bar, should be less than 30-35% bodyweight (most bars weigh 30-45 lbs)
     - Maintain a neutral spine
@@ -13,8 +13,8 @@
     - Minimize ground contact time as you explode up as high as possible.
 
 * A2. Snatch Grip Jumps
-    [[https://www.youtube.com/embed/f9WcIL1gd3k]]
-    [[https://img.youtube.com/vi/f9WcIL1gd3k/hqdefault.jpg]]
+    {{{youtube(f9WcIL1gd3k)}}}
+
 
     - Grip is wide, elbows are locked out
     - Depth is about a quarter squat before exploding upward
@@ -22,15 +22,15 @@
     - Maintain a neutral spine
 
 * B1. Russian Step Ups
-    [[https://www.youtube.com/embed/jSnoZlYUttg]]
-    [[https://img.youtube.com/vi/jSnoZlYUttg/hqdefault.jpg]]
+    {{{youtube(jSnoZlYUttg)}}}
+
 
     - find a rhythm, be explosive, drive the knee up!
     - Use the foot on the bench to initiate and drive the movement. Don't "bounce" off the foot landing on the ground.
 
 * B2. DB Single Leg Deadlift (SLDL)
-    [[https://www.youtube.com/embed/JiAYM5SGoAU]]
-    [[https://img.youtube.com/vi/JiAYM5SGoAU/hqdefault.jpg]]
+    {{{youtube(JiAYM5SGoAU)}}}
+
 
     - keep shoulders hips and knee in a line as you push your hip back and lower your torso.
     - knee of working leg should be bent about 10 degrees
@@ -38,16 +38,16 @@
     - try doing the whole set without allowing the other leg to touch the ground
 
 * C1. Walking Side Lunges
-    [[https://www.youtube.com/embed/TWqFvMVDV38]]
-    [[https://img.youtube.com/vi/TWqFvMVDV38/hqdefault.jpg]]
+    {{{youtube(TWqFvMVDV38)}}}
+
 
     - Don't rest weight on thighs as you lunge.
     - Chest tall, hips back.
     - Keep hips and toes perpendicular to the direction of the lunge
 
 * C2. Supine Band Hip Flexion
-    [[https://www.youtube.com/embed/y3hdjZE85yY]]
-    [[https://img.youtube.com/vi/y3hdjZE85yY/hqdefault.jpg]]
+    {{{youtube(y3hdjZE85yY)}}}
+
 
     - Keep the opposite leg on the ground.
     - Get the working leg past parallel and hold it there.

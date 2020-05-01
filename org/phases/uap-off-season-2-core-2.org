@@ -4,22 +4,22 @@
 #+HTML_LINK_UP: uap-off-season-2.html
 
 * A1. Kneeling Overhead Pallov Press
-    [[https://www.youtube.com/embed/tGgkOlsd7Pc]]
-    [[https://img.youtube.com/vi/tGgkOlsd7Pc/hqdefault.jpg]]
+    {{{youtube(tGgkOlsd7Pc)}}}
+
 
     - Knee closest to the cable column is on the floor
     - Attempt to hold the cable handle straight above your head without leaning in either direction.
 
 * A2. Kneeling Reverse Half Chop
-    [[https://www.youtube.com/embed/IR7smihfMTE]]
-    [[https://img.youtube.com/vi/IR7smihfMTE/hqdefault.jpg]]
+    {{{youtube(IR7smihfMTE)}}}
+
 
     - Knee closest to the cable column is on the floor
     - Look at the weight as you pull it across your body
 
 * A3. One Arm One Leg Row
-    [[https://www.youtube.com/embed/zVTQi0JZ6sA]]
-    [[https://img.youtube.com/vi/zVTQi0JZ6sA/hqdefault.jpg]]
+    {{{youtube(zVTQi0JZ6sA)}}}
+
 
     - Keep hips level.
     - Resist rotation of the torso and hips as you pull.

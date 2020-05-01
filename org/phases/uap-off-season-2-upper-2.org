@@ -4,43 +4,43 @@
 #+HTML_LINK_UP: uap-off-season-2.html
 
 * A1. Barbell Bench Press
-    [[https://www.youtube.com/embed/r7WFii7ezGM]]
-    [[https://img.youtube.com/vi/r7WFii7ezGM/hqdefault.jpg]]
+    {{{youtube(r7WFii7ezGM)}}}
+
 
     - Shoulders flat on the bench.
     - Keep shoulders retracted
 
 * A2. Lying Medicine ball Toss
-    [[https://www.youtube.com/embed/GdXWjERB8G0]]
-    [[https://img.youtube.com/vi/GdXWjERB8G0/hqdefault.jpg]]
+    {{{youtube(GdXWjERB8G0)}}}
+
 
     - Like a basketball chest pass.
     - If you do not have a partner, you can throw a med ball against the wall. For best results, use a ball that bounces back so you get the eccentric portion of exercise.
 
 * A3. Paused DB Row
-    [[https://www.youtube.com/embed/g-0MQ_0Blck]]
-    [[https://img.youtube.com/vi/g-0MQ_0Blck/hqdefault.jpg]]
+    {{{youtube(g-0MQ_0Blck)}}}
+
 
     - Keep shoulders parallel to the floor.
     - Bring the weight up to parallel with your torso and hold for two counts.
 
 * B1. Stability Ball Incline DB Fly
-    [[https://www.youtube.com/embed/rVPVf8JDen0]]
-    [[https://img.youtube.com/vi/rVPVf8JDen0/hqdefault.jpg]]
+    {{{youtube(rVPVf8JDen0)}}}
+
 
     - Shoulders on stability ball
     - Drop hips to create an incline
 
 * B2. 1 & 1/4 Supine Grip Inverse Rows
-    [[https://www.youtube.com/embed/E5pQ7CnkijI]]
-    [[https://img.youtube.com/vi/E5pQ7CnkijI/hqdefault.jpg]]
+    {{{youtube(E5pQ7CnkijI)}}}
+
 
     - Get chest up to the bar
     - This exercise can be done with the feet on the floor to lessen the difficulty
 
 * C1. Plate Drop
-    [[https://www.youtube.com/embed/mZTiH_Wk1r8]]
-    [[https://img.youtube.com/vi/mZTiH_Wk1r8/hqdefault.jpg]]
+    {{{youtube(mZTiH_Wk1r8)}}}
+
 
     - Keep shoulders retracted
     - Drop and catch the weight as quickly as possible.

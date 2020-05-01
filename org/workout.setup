@@ -7,3 +7,7 @@
 
 # Navigation
 #+HTML_LINK_HOME: ../index.html
+
+# Video links
+#+macro: youtube https://www.youtube.com/embed/$1?rel=0 https://img.youtube.com/vi/$1/hqdefault.jpg
+#+macro: youtubelink https://www.youtube.com/embed/$1?rel=0

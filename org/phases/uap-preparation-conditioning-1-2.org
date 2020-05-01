@@ -21,8 +21,8 @@
 * Conditioning 2: Skater Hops with Cone Touch
     This session will work on your Lateral conditioning.
 
-    [[https://www.youtube.com/embed/OTUNlc93jac]]
-    [[https://img.youtube.com/vi/OTUNlc93jac/hqdefault.jpg]]
+    {{{youtube(OTUNlc93jac)}}}
+
 
     - Full intensity for 30 seconds. rest 90 seconds. Repeat 3 times
     - Add one repetition each week.

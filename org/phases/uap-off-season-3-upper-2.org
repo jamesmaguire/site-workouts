@@ -4,22 +4,22 @@
 #+HTML_LINK_UP: uap-off-season-3.html
 
 * A. Flat Barbell Bench Press
-    [[https://www.youtube.com/embed/1kesKanT4B0]]
-    [[https://img.youtube.com/vi/1kesKanT4B0/hqdefault.jpg]]
+    {{{youtube(1kesKanT4B0)}}}
+
 
     - retract your shoulders so that they are flat on the bench
     - grip should be slightly wider than shoulder width
 
 * B1. Paused One Arm DB Row
-    [[https://www.youtube.com/embed/g-0MQ_0Blck]]
-    [[https://img.youtube.com/vi/g-0MQ_0Blck/hqdefault.jpg]]
+    {{{youtube(g-0MQ_0Blck)}}}
+
 
     - Keep shoulders parallel to the floor.
     - Bring the weight up to parallel with your torso and hold for two counts.
 
 * B2. Pullover
-    [[https://www.youtube.com/embed/52c015jdieo]]
-    [[https://img.youtube.com/vi/52c015jdieo/hqdefault.jpg]]
+    {{{youtube(52c015jdieo)}}}
+
 
     - Keep elbows at approximately the same angle throughout the movement
     - As you lower the weight, you should feel a slight stretch in your lower pectoral muscles
@@ -28,8 +28,8 @@
     - At the end of your set, place the weight on the bench beside you or drop it to the floor after lowering it behind your head.
 
 * C. W Raise
-    [[https://www.youtube.com/embed/f1GykMQwmHg]]
-    [[https://img.youtube.com/vi/f1GykMQwmHg/hqdefault.jpg]]
+    {{{youtube(f1GykMQwmHg)}}}
+
 
     - lie face down on the floor
     - retract the shoulders and make a "W" with your arms

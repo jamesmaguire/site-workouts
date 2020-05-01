@@ -6,8 +6,8 @@
 
 *  A1. High Pulls From Hang
 
-    [[https://www.youtube.com/embed/GO6mKZJtVwQ]]
-    [[https://img.youtube.com/vi/GO6mKZJtVwQ/hqdefault.jpg]]
+    {{{youtube(GO6mKZJtVwQ)}}}
+
 
     -   Shoulders over bar
     -   Hips back (like in a Romanian deadlift)
@@ -16,8 +16,8 @@
 
 *  B1. Paused RFESS
 
-    [[https://www.youtube.com/embed/QK3J4Xwv3Ww]]
-    [[https://img.youtube.com/vi/QK3J4Xwv3Ww/hqdefault.jpg]]
+    {{{youtube(QK3J4Xwv3Ww)}}}
+
 
     -   Back foot can be dorfiflexed or flat. whatever position is
       comfortable and stable is fine
@@ -27,8 +27,8 @@
 
 *  B2. Low Squat to Scissor Jumps
 
-    [[https://www.youtube.com/embed/7KdMV6CYv6A]]
-    [[https://img.youtube.com/vi/7KdMV6CYv6A/hqdefault.jpg]]
+    {{{youtube(7KdMV6CYv6A)}}}
+
 
     -   Minimal ground contact time is the goal
     -   Get UP on the jumps to split squat
@@ -38,8 +38,8 @@
 
 *  B3. Accentuated Barbell RDL
 
-    [[https://www.youtube.com/embed/HKct5jJDSXo]]
-    [[https://img.youtube.com/vi/HKct5jJDSXo/hqdefault.jpg]]
+    {{{youtube(HKct5jJDSXo)}}}
+
 
     -   Get your hips back. Knees bent at about 10-15 degrees.
     -   Maintain a neutral spine!
@@ -52,8 +52,8 @@
 
 *  C1. Stability Ball Hip Raise to Bridge
 
-    [[https://www.youtube.com/embed/MEqwmz-nfVo]]
-    [[https://img.youtube.com/vi/MEqwmz-nfVo/hqdefault.jpg]]
+    {{{youtube(MEqwmz-nfVo)}}}
+
 
     -   First raise your hips to parallel by squeezing your glutes.
     -   Maintain the tension in your glutes to keep your hip us as you bring
@@ -65,8 +65,8 @@
 
 *  C2. Wall Overhead Iso Squat
 
-    [[https://www.youtube.com/embed/Cmgb_eKAYyU]]
-    [[https://img.youtube.com/vi/Cmgb_eKAYyU/hqdefault.jpg]]
+    {{{youtube(Cmgb_eKAYyU)}}}
+
 
     -   Keep elbows locked out
     -   Knees near 90 degrees

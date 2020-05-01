@@ -4,20 +4,20 @@
 #+HTML_LINK_UP: uap-off-season-1.html
 
 * A1. Paused Incline DB Press
-    [[https://www.youtube.com/embed/k4mI7a_tSbw]]
-    [[https://img.youtube.com/vi/k4mI7a_tSbw/hqdefault.jpg]]
+    {{{youtube(k4mI7a_tSbw)}}}
+
 
     - during the pause at the bottom your pectorals should feel tension
 
 * A2. Low Incline Prone Paused DB Row
-    [[https://www.youtube.com/embed/XqkV8RL4iaM]]
-    [[https://img.youtube.com/vi/XqkV8RL4iaM/hqdefault.jpg]]
+    {{{youtube(XqkV8RL4iaM)}}}
+
 
     - really squeeze your shoulder blades together at the top as you hold for 2 counts
 
 * B1. Pullovers
-    [[https://www.youtube.com/embed/52c015jdieo]]
-    [[https://img.youtube.com/vi/52c015jdieo/hqdefault.jpg]]
+    {{{youtube(52c015jdieo)}}}
+
 
     - Keep elbows at approximately the same angle throughout the movement
     - As you lower the weight, you should feel a slight stretch in your lower pectoral muscles
@@ -26,22 +26,22 @@
     - At the end of your set, place the weight on the bench beside you or drop it to the floor after lowering it behind your head.
 
 * B2. 1 & 1/4 Semi-supinated grip Pull-ups
-    [[https://www.youtube.com/embed/vE9L7GC4y8E]]
-    [[https://img.youtube.com/vi/vE9L7GC4y8E/hqdefault.jpg]]
+    {{{youtube(vE9L7GC4y8E)}}}
+
 
     - Grip the bar with palms facing one another
     - If you do not have a bar that allows this, grip with palms facing toward you
     - If you have no way to do assisted chinups, you can do lat pulldowns instead (though these are not quite as good)
 
 * C1. Speed Push-ups
-    [[https://www.youtube.com/embed/7lHuWdR6iQs]]
-    [[https://img.youtube.com/vi/7lHuWdR6iQs/hqdefault.jpg]]
+    {{{youtube(7lHuWdR6iQs)}}}
+
 
     - do as many pushups as possible. be explosive! don't pace yourself, go fast.
 
 * C2. Incline Y to T Raise
-    [[https://www.youtube.com/embed/2Z-Ib02O8J0]]
-    [[https://img.youtube.com/vi/2Z-Ib02O8J0/hqdefault.jpg]]
+    {{{youtube(2Z-Ib02O8J0)}}}
+
 
     - Initiate the movement at the shoulders. Thumbs face up to the Y position.
     - Retract the shoulders fully and rotate to thumbs down as you bring the weight back to the T position.

@@ -4,8 +4,8 @@
 #+HTML_LINK_UP: uap-pre-season-3.html
 
 * A1. High Pull from the Floor
-    [[https://www.youtube.com/embed/ZcSdx0oc4kw]]
-    [[https://img.youtube.com/vi/ZcSdx0oc4kw/hqdefault.jpg]]
+    {{{youtube(ZcSdx0oc4kw)}}}
+
 
     - If mobility issues prevent you from easily getting in position, do these from a higher position.
     - Elbows should be locked out at the start (to avoid jerking your shoulders out of socket please!)
@@ -14,16 +14,16 @@
     - Explode and cause the weight to come straight up. You should feel like you are "jumping" the weight up with your hips, not pulling the weight up with your arms. You may notice your hips drop again as the weight comes up. This is fine.
 
 * B1. 1 & 1/4 Rear Foot Elevated Split Squat
-    [[https://www.youtube.com/embed/YJkfv07vEEg]]
-    [[https://img.youtube.com/vi/YJkfv07vEEg/hqdefault.jpg]]
+    {{{youtube(YJkfv07vEEg)}}}
+
 
     - Get front thigh to parallel
     - Quarter rep is at the bottom
     - Keep shoulders back, chest tall
 
 * B2. Hip Thrusts
-    [[https://www.youtube.com/embed/tWd5ikvnaPc]]
-    [[https://img.youtube.com/vi/tWd5ikvnaPc/hqdefault.jpg]]
+    {{{youtube(tWd5ikvnaPc)}}}
+
 
     - Weight rests approximately on hip flexors
     - Place a sweatshirt or folded up yoga mat between your hips and the weight for added comfort.
@@ -31,8 +31,8 @@
     - Focus on squeezing your glutes. Keep back straight, not arched.
 
 * C1. Accentuated King DB RDL
-    [[https://www.youtube.com/embed/At9rCSBgy8c]]
-    [[https://img.youtube.com/vi/At9rCSBgy8c/hqdefault.jpg]]
+    {{{youtube(At9rCSBgy8c)}}}
+
 
     - Use one leg on the eccentric phase (lowering the weight), two legs on the concentric phase (raising the weight)
     - Get your hips through at the top
@@ -41,8 +41,8 @@
     - Think about moving your hips back when lowering the weight. Make yourself stand up by using your glutes/hamstrings to push your hips forward.
 
 * C2. Supine Band Hip Flexion
-    [[https://www.youtube.com/embed/y3hdjZE85yY]]
-    [[https://img.youtube.com/vi/y3hdjZE85yY/hqdefault.jpg]]
+    {{{youtube(y3hdjZE85yY)}}}
+
 
     - Keep the opposite leg on the ground.
     - Get the working leg past parallel and hold it there

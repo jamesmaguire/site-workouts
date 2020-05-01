@@ -4,23 +4,23 @@
 #+HTML_LINK_UP: uap-pre-season-3.html
 
 * A1. One Arm Carry
-    [[https://www.youtube.com/embed/h0QZyB5mvkc]]
-    [[https://img.youtube.com/vi/h0QZyB5mvkc/hqdefault.jpg]]
+    {{{youtube(h0QZyB5mvkc)}}}
+
 
     - Use a heavy dumbbell
     - Walk 20 yards and back
 
 * A2. Side Medicine Ball Toss
-    [[https://www.youtube.com/embed/Qxd1UiuClfM]]
-    [[https://img.youtube.com/vi/Qxd1UiuClfM/hqdefault.jpg]]
+    {{{youtube(Qxd1UiuClfM)}}}
+
 
     - Hips face perpendicular to the wall or a partner and stay that way.
     - Be close enough to the wall that the ball bounces back at you with some force or do this exercise with a partner who catches the med ball and throws it back.
     - Use your core, not your arms to throw the ball.
 
 * A3. Barbell to Bodyweight Crunch
-    [[https://www.youtube.com/embed/BxhNQDTxrgM]]
-    [[https://img.youtube.com/vi/BxhNQDTxrgM/hqdefault.jpg]]
+    {{{youtube(BxhNQDTxrgM)}}}
+
 
     - Keep weight directly over head.
     - Core should be engaged at all times (maybe just shy of fully sitting up).

@@ -6,8 +6,8 @@
 
 *  A1. Front Squat
 
-    [[https://www.youtube.com/embed/JFEqNGbpKaw]]
-    [[https://img.youtube.com/vi/JFEqNGbpKaw/hqdefault.jpg]]
+    {{{youtube(JFEqNGbpKaw)}}}
+
 
     -   The bar is resting on your clavicles (collarbone) and held there
       with your hands in an open grip (fingers not wrapped around the
@@ -17,8 +17,8 @@
 
 *  A2. Tuck Jumps
 
-    [[https://www.youtube.com/embed/uCgaMLjr20I]]
-    [[https://img.youtube.com/vi/uCgaMLjr20I/hqdefault.jpg]]
+    {{{youtube(uCgaMLjr20I)}}}
+
 
     -   Minimize ground contact time.
     -   Land quietly on the mid-forefoot and explode up again as quickly as
@@ -29,8 +29,8 @@
 
 *  B1. Barbell Romanian Deadlift (RDL)
 
-    [[https://www.youtube.com/embed/XxM-QNjznF0]]
-    [[https://img.youtube.com/vi/XxM-QNjznF0/hqdefault.jpg]]
+    {{{youtube(XxM-QNjznF0)}}}
+
 
     -   Get your hips back. Knees bent at about 10-15 degrees.
     -   Maintain a neutral spine!
@@ -43,8 +43,8 @@
 
 *  B2. Walking Lunges
 
-    [[https://www.youtube.com/embed/NTiYltLIVB0]]
-    [[https://img.youtube.com/vi/NTiYltLIVB0/hqdefault.jpg]]
+    {{{youtube(NTiYltLIVB0)}}}
+
 
     -   Aim for 90 degree angle of the lunging knee but do not let your back
       knee touch the ground.
@@ -55,8 +55,8 @@
 
 *  C1. Stability Ball Hip Extension / Lying Curl
 
-    [[https://www.youtube.com/embed/h1Us6x0fuPI]]
-    [[https://img.youtube.com/vi/h1Us6x0fuPI/hqdefault.jpg]]
+    {{{youtube(h1Us6x0fuPI)}}}
+
 
     -   First raise your hips to parallel by squeezing your glutes.
     -   Maintain the tension in your glutes to keep your hip us as you bring
@@ -68,16 +68,16 @@
 
 *  Alternate two legged version
 
-    [[https://www.youtube.com/embed/MEqwmz-nfVo]]
-    [[https://img.youtube.com/vi/MEqwmz-nfVo/hqdefault.jpg]]
+    {{{youtube(MEqwmz-nfVo)}}}
+
 
     -   If single leg is too difficult (it's definitely not easy!) it's
       better to have good form on the two legged version.
 
 *  C2. Romanian Rhythm Squats
 
-    [[https://www.youtube.com/embed/MmWbus0fmdo]]
-    [[https://img.youtube.com/vi/MmWbus0fmdo/hqdefault.jpg]]
+    {{{youtube(MmWbus0fmdo)}}}
+
 
     -   Fast quarter squats. Alternate 10 reps with the whole foot on the
       ground with ten reps going up on your toes until you get to 50 reps.

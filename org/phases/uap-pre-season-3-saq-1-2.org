@@ -7,8 +7,8 @@
 
 * SAQ 1: Jumping & Acceleration
 * A. 2 Low Squat Jumps to Scissor Jump and Sprint 10 Yards
-     [[https://www.youtube.com/embed/077_AiKQD9E]]
-     [[https://img.youtube.com/vi/077_AiKQD9E/hqdefault.jpg]]
+     {{{youtube(077_AiKQD9E)}}}
+
 
      - concentrate on really getting the knees UP on the low squat jumps
      - EXPLODE as high as possible on the split squat jump
@@ -16,20 +16,20 @@
 
 * B. Power Skips for Distance
 * C. 3 Step Approach Jump
-     [[https://www.youtube.com/embed/ldBS5OCXVTk]]
-     [[https://img.youtube.com/vi/ldBS5OCXVTk/hqdefault.jpg]]
+     {{{youtube(ldBS5OCXVTk)}}}
+
 
 * SAQ 2: Footwork & Discwork
 * A. Jog 10 yards, jab step to 10 yard sprint
-     [[https://www.youtube.com/embed/GH-BsJmJYpo]]
-     [[https://img.youtube.com/vi/GH-BsJmJYpo/hqdefault.jpg]]
+     {{{youtube(GH-BsJmJYpo)}}}
+
 
 * B. Jog 10 yards, waltz step to 10 yard sprint
-     [[https://www.youtube.com/embed/5XuZFr3cHWE]]
-     [[https://img.youtube.com/vi/5XuZFr3cHWE/hqdefault.jpg]]
+     {{{youtube(5XuZFr3cHWE)}}}
+
 
 * C. 3 Cone Throw and Go Acceleration
      (cones about 10 yards apart)
 
-     [[https://www.youtube.com/embed/2liNHLeuAKE]]
-     [[https://img.youtube.com/vi/2liNHLeuAKE/hqdefault.jpg]]
+     {{{youtube(2liNHLeuAKE)}}}
+

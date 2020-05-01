@@ -6,8 +6,8 @@
 For the quantities of sets, reps, and timing of each exercise please see the [[../../docs/uap-pdfs/6week.pdf][PDF]] Exercises below are listed in the order they appear in the program.
 
 * 1. The 80/20 workout
-  https://www.youtube.com/embed/cZA1U6-Etb4
-  https://img.youtube.com/vi/cZA1U6-Etb4/hqdefault.jpg
+  {{{youtube(cZA1U6-Etb4)}}}
+
   
   This is the standard workout you'll be using for the duration of the program.
 
@@ -18,17 +18,17 @@ For the quantities of sets, reps, and timing of each exercise please see the [[.
 * 2. Skater Hops
   See pdf for reps and work:rest intervals
   
-  https://www.youtube.com/embed/OTUNlc93jac
-  https://img.youtube.com/vi/OTUNlc93jac/hqdefault.jpg
+  {{{youtube(OTUNlc93jac)}}}
+
 
 * 3. 150 shuttles
   Can be done as 160 shuttles instead if you're using an ultimate field for your workouts. Attempt to change direction with right and left handed turns an equal number of times.
   
-  https://www.youtube.com/embed/ZAuBWII18p4
-  https://img.youtube.com/vi/ZAuBWII18p4/hqdefault.jpg
+  {{{youtube(ZAuBWII18p4)}}}
+
   
 * 4. Zig Zag Sprints
   Set up 2 rows of cones about 5-7 yards apart. In each row, three cones are placed about 8 yards apart. The two rows are off set by 4 yards to create a zig-zag pattern.
 
-  https://www.youtube.com/embed/YdgYleKenGM
-  https://img.youtube.com/vi/YdgYleKenGM/hqdefault.jpg
+  {{{youtube(YdgYleKenGM)}}}
+

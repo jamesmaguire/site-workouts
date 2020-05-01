@@ -15,8 +15,8 @@
 * SAQ 1
 * A. 3 Point Start to Uphill 15 yard sprint
 
-     [[https://www.youtube.com/embed/j76bJSWSKzg]]
-     [[https://img.youtube.com/vi/j76bJSWSKzg/hqdefault.jpg]]
+     {{{youtube(j76bJSWSKzg)}}}
+
 
      -   Hips up. Feet should be closer to hands than you might think.
      -   Lean over the hand on the ground. You should feel that you are close
@@ -27,23 +27,23 @@
 
 * B. 3 Step Approach Jump
 
-     [[https://www.youtube.com/embed/ldBS5OCXVTk]]
-     [[https://img.youtube.com/vi/ldBS5OCXVTk/hqdefault.jpg]]
+     {{{youtube(ldBS5OCXVTk)}}}
+
 
 * C. Shuffle to Sprint- 15 yards
 
-     [[https://www.youtube.com/embed/hX3TKqIFCbM]]
-     [[https://img.youtube.com/vi/hX3TKqIFCbM/hqdefault.jpg]]
+     {{{youtube(hX3TKqIFCbM)}}}
+
 
 * D. Jog to Jab Step and Cut- 10 Yards
 
-     [[https://www.youtube.com/embed/GH-BsJmJYpo]]
-     [[https://img.youtube.com/vi/GH-BsJmJYpo/hqdefault.jpg]]
+     {{{youtube(GH-BsJmJYpo)}}}
+
 
 * E. Jog to Waltz Step and Cut- 10 Yards
 
-     [[https://www.youtube.com/embed/5XuZFr3cHWE]]
-     [[https://img.youtube.com/vi/5XuZFr3cHWE/hqdefault.jpg]]
+     {{{youtube(5XuZFr3cHWE)}}}
+
 
 * SAQ 2
 
@@ -52,8 +52,8 @@
 
 * A1. Backward Medicine Ball Toss
 
-     [[https://www.youtube.com/embed/ySGKPo_1VT0]]
-     [[https://img.youtube.com/vi/ySGKPo_1VT0/hqdefault.jpg]]
+     {{{youtube(ySGKPo_1VT0)}}}
+
 
      -   6 Reps each week
      -   2 Sets each week
@@ -61,8 +61,8 @@
 
 * A2. 1 Leg Medicine Ball Toss
 
-     [[https://www.youtube.com/embed/NEBVhpi0QZg]]
-     [[https://img.youtube.com/vi/NEBVhpi0QZg/hqdefault.jpg]]
+     {{{youtube(NEBVhpi0QZg)}}}
+
 
      -   6 reps (3 each leg) each week
      -   2 Sets each week

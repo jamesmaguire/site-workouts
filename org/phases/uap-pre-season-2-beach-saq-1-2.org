@@ -10,13 +10,13 @@
 
 *  A. Jab Step Agility to Cut
 
-     [[https://www.youtube.com/embed/_6k3XvTzuak]]
-     [[https://img.youtube.com/vi/_6k3XvTzuak/hqdefault.jpg]]
+     {{{youtube(_6k3XvTzuak)}}}
+
 
 *  B. Waltz Agility to Cut
 
-     [[https://www.youtube.com/embed/GD_f0hbzGcs]]
-     [[https://img.youtube.com/vi/GD_f0hbzGcs/hqdefault.jpg]]
+     {{{youtube(GD_f0hbzGcs)}}}
+
 
 * SAQ 2:
 
