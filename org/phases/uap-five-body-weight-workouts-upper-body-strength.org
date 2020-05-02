@@ -15,7 +15,7 @@ Do each of the exercises for the recommended repetitions. Repeat the circuit 2-3
 
 * A1. Rocking Pushups
 
-  https://fast.wistia.net/embed/iframe/pc2ii2vih2
+  {{{wistialink(pc2ii2vih2)}}}
   https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/QI2x1GaQke1AuYofcnqK_Rocking_Pushups_1.jpg
 
   This is a great exercise for naturally cueing good pushup form. It is far superior to pushups from the knees for those who cannot do full pushups because the spine tends to maintain the preferred alignment throughout the movement and the elbows stay tucked in.
@@ -24,7 +24,7 @@ Do each of the exercises for the recommended repetitions. Repeat the circuit 2-3
 
 * A2. Side-to-Side Monkey Crawl
 
-  https://fast.wistia.net/embed/iframe/ibf0bw3evg
+  {{{wistialink(ibf0bw3evg)}}}
   https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/yeSc9utYS9uflj1cGWHp_Side-to-Side_Monkey_Crawl_1.jpg
 
   One rep includes both sides.
@@ -33,7 +33,7 @@ Do each of the exercises for the recommended repetitions. Repeat the circuit 2-3
 
 * A3. Wall-Catch Pushups
 
-  https://fast.wistia.net/embed/iframe/q9s2q8n6m3
+  {{{wistialink(q9s2q8n6m3)}}}
   https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/AtTKbDfRFepN6gszwk2w_Wall-Catch_Pushups_1.jpg
 
   The goal of this exercise is to catch yourself with the elbows at about 90 degrees. This engages the muscle fibers of the pectorals very quickly. It adds a bit of power stimulus to your upper body routine.

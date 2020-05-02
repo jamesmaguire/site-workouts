@@ -10,13 +10,13 @@ Do each exercise for the specified number of reps and move on to the next one. N
 - Rowboat (5-15 reps)
 
 * A1. Plank walk
-  https://fast.wistia.net/embed/iframe/l6qvkf555v
   https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/ten2wZdaQtOffCqyCdu6_Plank_Walk.png
+  {{{wistialink(l6qvkf555v)}}}
 
 * A2. Side plank
-  https://fast.wistia.net/embed/iframe/y7h0ldh7wv
   https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/7cSLwp50RyuE8wTHDS0E_side_plank.png
+  {{{wistialink(y7h0ldh7wv)}}}
 
 * A3. Rowboat
-  https://fast.wistia.net/embed/iframe/d2gcm284i8
   https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/7bLpfqQlSjagefBkaDeT_Rowboat.png
+  {{{wistialink(d2gcm284i8)}}}
