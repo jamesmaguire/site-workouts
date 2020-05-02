@@ -3,35 +3,32 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-pre-season-1.html
 
-
 * Conditioning 1
 
-    This should be preceded by the [[https://www.ultyresults.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
+  This should be preceded by the [[https://www.ultyresults.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
 
 *  A. Shuffle
 
-     {{{youtube(aIEw4tUr1ys)}}}
+  {{{youtube(aIEw4tUr1ys)}}}
 
-
-     -   about 10 yards
+  -   about 10 yards
 
 *  B. Short Shuttle
 
-     -   This can vary, but I do 5 yards, 10 yards
+  -   This can vary, but I do 5 yards, 10 yards
 
 *  C. Forward, Back, Spin, Sprint
 
-     {{{youtube(WHHYJO_Koyo)}}}
-
+  {{{youtube(WHHYJO_Koyo)}}}
 
 
 
 * Conditioning 2
 
-    -   Run at about 80% of your full sprint speed for 20 seconds. Rest for
-      40 seconds. This is one rep.
-    -   Pick up where you left off in Off-Season Phase 5, or choose
-      somewhere between 10-16 reps as your starting point. Don't kill
-      yourself on these; this is supposed to be an easier workout and you
-      should not be sore the next day.
-    -   Add 2 reps each week.
+  -   Run at about 80% of your full sprint speed for 20 seconds. Rest for
+    40 seconds. This is one rep.
+  -   Pick up where you left off in Off-Season Phase 5, or choose
+    somewhere between 10-16 reps as your starting point. Don't kill
+    yourself on these; this is supposed to be an easier workout and you
+    should not be sore the next day.
+  -   Add 2 reps each week.

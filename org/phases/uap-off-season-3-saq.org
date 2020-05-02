@@ -3,31 +3,27 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-off-season-3.html
 
-   These workouts are to be preceded by the [[https://ultyresults.mykajabi.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
+These workouts are to be preceded by the [[https://ultyresults.mykajabi.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
 
 * A. Wide Fast Foot
-    {{{youtube(aJkw2WK-gA4)}}}
+  {{{youtube(aJkw2WK-gA4)}}}
 
-
-    - 15 seconds wide fast foot
+  - 15 seconds wide fast foot
 
 * B. Jab Step Agility
-    - Works on quick feet, hip action, and change of direction.
-    - Center of mass should remain at about the same height as the feet move underneath
+      - Works on quick feet, hip action, and change of direction.
+      - Center of mass should remain at about the same height as the feet move underneath
 
-    Practice the movement slowly to understand the footwork pattern before working on speed.
+	Practice the movement slowly to understand the footwork pattern before working on speed.
 
 * Slow jab step:
-     {{{youtube(pESWXL27LwY)}}}
-
+  {{{youtube(pESWXL27LwY)}}}
 
 * When the footwork pattern is mastered, go at full speed:
-     {{{youtube(zmafY8nYl50)}}}
-
+  {{{youtube(zmafY8nYl50)}}}
 
 * C. Agility Waltz
-    {{{youtube(GD_f0hbzGcs)}}}
+  {{{youtube(GD_f0hbzGcs)}}}
 
-
-    - The goal is to be fast and light on your feet. Fast footwork supports a quick hip turn.
-    - You are cutting off the inside, rather than the outside foot.
+  - The goal is to be fast and light on your feet. Fast footwork supports a quick hip turn.
+  - You are cutting off the inside, rather than the outside foot.

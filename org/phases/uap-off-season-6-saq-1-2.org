@@ -3,67 +3,59 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-off-season-6.html
 
+In this power development phase, we are putting some SAQ work in front
+of the lifts for better muscle activation. The SAQ work is still listed
+here separately for those who might not be doing all of the Lifting
+workouts, or who want to throw an additional SAQ module on the front of
+practice or conditioning sessions.
 
-   In this power development phase, we are putting some SAQ work in front
-   of the lifts for better muscle activation. The SAQ work is still listed
-   here separately for those who might not be doing all of the Lifting
-   workouts, or who want to throw an additional SAQ module on the front of
-   practice or conditioning sessions.
-
-   These workouts are to be preceded by the [[https://ultyresults.mykajabi.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
+These workouts are to be preceded by the [[https://ultyresults.mykajabi.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
 
 * SAQ 1
 * A. 3 Point Start to Uphill 15 yard sprint
 
-     {{{youtube(j76bJSWSKzg)}}}
+  {{{youtube(j76bJSWSKzg)}}}
 
-
-     -   Hips up. Feet should be closer to hands than you might think.
-     -   Lean over the hand on the ground. You should feel that you are close
-       to falling over.
-     -   You should feel some tension in the hamstrings like you are a spring
-       ready to bounce.
-     -   Accelerate as explosively as possible out of the starting position.
+  -   Hips up. Feet should be closer to hands than you might think.
+  -   Lean over the hand on the ground. You should feel that you are close
+    to falling over.
+  -   You should feel some tension in the hamstrings like you are a spring
+    ready to bounce.
+  -   Accelerate as explosively as possible out of the starting position.
 
 * B. 3 Step Approach Jump
 
-     {{{youtube(ldBS5OCXVTk)}}}
-
+  {{{youtube(ldBS5OCXVTk)}}}
 
 * C. Shuffle to Sprint- 15 yards
 
-     {{{youtube(hX3TKqIFCbM)}}}
-
+  {{{youtube(hX3TKqIFCbM)}}}
 
 * D. Jog to Jab Step and Cut- 10 Yards
 
-     {{{youtube(GH-BsJmJYpo)}}}
-
+  {{{youtube(GH-BsJmJYpo)}}}
 
 * E. Jog to Waltz Step and Cut- 10 Yards
 
-     {{{youtube(5XuZFr3cHWE)}}}
-
+  {{{youtube(5XuZFr3cHWE)}}}
 
 * SAQ 2
 
-    Do not do this and Lower 2 in one long session - see note at top of
-    page!
+  Do not do this and Lower 2 in one long session - see note at top of
+  page!
 
 * A1. Backward Medicine Ball Toss
 
-     {{{youtube(ySGKPo_1VT0)}}}
+  {{{youtube(ySGKPo_1VT0)}}}
 
-
-     -   6 Reps each week
-     -   2 Sets each week
-     -   Rest 2 minutes between sets each week
+  -   6 Reps each week
+  -   2 Sets each week
+  -   Rest 2 minutes between sets each week
 
 * A2. 1 Leg Medicine Ball Toss
 
-     {{{youtube(NEBVhpi0QZg)}}}
+  {{{youtube(NEBVhpi0QZg)}}}
 
-
-     -   6 reps (3 each leg) each week
-     -   2 Sets each week
-     -   Rest 2 minutes between sets each week
+  -   6 reps (3 each leg) each week
+  -   2 Sets each week
+  -   Rest 2 minutes between sets each week

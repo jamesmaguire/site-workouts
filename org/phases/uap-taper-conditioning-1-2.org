@@ -3,64 +3,53 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-taper.html
 
-
 *  Conditioning 1
 
-* A. Run at 70% sprint Speed
+** A. Run at 70% sprint Speed
 
-     -   Sprint 30 seconds and then rest 30 seconds
-     -   Complete 15-20 reps the first two weeks
-     -   12-18 reps for Week 3
-     -   10-15 reps for Week 4
+   - Sprint 30 seconds and then rest 30 seconds
+   - Complete 15-20 reps the first two weeks
+   - 12-18 reps for Week 3
+   - 10-15 reps for Week 4
 
 *  Conditioning 2
 
-* A. Shuttle with Throwing, 10, 20 and 30 yards
+** A. Shuttle with Throwing, 10, 20 and 30 yards
 
-     Backhand
+   Backhand
 
-     {{{youtube(vLcyN6ZUlns)}}}
+   {{{youtube(vLcyN6ZUlns)}}}
 
+   and forehand
 
-     and forehand
+   {{{youtube(hSaaVxxsxB8)}}}
 
-     {{{youtube(hSaaVxxsxB8)}}}
+   - Distances are 10, 20, 30 yards
 
+   - Rest 90 seconds between reps
+   - Complete 4 reps (2 backhand and forehand).
+   - Rest 2 minutes
 
-     -   Distances are 10, 20, 30 yards
+** B1. Skater Hops
 
-     <!-- -->
+   {{{youtube(sRYnYJNCYpU)}}}
 
-     -   Rest 90 seconds between reps
-     -   Complete 4 reps (2 backhand and forehand).
-     -   Rest 2 minutes
+   - Choose a distance at which you can reach the tops of the cones
+   consistently for 30 seconds
+   - Reach across your body with the hand farthest from the cone
 
-* B1. Skater Hops
+   - Rest 60 seconds then do B2.
+   - Complete twice
 
-     {{{youtube(sRYnYJNCYpU)}}}
+** B2. Shuffle
 
+   {{{youtube(hS3efBLyb-w)}}}
 
-     -   Choose a distance at which you can reach the tops of the cones
-       consistently for 30 seconds
-     -   Reach across your body with the hand farthest from the cone
+   - Stay low throughout the shuffling
+   - Stay light on the balls of your feet
+   - Don't get "stuck" in the turns. Graze the cone and change
+   directions all in one motion
 
-     <!-- -->
-
-     -   Rest 60 seconds then do B2.
-     -   Complete twice
-
-* B2. Shuffle
-
-     {{{youtube(hS3efBLyb-w)}}}
-
-
-     -   Stay low throughout the shuffling
-     -   Stay light on the balls of your feet
-     -   Don't get "stuck" in the turns. Graze the cone and change
-       directions all in one motion
-
-     <!-- -->
-
-     -   Rest 60 seconds then do B1
-     -   Distance should be 10 yards
-     -   Complete twice
+   - Rest 60 seconds then do B1
+   - Distance should be 10 yards
+   - Complete twice

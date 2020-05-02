@@ -3,32 +3,28 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-in-season-2.html
 
-
-   Perform the circuit 3 times through with no rest or minimal rest between
-   exercises and sets
+Perform the circuit 3 times through with no rest or minimal rest between
+exercises and sets
 
 *  B1. Kneeling Half Chop
 
-    {{{youtube(IR7smihfMTE)}}}
+  {{{youtube(IR7smihfMTE)}}}
 
-
-    -   Knee farthest from cable column is bent
-    -   Look at the weight as you pull it across your body*
-      *
+  -   Knee farthest from cable column is bent
+  -   Look at the weight as you pull it across your body*
+    *
 
 *  B2. Kneeling Overhead Pallof Press
 
-    {{{youtube(tGgkOlsd7Pc)}}}
+  {{{youtube(tGgkOlsd7Pc)}}}
 
-
-    -   Knee closest to the cable column is bent
-    -   Attmept to hold the cable handle straight above your head without
-      leaning in either direction
+  -   Knee closest to the cable column is bent
+  -   Attmept to hold the cable handle straight above your head without
+    leaning in either direction
 
 *  B3. Crunch and Reach
 
-    {{{youtube(WERESBqkrd0)}}}
+  {{{youtube(WERESBqkrd0)}}}
 
-
-    -   maintain neutrality of lower spine by reaching UP instead of
-      crunching toward your knees.
+  -   maintain neutrality of lower spine by reaching UP instead of
+    crunching toward your knees.

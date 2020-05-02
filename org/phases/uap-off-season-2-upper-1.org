@@ -4,36 +4,32 @@
 #+HTML_LINK_UP: uap-off-season-2.html
 
 * A1. Push Press
-    {{{youtube(Z9b5LJ1Am_A)}}}
+  {{{youtube(Z9b5LJ1Am_A)}}}
 
-
-    - Use momentum from the hips to help you press more than you otherwise would.
-    - The bar starts resting high on your chest. Grip slightly wider than shoulder width.
-    - Dip into about a quarter squat and as you stand push the weight overhead.
-    - Legs should be straight at the end of the movement and arms should be locked out.
-    - Lower the weight in a controlled fashion back to the starting position.
+  - Use momentum from the hips to help you press more than you otherwise would.
+  - The bar starts resting high on your chest. Grip slightly wider than shoulder width.
+  - Dip into about a quarter squat and as you stand push the weight overhead.
+  - Legs should be straight at the end of the movement and arms should be locked out.
+  - Lower the weight in a controlled fashion back to the starting position.
 
 * A2. Supine Grip Pull-up
-    {{{youtube(_zHfvOXQ0KY)}}}
+  {{{youtube(_zHfvOXQ0KY)}}}
 
-
-    - Pause at the top
-    - Do not pull your elbows behind your torso. Even with the torso is good.
+  - Pause at the top
+  - Do not pull your elbows behind your torso. Even with the torso is good.
 
 * B1. Alternating Iso Hold DB Bench
-    {{{youtube(5C9B2mrhZ1g)}}}
+  {{{youtube(5C9B2mrhZ1g)}}}
 
-
-    - Hold one dumbbell as you press the other.
-    - Keep tention in the pectoral of the side you are holding.
+  - Hold one dumbbell as you press the other.
+  - Keep tention in the pectoral of the side you are holding.
 
 * B2. RRR Press
-    {{{youtube(mgaEUINQY_M)}}}
+  {{{youtube(mgaEUINQY_M)}}}
 
-
-    - Retract, Row, Rotate, Press
-    - Retract the shoulders at the beginning of each rep.
-    - Each part of retract, row, rotate, press should be a distincts movement.
-    - During the press, the arms should be parallel to the torso. Don't let them drop.
+  - Retract, Row, Rotate, Press
+  - Retract the shoulders at the beginning of each rep.
+  - Each part of retract, row, rotate, press should be a distincts movement.
+  - During the press, the arms should be parallel to the torso. Don't let them drop.
 
     End this Workout with [[https://www.ultyresults.com/products/ultimate-athlete-project/categories/68824/posts/185607][Core Circuit 1]]

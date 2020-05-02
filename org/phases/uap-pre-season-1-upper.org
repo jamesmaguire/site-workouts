@@ -3,44 +3,38 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-pre-season-1.html
 
-
 *  A1. Incline Barbell Bench Press
 
-    {{{youtube(6oeMI_uz1cM)}}}
+  {{{youtube(6oeMI_uz1cM)}}}
 
-
-    -   Keep shoulders retracted.
+  -   Keep shoulders retracted.
 
 *  A2. Prone Grip Inverse Row
 
-    {{{youtube(pb3tuBcHxl8)}}}
+  {{{youtube(pb3tuBcHxl8)}}}
 
-
-    -   Get chest all the way up to the bar
-    -   Maintain plank position without flaring the rib cage
+  -   Get chest all the way up to the bar
+  -   Maintain plank position without flaring the rib cage
 
 *  B1. Feet Elevated Pushups
 
-    {{{youtube(joo2MaxFqWM)}}}
+  {{{youtube(joo2MaxFqWM)}}}
 
-
-    -   Maintain perfect plank position
-    -   Hands placement wherever is comfortable
+  -   Maintain perfect plank position
+  -   Hands placement wherever is comfortable
 
 *  B2. DB Row
 
-    {{{youtube(4NZMfd6bRt8)}}}
+  {{{youtube(4NZMfd6bRt8)}}}
 
-
-    -   Keep shoulders level
-    -   Pull weight until upper arm is parallel to the torso
+  -   Keep shoulders level
+  -   Pull weight until upper arm is parallel to the torso
 
 *  C1. Paused Incline Y to T
 
-    {{{youtube(2Z-Ib02O8J0)}}}
+  {{{youtube(2Z-Ib02O8J0)}}}
 
-
-    -   Initiate the movement at the shoulders. Thumbs face up to the Y
-      position.
-    -   Retract the shoulders fully and rotate to thumbs down as you bring
-      the weight back to the T position.
+  -   Initiate the movement at the shoulders. Thumbs face up to the Y
+    position.
+  -   Retract the shoulders fully and rotate to thumbs down as you bring
+    the weight back to the T position.

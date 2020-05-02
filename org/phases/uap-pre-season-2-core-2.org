@@ -3,32 +3,28 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-pre-season-2.html
 
-
 * A1. Pre-stretch Crunches with DB
 
-    {{{youtube(E3tF_mL21wY)}}}
+  {{{youtube(E3tF_mL21wY)}}}
 
-
-    -   Feel a slight stretch in the abs at the initiation of the movement
-    -   Contract the abs until the back is flat
-    -   Hold the weight directly above your eyes and aim up for the sky as
-      you contract
+  -   Feel a slight stretch in the abs at the initiation of the movement
+  -   Contract the abs until the back is flat
+  -   Hold the weight directly above your eyes and aim up for the sky as
+    you contract
 
 * A2. 1-arm 1-leg cable row
 
-    {{{youtube(hJRCQh02QHI)}}}
+  {{{youtube(hJRCQh02QHI)}}}
 
-
-    -   Keep hips level.
-    -   Resist rotation of the torso and hips as you pull.
-    -   This exercise may not feel difficult. You won't "feel the burn."
-      That's ok. It's a total core exercise working on balance and core
-      coordination.
+  -   Keep hips level.
+  -   Resist rotation of the torso and hips as you pull.
+  -   This exercise may not feel difficult. You won't "feel the burn."
+    That's ok. It's a total core exercise working on balance and core
+    coordination.
 
 * A3. Kneeling Half-chop
 
-    {{{youtube(X6GjkIVLE9Q)}}}
+  {{{youtube(X6GjkIVLE9Q)}}}
 
-
-    -   Knee closest to the cable column is bent
-    -   Look at the weight as you pull it across your body
+  -   Knee closest to the cable column is bent
+  -   Look at the weight as you pull it across your body

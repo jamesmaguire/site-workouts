@@ -3,65 +3,58 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-in-season-3.html
 
-
 *  A1. Heel Elevated Back Squat
 
-    {{{youtube(53dwivfQVrE)}}}
+  {{{youtube(53dwivfQVrE)}}}
 
-
-    -   Place 5 lb weight plates under the heels
-    -   Isometric hold for three counts at the bottom of your squat
-    -   Explode out of the bottom of your squat after the iso hold
-    -   Keep the bar in contact with your back at all times (it should not
-      get airborne). You also should not get airborne.
+  -   Place 5 lb weight plates under the heels
+  -   Isometric hold for three counts at the bottom of your squat
+  -   Explode out of the bottom of your squat after the iso hold
+  -   Keep the bar in contact with your back at all times (it should not
+    get airborne). You also should not get airborne.
 
 *  A2. Penta Jump
 
-    {{{youtube(F1ScvdPdRE8)}}}
+  {{{youtube(F1ScvdPdRE8)}}}
 
-
-    -   Jumps for distance. Avoid hitting the ground heels first.
-    -   Attempt to land on the midfoot
-    -   Explode again as soon as possible upon landing
-    -   Use your arms to help!
+  -   Jumps for distance. Avoid hitting the ground heels first.
+  -   Attempt to land on the midfoot
+  -   Explode again as soon as possible upon landing
+  -   Use your arms to help!
 
 *  B1. Backward Lunge to SLDL
 
-    {{{youtube(hM-zid_rFw0)}}}
+  {{{youtube(hM-zid_rFw0)}}}
 
-
-    -   Do all reps on one leg, then the other.
-    -   Aim for 90 degrees for the working leg in the backward lunge.
-    -   Knee angle should be about 10-20 degrees during the SLDL.
-    -   Keep your core engaged to keep the nonworking leg and torso moving
-      together.
+  -   Do all reps on one leg, then the other.
+  -   Aim for 90 degrees for the working leg in the backward lunge.
+  -   Knee angle should be about 10-20 degrees during the SLDL.
+  -   Keep your core engaged to keep the nonworking leg and torso moving
+    together.
 
 *  B2. Cable Pull Through
 
-    {{{youtube(94mnZc1fTiQ)}}}
+  {{{youtube(94mnZc1fTiQ)}}}
 
-
-    -   feet are slightly wider than shoulder width. knees are bent about 10
-      degrees.
-    -   reach back between your legs with the rope attachment.
-    -   use your glutes to push your hips forward and stand up.
+  -   feet are slightly wider than shoulder width. knees are bent about 10
+    degrees.
+  -   reach back between your legs with the rope attachment.
+  -   use your glutes to push your hips forward and stand up.
 
 *  C1. Paused SL Heel-Elevated Hip Lift
 
-    {{{youtube(EFLq2nE7up8)}}}
+  {{{youtube(EFLq2nE7up8)}}}
 
-
-    -   Elevate the foot of the working leg on a step
-    -   Can be elevated on a Bosu ball for added difficulty.
-    -   Nonworking leg remains straight
-    -   Pause at the top of the movment
+  -   Elevate the foot of the working leg on a step
+  -   Can be elevated on a Bosu ball for added difficulty.
+  -   Nonworking leg remains straight
+  -   Pause at the top of the movment
 
 *  C2. Squat to Press
 
-    {{{youtube(1O8jb9KLtf4)}}}
+  {{{youtube(1O8jb9KLtf4)}}}
 
-
-    -   Find a rhythm and move quickly
-    -   Aim for parallel in the squats
-    -   The press should move continuously with momentum coming from the
-      squat
+  -   Find a rhythm and move quickly
+  -   Aim for parallel in the squats
+  -   The press should move continuously with momentum coming from the
+    squat

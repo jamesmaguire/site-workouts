@@ -1,7 +1,6 @@
 #+TITLE: UAP Off-season 3
 #+SETUPFILE: ../phase.setup
 
-
 - [[file:uap-off-season-3-lower-1.org][Lower 1]]
 - [[file:uap-off-season-3-lower-2.org][Lower 2]]
 - [[file:uap-off-season-3-upper-1.org][Upper 1]]
@@ -12,20 +11,20 @@
 - [[file:uap-off-season-3-conditioning-1-2.org][Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-   [[file:../../docs/uap-pdfs/offseason3.pdf][Workout log (pdf)]]
+  [[file:../../docs/uap-pdfs/offseason3.pdf][Workout log (pdf)]]
 
-   In this phase most of your SAQ work is actually included within the Leg lifting days and so there is only one independent SAQ workout. The plyometrics before your leg days this phase will help to prime your nervous system for the heavy lifts. The focus of this phase is increasing your maximum strength. Let nothing else interfere with your heavy lifts.
+  In this phase most of your SAQ work is actually included within the Leg lifting days and so there is only one independent SAQ workout. The plyometrics before your leg days this phase will help to prime your nervous system for the heavy lifts. The focus of this phase is increasing your maximum strength. Let nothing else interfere with your heavy lifts.
 
 ** General Principles
-    - Conditioning workouts can always be done after the leg strength training day because it does not matter that your legs are already tired.
-    - SAQ workouts are NOT conditioning. Do NOT do more than what is listed. You should feel fully recovered between reps and sets. If not, add more rest. No big deal.
-    - If doing two types of sessions on the same day, SAQ should be done before lifting or conditioning. Lifting should be done before conditioning.
-    - Learn to pay attention to how your body is feeling each day. If you start feeling run down by the end of each week, you may not be getting enough recovery. It is okay NOT to do all of the workouts provided. Sometimes less is more.
+   - Conditioning workouts can always be done after the leg strength training day because it does not matter that your legs are already tired.
+   - SAQ workouts are NOT conditioning. Do NOT do more than what is listed. You should feel fully recovered between reps and sets. If not, add more rest. No big deal.
+   - If doing two types of sessions on the same day, SAQ should be done before lifting or conditioning. Lifting should be done before conditioning.
+   - Learn to pay attention to how your body is feeling each day. If you start feeling run down by the end of each week, you may not be getting enough recovery. It is okay NOT to do all of the workouts provided. Sometimes less is more.
 
-    [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/Off-Season_3.png]]
+     [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/Off-Season_3.png]]
 
-    Lifting is scheduled four times per week this phase. *The A's and B's of the leg workouts and the A's of the upper workouts are the main focus of this phase.*
+     Lifting is scheduled four times per week this phase. *The A's and B's of the leg workouts and the A's of the upper workouts are the main focus of this phase.*
 
-    If you want to do more work, invest more time in tissue quality work (foam rolling and stretching), mobility drills, and the warm up drills.
+     If you want to do more work, invest more time in tissue quality work (foam rolling and stretching), mobility drills, and the warm up drills.
 
-    Conditioning *can* be done multiple days per week *but only if* you keep the volume low enough to recover between sessions. Do less than you want to. *Do not let your conditioning interfere with your big lifts this phase.*
+     Conditioning *can* be done multiple days per week *but only if* you keep the volume low enough to recover between sessions. Do less than you want to. *Do not let your conditioning interfere with your big lifts this phase.*

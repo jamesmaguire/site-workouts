@@ -10,7 +10,7 @@
 
 * A1. Front foot elevated paused split squat
   {{{youtube(MNzBPh5oJeI)}}}
-  
+
   - 8 reps per leg
   - Timing is 3s down, 2s hold, 2s up, 0s hold
   - Torso vertical, front knee maintains position (no backward/forward tracking)
@@ -40,4 +40,3 @@
   - Place foot on bench/chair for about 90deg angle
   - Pull top leg up past 90deg keeping hips level
   - Timing is 1s up, 3s hold, 1s down, 0s hold
-

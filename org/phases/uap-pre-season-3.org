@@ -1,7 +1,6 @@
 #+TITLE: UAP Pre-season 3
 #+SETUPFILE: ../phase.setup
 
-
 - [[file:uap-pre-season-3-lower.org][Lower]]
 - [[file:uap-pre-season-3-upper.org][Upper]]
 - [[file:uap-pre-season-3-core-1.org][Core 1]]
@@ -10,20 +9,20 @@
 - [[file:uap-pre-season-3-grass-conditioning-1,-2-3.org][Grass Conditioning 1, 2 & 3]]
 
 * Schedule & Workout Logs
-   [[file:../../docs/uap-pdfs/preseason3.pdf][Workout log (pdf)]]
+  [[file:../../docs/uap-pdfs/preseason3.pdf][Workout log (pdf)]]
 
-   This is the third, and last, phase of preseason work. The main goals are cardiovascular conditioning and starting to incorporate some sport-specific skills. We are cutting back the lifting to 2 days per week to allow more time for conditioning. In this way, this is a bit of a transition phase between preseason and in season. So if your amount of playing is increasing, that's fine.
+  This is the third, and last, phase of preseason work. The main goals are cardiovascular conditioning and starting to incorporate some sport-specific skills. We are cutting back the lifting to 2 days per week to allow more time for conditioning. In this way, this is a bit of a transition phase between preseason and in season. So if your amount of playing is increasing, that's fine.
 
-   Some of the SAQ and conditioning work requires a disc and a partner. If you can't find those things, use conditioning workouts of your choice from previous phases while trying to increase repetitions or decreasing rest time between intervals.
+  Some of the SAQ and conditioning work requires a disc and a partner. If you can't find those things, use conditioning workouts of your choice from previous phases while trying to increase repetitions or decreasing rest time between intervals.
 
-   - Learn to pay attention to how your body is feeling each day. If you start feeling run down by the end of each week, you may not be getting enough recovery. It is okay NOT to do all of the workouts provided. Sometimes less is more.
-   - In general, shorter, more frequent workouts that you can recover from each day is preferable to more difficult, less frequent sessions. You may do conditioning six days per week as long as you are fully recovering from each session before the next.
-   - Do the recovery conditioning session at least once per week. You can do the Tabata conditioning twice per week. Conditioning with the disc can be done as many days as you please.
+  - Learn to pay attention to how your body is feeling each day. If you start feeling run down by the end of each week, you may not be getting enough recovery. It is okay NOT to do all of the workouts provided. Sometimes less is more.
+  - In general, shorter, more frequent workouts that you can recover from each day is preferable to more difficult, less frequent sessions. You may do conditioning six days per week as long as you are fully recovering from each session before the next.
+  - Do the recovery conditioning session at least once per week. You can do the Tabata conditioning twice per week. Conditioning with the disc can be done as many days as you please.
 
-   Core circuits can be done 3-6 days per week. Alternate between circuit 1 and circuit 2.
+    Core circuits can be done 3-6 days per week. Alternate between circuit 1 and circuit 2.
 
-   Conditioning can be done 6 days per week *but only if* you keep the volume low enough to recover between sessions.
+    Conditioning can be done 6 days per week *but only if* you keep the volume low enough to recover between sessions.
 
-   If you can only workout 2-3 days/week in this phase, then in addition to the sceheduled stuff, find 15 minutes for a Tabata Conditioning 1-2 times per week.
+    If you can only workout 2-3 days/week in this phase, then in addition to the sceheduled stuff, find 15 minutes for a Tabata Conditioning 1-2 times per week.
 
-   [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/Pre-Season_3.png]]
+    [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/Pre-Season_3.png]]

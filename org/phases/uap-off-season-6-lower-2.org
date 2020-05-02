@@ -3,70 +3,63 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-off-season-6.html
 
-
 *  A1. Backward Medicine Ball Toss
 
-    {{{youtube(ySGKPo_1VT0)}}}
+  {{{youtube(ySGKPo_1VT0)}}}
 
-
-    -   Bring the ball down between your legs
-    -   Think about pushing your hips back as if in a deadlift
-    -   Use your whole body (pop those hips forward!) to propel the ball us
-      and back over your head
-    -   Ignore the sprinting in the video!
+  -   Bring the ball down between your legs
+  -   Think about pushing your hips back as if in a deadlift
+  -   Use your whole body (pop those hips forward!) to propel the ball us
+    and back over your head
+  -   Ignore the sprinting in the video!
 
 *  A2. One Leg Medicine Ball Toss
 
-    {{{youtube(WFRybTvdVnM)}}}
+  {{{youtube(WFRybTvdVnM)}}}
 
-
-    -   Stand on one leg holding the medicine ball in both hands.
-    -   The throw should feel like a single leg countermovement jump except
-      that the ball is propelled straight up and you stay mostly on the
-      ground.
-    -   The medicine ball should be light (approx. 4-8 pounds).
-    -   If you do not have a medicine ball, leap off of one leg and land on
-      both feet.
+  -   Stand on one leg holding the medicine ball in both hands.
+  -   The throw should feel like a single leg countermovement jump except
+    that the ball is propelled straight up and you stay mostly on the
+    ground.
+  -   The medicine ball should be light (approx. 4-8 pounds).
+  -   If you do not have a medicine ball, leap off of one leg and land on
+    both feet.
 
 *  B1. Deadlift
 
-    {{{youtube(PrBBOFdOHk8)}}}
+  {{{youtube(PrBBOFdOHk8)}}}
 
-
-    -   Shoulders retracted.
-    -   Spine neutral. Look at a spot on the floor about 5 feet in front of
-      you.
-    -   Get your hips back and chest over the bar
-    -   Arms should be straight at the start of the lift
-    -   Back remains flat as hips come forward and weight lifts up.
+  -   Shoulders retracted.
+  -   Spine neutral. Look at a spot on the floor about 5 feet in front of
+    you.
+  -   Get your hips back and chest over the bar
+  -   Arms should be straight at the start of the lift
+  -   Back remains flat as hips come forward and weight lifts up.
 
 *  B2. Box Jumps
 
-    {{{youtube(tVnU1kwoIMM)}}}
+  {{{youtube(tVnU1kwoIMM)}}}
 
-
-    -   Find a bench, box, or other object that allows you to land on it
-      with a knee angle of greater than 90 degrees. Otherwise, the surface
-      is definitely too high.
-    -   Land softly with the entire foot on the surface.
+  -   Find a bench, box, or other object that allows you to land on it
+    with a knee angle of greater than 90 degrees. Otherwise, the surface
+    is definitely too high.
+  -   Land softly with the entire foot on the surface.
 
 *  C1. Paused Heel-Elevated Hip Lift
 
-    {{{youtube(EFLq2nE7up8)}}}
+  {{{youtube(EFLq2nE7up8)}}}
 
-
-    -   Elevate the foot of the working leg on a step
-    -   Can be elevated on a Bosu ball for added difficulty.
-    -   Nonworking leg remains straight
-    -   Pause at the top of the movement
+  -   Elevate the foot of the working leg on a step
+  -   Can be elevated on a Bosu ball for added difficulty.
+  -   Nonworking leg remains straight
+  -   Pause at the top of the movement
 
 *  C2. Speed Calf Raises
 
-    {{{youtube(mRI2dU4Dcgc)}}}
+  {{{youtube(mRI2dU4Dcgc)}}}
 
-
-    -   Place your midfoot on a step or box. Hold onto something to help
-      your balance.
-    -   Get full range of motion on these and really squeeze your calves at
-      the top for a full contraction
-    -   Do these as quickly and explosively as possible without jumping.
+  -   Place your midfoot on a step or box. Hold onto something to help
+    your balance.
+  -   Get full range of motion on these and really squeeze your calves at
+    the top for a full contraction
+  -   Do these as quickly and explosively as possible without jumping.

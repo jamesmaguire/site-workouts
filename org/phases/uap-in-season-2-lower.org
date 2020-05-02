@@ -3,62 +3,55 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-in-season-2.html
 
-
 *  A1. Front Foot Elevated Paused Split Squat
 
-    {{{youtube(NpzqPBBn1qo)}}}
+  {{{youtube(NpzqPBBn1qo)}}}
 
-
-    -   push through the heel of your front foot
-    -   hips should move straight up and down
-    -   pause for 2 seconds at the bottom position
-    -   keep shoulders back and chest tall
+  -   push through the heel of your front foot
+  -   hips should move straight up and down
+  -   pause for 2 seconds at the bottom position
+  -   keep shoulders back and chest tall
 
 *  A2. Split Squats jumps for height
 
-    {{{youtube(Bo_Rg5fhZMQ)}}}
+  {{{youtube(Bo_Rg5fhZMQ)}}}
 
-
-    -   Get low but do not leg the back knee smash into the ground
-    -   Jump as high as possible and switch which leg is forward mid-flight
-    -   Arms can do whatever but using them as you would if running will
-      likely feel most natural
+  -   Get low but do not leg the back knee smash into the ground
+  -   Jump as high as possible and switch which leg is forward mid-flight
+  -   Arms can do whatever but using them as you would if running will
+    likely feel most natural
 
 *  B1. Weighted Hip Thrust
 
-    {{{youtube(tWd5ikvnaPc)}}}
+  {{{youtube(tWd5ikvnaPc)}}}
 
-
-    -   Weight rests approximately on hip flexors
-    -   Place a sweatshirt or folded up yoga mat between your hips and the
-      weight for added comfort.
-    -   Heels should be directly under the knees at the top position.
-    -   Focus on squeezing your glutes. Keep back straight, not arched.
+  -   Weight rests approximately on hip flexors
+  -   Place a sweatshirt or folded up yoga mat between your hips and the
+    weight for added comfort.
+  -   Heels should be directly under the knees at the top position.
+  -   Focus on squeezing your glutes. Keep back straight, not arched.
 
 *  B2. Goblet Squats
 
-    {{{youtube(JyigpzdH3ps)}}}
+  {{{youtube(JyigpzdH3ps)}}}
 
-
-    -   Initiate the movement with hips going back
-    -   Squat as deep as mobility allows while maintaining spine neutrality
+  -   Initiate the movement with hips going back
+  -   Squat as deep as mobility allows while maintaining spine neutrality
 
 *  C1. Russian Step Up
 
-    {{{youtube(jSnoZlYUttg)}}}
+  {{{youtube(jSnoZlYUttg)}}}
 
-
-    -   find a rhythm, be explosive, drive the knee up!
-    -   Use the foot on the bench to initiate and drive the movement.
-      Don't "bounce" off the foot landing on the ground.
+  -   find a rhythm, be explosive, drive the knee up!
+  -   Use the foot on the bench to initiate and drive the movement.
+    Don't "bounce" off the foot landing on the ground.
 
 *  C2. Standing Hip Flexion
 
-    {{{youtube(VcJsZ--kcSY)}}}
+  {{{youtube(VcJsZ--kcSY)}}}
 
-
-    -   Place on foot on a box or bench that causes your knee to be close to
-      90 degrees.
-    -   Keep your hips level for the duration of this exercise!
-    -   Pull your leg straight up (it won't go very far) and hold for three
-      seconds before lowering it back to the bench.
+  -   Place on foot on a box or bench that causes your knee to be close to
+    90 degrees.
+  -   Keep your hips level for the duration of this exercise!
+  -   Pull your leg straight up (it won't go very far) and hold for three
+    seconds before lowering it back to the bench.

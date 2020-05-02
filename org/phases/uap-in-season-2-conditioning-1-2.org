@@ -3,45 +3,39 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-in-season-2.html
 
-
-   If you ever need a lighter day for recovery, refer to the 80/20 workout from In-season 1
+If you ever need a lighter day for recovery, refer to the 80/20 workout from In-season 1
 
 * Conditioning 1
 
 * A. Extended Pro Lateral
 
-     {{{youtube(MBXRV2E0owc)}}}
+  {{{youtube(MBXRV2E0owc)}}}
 
-
-     -   5, 10, 15, 20, 10 (5, 10, 15, 20 is shown)
+  -   5, 10, 15, 20, 10 (5, 10, 15, 20 is shown)
 
 * B. Zig-zag sprints
 
-     {{{youtube(YdgYleKenGM)}}}
+  {{{youtube(YdgYleKenGM)}}}
 
-
-     -   Set up 2 rows of cones about 5-7 yards apart.  In each row, three
-       cones are placed about 8 yards apart. The two rows are offset by 4
-       yards to create a zig-zag pattern.
-     -   You should be using the jab step you were working on in Off-season Phase 4.
+  -   Set up 2 rows of cones about 5-7 yards apart.  In each row, three
+    cones are placed about 8 yards apart. The two rows are offset by 4
+    yards to create a zig-zag pattern.
+  -   You should be using the jab step you were working on in Off-season Phase 4.
 
 * Conditioning 2
 
 * A. Shuttle with Throwing - Backhand
 
-     {{{youtube(vLcyN6ZUlns)}}}
-
+  {{{youtube(vLcyN6ZUlns)}}}
 
 * B. Shuttle with Throwing - Backhand forehand
 
-     {{{youtube(hSaaVxxsxB8)}}}
+  {{{youtube(hSaaVxxsxB8)}}}
 
-
-     -   Distances are 10, 20, 30 yards
+  -   Distances are 10, 20, 30 yards
 
 * C. Marking
 
-     -   Mark for 20 seconds. stall your partner twice.
+  -   Mark for 20 seconds. stall your partner twice.
 
-     {{{youtube(AYjPT2s6wmc)}}}
-
+    {{{youtube(AYjPT2s6wmc)}}}

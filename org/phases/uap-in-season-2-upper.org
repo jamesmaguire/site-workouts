@@ -3,59 +3,53 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-in-season-2.html
 
-
 *  A1. Paused Incline DB Bench Press
 
-    {{{youtube(k4mI7a_tSbw)}}}
+  {{{youtube(k4mI7a_tSbw)}}}
 
-
-    -   during the pause at the bottom your pectorals should feel tension
+  -   during the pause at the bottom your pectorals should feel tension
 
 *  A2. Speed Push Ups
 
-    {{{youtube(7lHuWdR6iQs)}}}
+  {{{youtube(7lHuWdR6iQs)}}}
 
-
-    -   do as many pushups as possible.  be explosive!  don't pace
-      yourself, go fast.
+  -   do as many pushups as possible.  be explosive!  don't pace
+    yourself, go fast.
 
 *  B1. Pull Ups with Wide, Supine Grip
 
-    -   Start with grip wider than shoulder width, palms facing toward you
-    -   Squeeze shoulder blades together at the top*
-      *
+  -   Start with grip wider than shoulder width, palms facing toward you
+  -   Squeeze shoulder blades together at the top*
+    *
 
 *  B2. Pullovers
 
-    {{{youtube(52c015jdieo)}}}
+  {{{youtube(52c015jdieo)}}}
 
-
-    -   Keep elbows at approximately the same angle throughout the movement
-    -   As you lower the weight, you should feel a slight stretch in your
-      lower pectoral muscles
-    -   Squeeze your chest to initiate the movement and bring the weight
-      above your face.
-    -   Keep your hips up and core engaged for the duration of the set.
-    -   At the end of your set, place the weight on the bench beside you or
-      drop it to the floor after lowering it behind your head.
+  -   Keep elbows at approximately the same angle throughout the movement
+  -   As you lower the weight, you should feel a slight stretch in your
+    lower pectoral muscles
+  -   Squeeze your chest to initiate the movement and bring the weight
+    above your face.
+  -   Keep your hips up and core engaged for the duration of the set.
+  -   At the end of your set, place the weight on the bench beside you or
+    drop it to the floor after lowering it behind your head.
 
 *  C1. Bow and Arrow
 
-    {{{youtube(Fq9Jlz261m4)}}}
+  {{{youtube(Fq9Jlz261m4)}}}
 
-
-    -   if you imagine an archer, you will naturally do this exercise
-      correctly
-    -   stand up tall
-    -   keep the elbow of the pulling arm up
-    -   squeeze the shoulder blades together during the iso hold
+  -   if you imagine an archer, you will naturally do this exercise
+    correctly
+  -   stand up tall
+  -   keep the elbow of the pulling arm up
+  -   squeeze the shoulder blades together during the iso hold
 
 *  C2. Band Internal Rotations
 
-    {{{youtube(i-CwRCoXZD8)}}}
+  {{{youtube(i-CwRCoXZD8)}}}
 
-
-    -   Keep elbow tight to the body.
-    -   Keep shoulder retracted and chest up.
-    -   Use a cable colums if you have no bands.  Alternatively you can use
-      a light dumbbell and lie on your back.
+  -   Keep elbow tight to the body.
+  -   Keep shoulder retracted and chest up.
+  -   Use a cable colums if you have no bands.  Alternatively you can use
+    a light dumbbell and lie on your back.

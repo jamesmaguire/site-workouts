@@ -3,56 +3,50 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-in-season-1.html
 
-
 *  A. Push Press
 
-    {{{youtube(Z9b5LJ1Am_A)}}}
+  {{{youtube(Z9b5LJ1Am_A)}}}
 
-
-    -   Use momentum from the hips to help you press more than you otherwise
-      would.
-    -   The bar starts resting high on your chest. Grip slightly wider than
-      shoulder width.
-    -   Dip into about a quarter squat and as you stand push the weight
-      overhead.
-    -   Legs should be straight at the end of the movement and arms should
-      be locked out.
-    -   Lower the weight in a controlled fashion back to the starting
-      position.
+  -   Use momentum from the hips to help you press more than you otherwise
+    would.
+  -   The bar starts resting high on your chest. Grip slightly wider than
+    shoulder width.
+  -   Dip into about a quarter squat and as you stand push the weight
+    overhead.
+  -   Legs should be straight at the end of the movement and arms should
+    be locked out.
+  -   Lower the weight in a controlled fashion back to the starting
+    position.
 
 *  B1. Flat Barbell Bench
 
-    {{{youtube(r7WFii7ezGM)}}}
+  {{{youtube(r7WFii7ezGM)}}}
 
-
-    -   Shoulders flat on the bench.
-    -   Neutral spine.
-    -   Press the bar up
+  -   Shoulders flat on the bench.
+  -   Neutral spine.
+  -   Press the bar up
 
 *  B2. 1 and 1/4 Semi Supinated Chin
 
-    {{{youtube(vE9L7GC4y8E)}}}
+  {{{youtube(vE9L7GC4y8E)}}}
 
-
-    -   Grip is with palms facing one another.
-    -   If you do not have a way to do assisted chinups you can use a V
-      handle on a cable column.
+  -   Grip is with palms facing one another.
+  -   If you do not have a way to do assisted chinups you can use a V
+    handle on a cable column.
 
 *  C1. Rotational Push-up
 
-    {{{youtube(LzQ8jZM9p3w)}}}
+  {{{youtube(LzQ8jZM9p3w)}}}
 
-
-    -   Maintain perfect plank position throuhgout the movement
-    -   Use weights light enough that you can keep arms straight during
-      rotation
-    -   Add a quarter rep at the bottom of the pushup to increase difficulty
+  -   Maintain perfect plank position throuhgout the movement
+  -   Use weights light enough that you can keep arms straight during
+    rotation
+  -   Add a quarter rep at the bottom of the pushup to increase difficulty
 
 *  C2. Side Plank Cable Row
 
-    {{{youtube(1mPJJkmrqX8)}}}
+  {{{youtube(1mPJJkmrqX8)}}}
 
-
-    -   Start in a side plank position facing a cable column.
-    -   Maintain the side plank position as you pull the weight.
-    -   Squeeze your shoulder blades together and hold.
+  -   Start in a side plank position facing a cable column.
+  -   Maintain the side plank position as you pull the weight.
+  -   Squeeze your shoulder blades together and hold.

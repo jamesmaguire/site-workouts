@@ -1,7 +1,6 @@
 #+TITLE: UAP Pre-season 2
 #+SETUPFILE: ../phase.setup
 
-
 - [[file:uap-pre-season-2-strength.org][Strength]]
 - [[file:uap-pre-season-2-power.org][Power]]
 - [[file:uap-pre-season-2-grass-saq-1-2.org][Grass SAQ 1 & 2]]
@@ -12,40 +11,40 @@
 - [[file:uap-pre-season-2-beach-conditioning-1-2.org][Beach Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-   [[file:../../docs/uap-pdfs/preseason2.pdf][Workout log (pdf)]]
+  [[file:../../docs/uap-pdfs/preseason2.pdf][Workout log (pdf)]]
 
-   This is the second phase of preseason work. The main goals are strength
-   and power endurance. We are going to accomplish these goals primarily
-   using circuit training. You'll do a power circuit twice per week and a
-   strength circuit once per week. Workouts will be very short but very
-   intense.
+  This is the second phase of preseason work. The main goals are strength
+  and power endurance. We are going to accomplish these goals primarily
+  using circuit training. You'll do a power circuit twice per week and a
+  strength circuit once per week. Workouts will be very short but very
+  intense.
 
-   The SAQ work will be done before the conditioning workouts this week.
-   This is mostly for maintenance and don't expect to see big gains in
-   speed this phase.
+  The SAQ work will be done before the conditioning workouts this week.
+  This is mostly for maintenance and don't expect to see big gains in
+  speed this phase.
 
 ** General Principles
 
-    -   Learn to pay attention to how your body is feeling each day. If you
-      start feeling run down by the end of each week, you may not be
-      getting enough recovery. It is okay NOT to do all of the workouts
-      provided. Sometimes less is more.
-    -   If you feel nauseated or dizzy, increase the rest periods. Making
-      yourself vomit will not help the speed of your adaptation.
+   -   Learn to pay attention to how your body is feeling each day. If you
+     start feeling run down by the end of each week, you may not be
+     getting enough recovery. It is okay NOT to do all of the workouts
+     provided. Sometimes less is more.
+   -   If you feel nauseated or dizzy, increase the rest periods. Making
+     yourself vomit will not help the speed of your adaptation.
 
-    For this phase we have a split in training, depending on what surface
-    your season is focussed on...
+     For this phase we have a split in training, depending on what surface
+     your season is focussed on...
 
-    -   If GRASS --> use the standard Conditioning & SAQs
-    -   If BEACH --> use the Beach Conditioning & SAQs
+     -   If GRASS --> use the standard Conditioning & SAQs
+     -   If BEACH --> use the Beach Conditioning & SAQs
 
-    [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/Pre-Season_2.png]]
+     [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/Pre-Season_2.png]]
 
-    Core circuits can be done 3-6 days per week. Alternate between circuit 1
-    and circuit 2.
+     Core circuits can be done 3-6 days per week. Alternate between circuit 1
+     and circuit 2.
 
-    Conditioning *can* be done 6 days per week *but only if* you keep the
-    volume low enough to recover between sessions. *If you want to do
-    conditioning on the same day as the circuit training, separate the
-    workouts by a few hours*. This will allow you to do more work and still
-    recover.
+     Conditioning *can* be done 6 days per week *but only if* you keep the
+     volume low enough to recover between sessions. *If you want to do
+     conditioning on the same day as the circuit training, separate the
+     workouts by a few hours*. This will allow you to do more work and still
+     recover.

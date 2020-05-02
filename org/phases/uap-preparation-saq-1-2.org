@@ -3,45 +3,40 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-preparation.html
 
-   These SAQ (Speed, Agility, Quickness) modules can be done before the conditioning sessions or lifting sessions. They should be done *after* a dynamic warmup to reap the greatest benefit. One module has a linear emphasis, the other has a lateral emphasis. Do the linear warmup before the linear SAQ and the lateral warmup before the lateral SAQ. It will make most sense to do the linear SAQ before the linear conditioning and the lateral SAQ before the lateral conditioning.
+These SAQ (Speed, Agility, Quickness) modules can be done before the conditioning sessions or lifting sessions. They should be done *after* a dynamic warmup to reap the greatest benefit. One module has a linear emphasis, the other has a lateral emphasis. Do the linear warmup before the linear SAQ and the lateral warmup before the lateral SAQ. It will make most sense to do the linear SAQ before the linear conditioning and the lateral SAQ before the lateral conditioning.
 
-   SAQ modules can be done 2-4 times per week alternating between the linear and lateral option.
+SAQ modules can be done 2-4 times per week alternating between the linear and lateral option.
 
-   SAQ 1: Linear SAQ
+SAQ 1: Linear SAQ
 
 * Box Jumps
-    {{{youtube(tVnU1kwoIMM)}}}
+  {{{youtube(tVnU1kwoIMM)}}}
 
-
-    - knee angle at takeoff should be approximately the same as knee angle upon landing. If knee angle is less than 90 degrees, your box is definitely too high.
-    - practice landing quietly
+  - knee angle at takeoff should be approximately the same as knee angle upon landing. If knee angle is less than 90 degrees, your box is definitely too high.
+  - practice landing quietly
 
 * Forward Frog Jumps
-    {{{youtube(09KPdgduavA)}}}
+  {{{youtube(09KPdgduavA)}}}
 
+      - the purpose of this drill is to get full extension of ankels, knees, and hips
+      - propel yourself explosively upward and a little bit forward
 
-    - the purpose of this drill is to get full extension of ankels, knees, and hips
-    - propel yourself explosively upward and a little bit forward
-
-    SAQ 2: Lateral SAQ
+	SAQ 2: Lateral SAQ
 
 * Lateral Bound and Stick
-    {{{youtube(jnGMnjRXNAI)}}}
+  {{{youtube(jnGMnjRXNAI)}}}
 
-
-    - bound sideways as far as you can while still being able to stick the landing
-    - bend your knees to absorb the landing and land quietly
+  - bound sideways as far as you can while still being able to stick the landing
+  - bend your knees to absorb the landing and land quietly
 
 * Single Leg Box Jumps - Medial
-    {{{youtube(iYteMFa1GlQ)}}}
+  {{{youtube(iYteMFa1GlQ)}}}
 
-
-    -
+  -
 
 * Single Leg Box Jumps - Lateral
-    {{{youtube(waVdgd9JPVw)}}}
+  {{{youtube(waVdgd9JPVw)}}}
 
-
-    - choose a 4-8 inch box or step
-    - jump laterally and land as quietly as possible
-    - stick the landing with no additional hopping
+  - choose a 4-8 inch box or step
+  - jump laterally and land as quietly as possible
+  - stick the landing with no additional hopping

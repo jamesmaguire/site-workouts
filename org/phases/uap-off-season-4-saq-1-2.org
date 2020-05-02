@@ -3,57 +3,50 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-off-season-4.html
 
-   These workouts are to be preceded by the [[https://ultyresults.mykajabi.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
+These workouts are to be preceded by the [[https://ultyresults.mykajabi.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
 
 * SAQ 1: Lateral
 * A. Counter Movement Lateral Hops
-     {{{youtube(zsikQYzW1xw)}}}
+  {{{youtube(zsikQYzW1xw)}}}
 
-
-     - Be sure to pause between each jump
-     - Aim for height and stick the landing between hurdles or cones
+  - Be sure to pause between each jump
+  - Aim for height and stick the landing between hurdles or cones
 
 * B. Lateral Bound and Return
-     {{{youtube(gxkZIPJYgro)}}}
+  {{{youtube(gxkZIPJYgro)}}}
 
-
-     - Like the Bound and Stick, but with an extra bound back to the starting point.
-     - Stick the landing as with the bound and stick
+  - Like the Bound and Stick, but with an extra bound back to the starting point.
+  - Stick the landing as with the bound and stick
 
 * C. 5-10-5 Lateral Drill
-     {{{youtube(lIq87ZhL8bE)}}}
+  {{{youtube(lIq87ZhL8bE)}}}
 
-
-     - First 5yards hips will be mostly perpendicular to line of movement. Use a big crossover push.
-     - Second 10 yards open the hips early coming in to the second turn
-     - Third five yards turn the hips and commit to accelerating though the cone.
+  - First 5yards hips will be mostly perpendicular to line of movement. Use a big crossover push.
+  - Second 10 yards open the hips early coming in to the second turn
+  - Third five yards turn the hips and commit to accelerating though the cone.
 
 * SAQ 2: Linear and Vertical
 * A. Galloping
-     20 yards each leg
+  20 yards each leg
 
-     {{{youtube(0BPaYtKq76M)}}}
+  {{{youtube(0BPaYtKq76M)}}}
 
-
-     - Repeatedly leap off the same leg as high and as far as possible
-     - Use your arms for momentum
+  - Repeatedly leap off the same leg as high and as far as possible
+  - Use your arms for momentum
 
 * B. 3-Step Approach Jumps
-     {{{youtube(ldBS5OCXVTk)}}}
+  {{{youtube(ldBS5OCXVTk)}}}
 
-
-     - Reach up with the arm opposite the leg pushing off the ground for maximum reach height (layup style)
+  - Reach up with the arm opposite the leg pushing off the ground for maximum reach height (layup style)
 
 * C. 5-10-5 Linear Drill
-     {{{youtube(hdD8O9katw4)}}}
+  {{{youtube(hdD8O9katw4)}}}
 
-
-     - 5 yards sprint, 10 yards quick backpedal, 5 yards accelerate
+  - 5 yards sprint, 10 yards quick backpedal, 5 yards accelerate
 
 * D. Accelerate and decelerate
-     {{{youtube(j_9qk0MJ4Fw)}}}
+  {{{youtube(j_9qk0MJ4Fw)}}}
 
-
-     - Accelerate as quickly as possible to maximum speed.
-     - Decelerate to walking by the time you get to the end point
-     - Allow yourself to decellerate natually. do not force yourself to decellerate more quickly than you are capable.
+  - Accelerate as quickly as possible to maximum speed.
+  - Decelerate to walking by the time you get to the end point
+  - Allow yourself to decellerate natually. do not force yourself to decellerate more quickly than you are capable.

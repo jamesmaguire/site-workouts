@@ -1,7 +1,6 @@
 #+TITLE: UAP Pre-season 1
 #+SETUPFILE: ../phase.setup
 
-
 - [[file:uap-pre-season-1-lower.org][Lower]]
 - [[file:uap-pre-season-1-upper.org][Upper]]
 - [[file:uap-pre-season-1-full-body.org][Full Body]]
@@ -14,37 +13,37 @@
 - [[file:uap-pre-season-1-beach-conditioning-1-2.org][Beach Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-   [[file:../../docs/uap-pdfs/preseason1.pdf][Workout log (pdf)]]
+  [[file:../../docs/uap-pdfs/preseason1.pdf][Workout log (pdf)]]
 
-   Starting preseason work. The emphasis this phase is strength endurance
-   and conditioning. Strength training is around 8-10RM range and rest
-   intervals have been shortened to 60 seconds. I have subtracted a day of
-   strength training to allow more time for conditioning.
+  Starting preseason work. The emphasis this phase is strength endurance
+  and conditioning. Strength training is around 8-10RM range and rest
+  intervals have been shortened to 60 seconds. I have subtracted a day of
+  strength training to allow more time for conditioning.
 
-   -   Conditioning workouts can always be done after the leg strength
-     training day because it does not matter that your legs are already
-     tired.
-   -   If doing two types of sessions on the same day, SAQ should be done
-     before lifting or conditioning. Lifting should be done before
-     conditioning.
-   -   Learn to pay attention to how your body is feeling each day. If you
-     start feeling run down by the end of each week, you may not be
-     getting enough recovery. It is okay NOT to do all of the workouts
-     provided. Sometimes less is more.
+  -   Conditioning workouts can always be done after the leg strength
+    training day because it does not matter that your legs are already
+    tired.
+  -   If doing two types of sessions on the same day, SAQ should be done
+    before lifting or conditioning. Lifting should be done before
+    conditioning.
+  -   Learn to pay attention to how your body is feeling each day. If you
+    start feeling run down by the end of each week, you may not be
+    getting enough recovery. It is okay NOT to do all of the workouts
+    provided. Sometimes less is more.
 
-   For this phase we have a split in training, depending on what surface
-   your season is focussed on...
+    For this phase we have a split in training, depending on what surface
+    your season is focussed on...
 
-   -   If GRASS --> use the Grass Conditioning & SAQs
-   -   If BEACH --> use the Beach Conditioning & SAQs
+    -   If GRASS --> use the Grass Conditioning & SAQs
+    -   If BEACH --> use the Beach Conditioning & SAQs
 
-   [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/Pre-Season_1.png]]
+    [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/Pre-Season_1.png]]
 
-   Conditioning *can* be done 6 days per week *but only if* you keep the
-   volume low enough to recover between sessions. If your shedule is
-   flexible, separating your conditioning from your strength training by a
-   few hours will allow you to do more work and still recover.
+    Conditioning *can* be done 6 days per week *but only if* you keep the
+    volume low enough to recover between sessions. If your shedule is
+    flexible, separating your conditioning from your strength training by a
+    few hours will allow you to do more work and still recover.
 
-   If you want to do more work, you can also invest more time in your core.
-   Core circuits can be done 3-6 days per week. Alternate between circuit 1
-   and circuit 2.
+    If you want to do more work, you can also invest more time in your core.
+    Core circuits can be done 3-6 days per week. Alternate between circuit 1
+    and circuit 2.

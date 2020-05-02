@@ -3,46 +3,40 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-off-season-5.html
 
-
 *  A1. Low Incline Paused DB Row
 
-    {{{youtube(XqkV8RL4iaM)}}}
+  {{{youtube(XqkV8RL4iaM)}}}
 
-
-    -   really squeeze your shoulder blades together at the top as you hold
-      for 2 counts
+  -   really squeeze your shoulder blades together at the top as you hold
+    for 2 counts
 
 *  A2. Flat DB Bench with Iso Hold
 
-    {{{youtube(uJ4bHmXAICA)}}}
+  {{{youtube(uJ4bHmXAICA)}}}
 
-
-    -   Reps with non-dominant arm first. Opposite arm holds at the 1/2 rep
-      position until all reps are complete. Then rep with dominant arm
-      while non-dominant arms holds the 1/2 rep postion.
+  -   Reps with non-dominant arm first. Opposite arm holds at the 1/2 rep
+    position until all reps are complete. Then rep with dominant arm
+    while non-dominant arms holds the 1/2 rep postion.
 
 *  B1. Side Plank Cable Row
 
-    {{{youtube(1mPJJkmrqX8)}}}
+  {{{youtube(1mPJJkmrqX8)}}}
 
-
-    -   Start in a side plank position facing a cable column.
-    -   Maintain the side plank position as you pull the weight.
-    -   Squeeze your shoulder blades together and hold.
+  -   Start in a side plank position facing a cable column.
+  -   Maintain the side plank position as you pull the weight.
+  -   Squeeze your shoulder blades together and hold.
 
 *  B2. Rotational Push Ups
 
-    {{{youtube(8BAGcv4Xw1k)}}}
+  {{{youtube(8BAGcv4Xw1k)}}}
 
-
-    -   Maintain perfect plank position throuhgout the movement
-    -   Use weights light enough that you can keep arms straight during
-      rotation
-    -   Add a quarter rep at the bottom of the pushup to increase difficulty
+  -   Maintain perfect plank position throuhgout the movement
+  -   Use weights light enough that you can keep arms straight during
+    rotation
+  -   Add a quarter rep at the bottom of the pushup to increase difficulty
 
 *  B3. Front Plate Drop
 
-    {{{youtube(mZTiH_Wk1r8)}}}
+  {{{youtube(mZTiH_Wk1r8)}}}
 
-
-    -   drop and catch the weight.
+  -   drop and catch the weight.

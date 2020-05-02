@@ -3,33 +3,28 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-pre-season-3.html
 
-   These workouts are to be preceded by the [[https://ultyresults.mykajabi.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
+These workouts are to be preceded by the [[https://ultyresults.mykajabi.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
 
 * SAQ 1: Jumping & Acceleration
 * A. 2 Low Squat Jumps to Scissor Jump and Sprint 10 Yards
-     {{{youtube(077_AiKQD9E)}}}
+  {{{youtube(077_AiKQD9E)}}}
 
-
-     - concentrate on really getting the knees UP on the low squat jumps
-     - EXPLODE as high as possible on the split squat jump
-     - land as softly as possible in a low split squat position and explode forward into a sprint
+  - concentrate on really getting the knees UP on the low squat jumps
+  - EXPLODE as high as possible on the split squat jump
+  - land as softly as possible in a low split squat position and explode forward into a sprint
 
 * B. Power Skips for Distance
 * C. 3 Step Approach Jump
-     {{{youtube(ldBS5OCXVTk)}}}
-
+  {{{youtube(ldBS5OCXVTk)}}}
 
 * SAQ 2: Footwork & Discwork
 * A. Jog 10 yards, jab step to 10 yard sprint
-     {{{youtube(GH-BsJmJYpo)}}}
-
+  {{{youtube(GH-BsJmJYpo)}}}
 
 * B. Jog 10 yards, waltz step to 10 yard sprint
-     {{{youtube(5XuZFr3cHWE)}}}
-
+  {{{youtube(5XuZFr3cHWE)}}}
 
 * C. 3 Cone Throw and Go Acceleration
-     (cones about 10 yards apart)
+  (cones about 10 yards apart)
 
-     {{{youtube(2liNHLeuAKE)}}}
-
+  {{{youtube(2liNHLeuAKE)}}}

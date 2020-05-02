@@ -3,17 +3,15 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-in-season-2.html
 
-
-   Perform the circuit 3 times through with no rest or minimal rest between
-   exercises and sets
+Perform the circuit 3 times through with no rest or minimal rest between
+exercises and sets
 
 *  A1. Inchworm
 
-    {{{youtube(JE7JVgtMIJ8)}}}
+  {{{youtube(JE7JVgtMIJ8)}}}
 
-
-    -   Shoulders, hips, and ankles form a straight line at all times*
-      *
+  -   Shoulders, hips, and ankles form a straight line at all times*
+    *
 
     <!-- -->
 
@@ -24,17 +22,15 @@
 
 *  A2. Reverse Crunch
 
-    {{{youtube(p8UWxC8wxvQ)}}}
+  {{{youtube(p8UWxC8wxvQ)}}}
 
-
-    -   Initiate movement from the lower abs
-    -   Aim hips and feet straight up, not over the head.
+  -   Initiate movement from the lower abs
+  -   Aim hips and feet straight up, not over the head.
 
 *  A3. Side Plank with Hip Adbuction
 
-    {{{youtube(1_k1Vr9xe4I)}}}
+  {{{youtube(1_k1Vr9xe4I)}}}
 
-
-    -   Shoulders, hips and ankles in a line
-    -   Raise the top leg
-    -   Keep toes pointed forward!
+  -   Shoulders, hips and ankles in a line
+  -   Raise the top leg
+  -   Keep toes pointed forward!

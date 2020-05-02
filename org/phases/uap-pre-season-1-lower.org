@@ -3,53 +3,47 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-pre-season-1.html
 
-
 *  A1. Front DB Box Squat with Ankle Extension
 
-    {{{youtube(kiki_7Rdl_s)}}}
+  {{{youtube(kiki_7Rdl_s)}}}
 
-
-    -   Reach your butt back and just tap the bench or box
+  -   Reach your butt back and just tap the bench or box
 
 *  A2. Accentuated Dumbbell RDL
 
-    {{{youtube(At9rCSBgy8c)}}}
+  {{{youtube(At9rCSBgy8c)}}}
 
-
-    -   Get your hips back. Knees bent at about 10-15 degrees.
-    -   Maintain a neutral spine!
-    -   Keep the weight close to your legs (not doing so will cause you to
-      use your back)
-    -   Lower the weight until you feel the slight stretch in the back of
-      your hamstrings.
-    -   Use your glutes and hamstrings to push your hips forward and cause
-      you to stand up.
+  -   Get your hips back. Knees bent at about 10-15 degrees.
+  -   Maintain a neutral spine!
+  -   Keep the weight close to your legs (not doing so will cause you to
+    use your back)
+  -   Lower the weight until you feel the slight stretch in the back of
+    your hamstrings.
+  -   Use your glutes and hamstrings to push your hips forward and cause
+    you to stand up.
 
 *  B1. Backward DB Lunge
 
-    {{{youtube(BYbEvMbOfMI)}}}
+  {{{youtube(BYbEvMbOfMI)}}}
 
-
-    -   Step back with one leg. Do not let your knee touch the ground
-    -   Explosively step forward again using primarily the front leg
-    -   Keep the back foot off the ground when you stand up again if
-      possible
-    -   Do all reps on one leg first and then the other
+  -   Step back with one leg. Do not let your knee touch the ground
+  -   Explosively step forward again using primarily the front leg
+  -   Keep the back foot off the ground when you stand up again if
+    possible
+  -   Do all reps on one leg first and then the other
 
 *  B2. Cable Pull Through
 
-    {{{youtube(94mnZc1fTiQ)}}}
+  {{{youtube(94mnZc1fTiQ)}}}
 
-
-    -   feet are slightly wider than shoulder width. knees are bent about 10
-      degrees.
-    -   reach back between your legs with the rope attachment.
-    -   use your glutes to push your hips forward and stand up.
+  -   feet are slightly wider than shoulder width. knees are bent about 10
+    degrees.
+  -   reach back between your legs with the rope attachment.
+  -   use your glutes to push your hips forward and stand up.
 
 *  C1. Wall Overhead Iso Squat
 
-    {{{youtube(Cmgb_eKAYyU)}}}
+  {{{youtube(Cmgb_eKAYyU)}}}
 
-
-    -   Keep elbows locked out
-    -   Knees near 90 degrees
+  -   Keep elbows locked out
+  -   Knees near 90 degrees

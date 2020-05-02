@@ -1,7 +1,6 @@
 #+TITLE: UAP In-season 2
 #+SETUPFILE: ../phase.setup
 
-
 - [[file:uap-in-season-2-lower.org][Lower]]
 - [[file:uap-in-season-2-upper.org][Upper]]
 - [[file:uap-in-season-2-saq-1-2.org][SAQ 1 & 2]]
@@ -10,9 +9,8 @@
 - [[file:uap-in-season-2-core-2.org][Core 2]]
 
 * Schedule & Workout Logs
-   [[file:../../docs/uap-pdfs/inseason2.pdf][Workout log (pdf)]]
+  [[file:../../docs/uap-pdfs/inseason2.pdf][Workout log (pdf)]]
 
-   This schedule assumes weekend practices or tournaments.
+  This schedule assumes weekend practices or tournaments.
 
-   [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/In-Season_2.png]]
-
+  [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/In-Season_2.png]]

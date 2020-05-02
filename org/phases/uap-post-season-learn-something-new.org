@@ -3,46 +3,42 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-post-season.html
 
-   The post-season is a great time for cross training activities. You want to stay active but maybe take a mental and physical break from ultimate before jumping back into hard training again.
+The post-season is a great time for cross training activities. You want to stay active but maybe take a mental and physical break from ultimate before jumping back into hard training again.
 
-   I like to take some time in the post season to learn a new skill. This could be something I want to apply to my training later or just something that looks like fun that I don't normally have time to do.
+I like to take some time in the post season to learn a new skill. This could be something I want to apply to my training later or just something that looks like fun that I don't normally have time to do.
 
 * 1. Parkour
-    Parkour originated in France. The main goal of practicing Parkour is to use and expand upon your body's natural movement patterns while in motion. There is a lot of vaulting over obstacles, balancing, and learning to land precisely and softly on small surfaces. There is no real organized method of Parkour. The object is to play, to learn what your body can do, and to use it in new ways.
+  Parkour originated in France. The main goal of practicing Parkour is to use and expand upon your body's natural movement patterns while in motion. There is a lot of vaulting over obstacles, balancing, and learning to land precisely and softly on small surfaces. There is no real organized method of Parkour. The object is to play, to learn what your body can do, and to use it in new ways.
 
-    I hooked up with a local Parkour club and they got me started on a few moves and things to practice. This is a great post season activity for working on balance!
+  I hooked up with a local Parkour club and they got me started on a few moves and things to practice. This is a great post season activity for working on balance!
 
-    Many people learn by watcing videos of others on YouTube. Here's David Bell, the originator of the Parkour movement. Obviously, don't try this at home:
+  Many people learn by watcing videos of others on YouTube. Here's David Bell, the originator of the Parkour movement. Obviously, don't try this at home:
 
-    {{{youtube(x98jCBnWO8w)}}}
-
+  {{{youtube(x98jCBnWO8w)}}}
 
 * 2. Jump Rope Training
-    Learning to jump rops is a surprisingly humbling experience (wasn't I good at this at, like, age six?). But, it is also something you can get much better at very quickly. Start by just jumping regularly and working on your speed (jumps per minute) and endurance. Start gradually!
+  Learning to jump rops is a surprisingly humbling experience (wasn't I good at this at, like, age six?). But, it is also something you can get much better at very quickly. Start by just jumping regularly and working on your speed (jumps per minute) and endurance. Start gradually!
 
-    Jumping rope is great for working on the elasticity in the calves and can have a nice carryover to your plyometrci exercises.
+  Jumping rope is great for working on the elasticity in the calves and can have a nice carryover to your plyometrci exercises.
 
-    Here is a nice little intro video with suggestions on how to get started:
+  Here is a nice little intro video with suggestions on how to get started:
 
-    {{{youtube(k9bLUzJwJyc)}}}
+  {{{youtube(k9bLUzJwJyc)}}}
 
+  And two examples of where you can go wtih jump rope training:
 
-    And two examples of where you can go wtih jump rope training:
+  Here's Buddy Lee who really helped to popularize jump rope training:
 
-    Here's Buddy Lee who really helped to popularize jump rope training:
+  {{{youtube(5MfhJjbNNJE)}}}
 
-    {{{youtube(5MfhJjbNNJE)}}}
+  And someone participates in jump rope competition:
 
-
-    And someone participates in jump rope competition:
-
-    {{{youtube(1dtBfKsFEOo)}}}
-
+  {{{youtube(1dtBfKsFEOo)}}}
 
 * 3. Climbing
-    I've only been climbing a few times so I'm no expert. May help with general grip strength. Not sure how much carryover there would be to disc gripping. But also good for working on shoulder strength and balance.
+  I've only been climbing a few times so I'm no expert. May help with general grip strength. Not sure how much carryover there would be to disc gripping. But also good for working on shoulder strength and balance.
 
 * 4. Hiking/Trailrunning
-    Walking and running on unstable uneven surfaces is fantastic for proprioception!
+  Walking and running on unstable uneven surfaces is fantastic for proprioception!
 
-    What's your favorite fun physical activity when you're not playing ultimate? *Tell us what you're up to in your post-season activities in the comments below!*
+  What's your favorite fun physical activity when you're not playing ultimate? *Tell us what you're up to in your post-season activities in the comments below!*

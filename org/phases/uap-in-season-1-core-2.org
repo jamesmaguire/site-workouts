@@ -3,43 +3,39 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-in-season-1.html
 
+These core circuits will take 10-12 minutes. The core circuits can be
+done 2-3 times a week alternating between this and [[https://ultyresults.mykajabi.com/products/uap/categories/59531/posts/176039][core circuit 1]].
+Alternatively, they can be done before or after playing or conditioning,
+or after an SAQ session.
 
-   These core circuits will take 10-12 minutes. The core circuits can be
-   done 2-3 times a week alternating between this and [[https://ultyresults.mykajabi.com/products/uap/categories/59531/posts/176039][core circuit 1]].
-   Alternatively, they can be done before or after playing or conditioning,
-   or after an SAQ session.
-
-   Perform the circuit 3 times through with no rest or minimal rest between
-   exercises and sets
+Perform the circuit 3 times through with no rest or minimal rest between
+exercises and sets
 
 *  Stir the pot (6 circles each direction. Add 2 reps each week)
 
-    {{{youtube(FTumEC5enyU)}}}
+  {{{youtube(FTumEC5enyU)}}}
 
-
-    -   Maintain a good plank position with shoulders hips and ankles in a
-      line.
-    -   Place your feet wider apart to make the exercises slightly easier if
-      necessary.
-    -   With shoulders retracted and fingers interlaced, move the stability
-      ball in small circles.
+  -   Maintain a good plank position with shoulders hips and ankles in a
+    line.
+  -   Place your feet wider apart to make the exercises slightly easier if
+    necessary.
+  -   With shoulders retracted and fingers interlaced, move the stability
+    ball in small circles.
 
 *  Stability Ball Pike (8-10 reps. add 2 reps each week)
 
-    {{{youtube(jAA5x303V-A)}}}
+  {{{youtube(jAA5x303V-A)}}}
 
-
-    -   Start in a plank position with shoulders retracted.
-    -   With the core engaged, initiate the movement of the ball with your
-      lower abs.
-    -   Bring the ball forward and hips up until your upper body is in a
-      handstand position.
+  -   Start in a plank position with shoulders retracted.
+  -   With the core engaged, initiate the movement of the ball with your
+    lower abs.
+  -   Bring the ball forward and hips up until your upper body is in a
+    handstand position.
 
 *  Stability Ball DB Paused Russian Twist (8 reps each side. Add 2 each week)
 
-    {{{youtube(T88m08cIlPo)}}}
+  {{{youtube(T88m08cIlPo)}}}
 
-
-    -   Use your glutes to keep your hips up
-    -   Keeping your shoulders retracted and arms straight, rotate to one
-      side and then the other for one rep.
+  -   Use your glutes to keep your hips up
+  -   Keeping your shoulders retracted and arms straight, rotate to one
+    side and then the other for one rep.

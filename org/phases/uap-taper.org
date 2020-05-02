@@ -8,50 +8,50 @@
 - [[file:uap-taper-core-2.org][Core 2]]
 - [[file:uap-taper-saq-1-2.org][SAQ 1 & 2]]
 - [[file:uap-taper-conditioning-1-2.org][Conditioning 1 & 2]]
-  
+
 * Schedule & Workout Logs
-   [[file:../../docs/uap-pdfs/taper0.pdf][Workout log (pdf)]]
-   
-   On this page you'll find everything you need to complete the
-   conditioning sessions of the Taper Phase. If you ever need a lighter day
-   for recovery, refer to the 80/20 workout from In Season 1.
+  [[file:../../docs/uap-pdfs/taper0.pdf][Workout log (pdf)]]
 
-   In this phase, your primary goal is to feel both physically and
-   psychologically prepared for your most important tournament. Trust your
-   training. You will be dramatically decreasing your volume of work. It is
-   important to realize that you've already done the work necessary. Gains
-   in performance are now going to come from complete recovery, not from
-   training.
+  On this page you'll find everything you need to complete the
+  conditioning sessions of the Taper Phase. If you ever need a lighter day
+  for recovery, refer to the 80/20 workout from In Season 1.
 
-   Workouts will be done at the same intensity. Sprinting and lifting at
-   high intensity are still important for two reasons. 1. You want to keep
-   your mobility. Being inactive or not sprinting may cause a temporary
-   loss of movement quality. 2. We want to keep the nervous system primed
-   for peak performance. High-intensity movements keep the nervous system
-   sharp.
+  In this phase, your primary goal is to feel both physically and
+  psychologically prepared for your most important tournament. Trust your
+  training. You will be dramatically decreasing your volume of work. It is
+  important to realize that you've already done the work necessary. Gains
+  in performance are now going to come from complete recovery, not from
+  training.
 
-   If you want to do more work, invest more time in tissue quality work
-   (foam rolling and stretching), mobility drills, and the warm-up drills,
-   and most critically: *GET MORE SLEEP!*
+  Workouts will be done at the same intensity. Sprinting and lifting at
+  high intensity are still important for two reasons. 1. You want to keep
+  your mobility. Being inactive or not sprinting may cause a temporary
+  loss of movement quality. 2. We want to keep the nervous system primed
+  for peak performance. High-intensity movements keep the nervous system
+  sharp.
 
-   -   SAQ workouts can be done before league games, pickup games, throwing
-     practice, conditioning sessions or lifting sessions.
-   -   Conditioning sessions can be done after league games, pickup games,
-     throwing practice, lifting, or SAQ sessions. It is totally okay to
-     cut out conditioning workouts two weeks prior to the tournament if
-     you are also having practices, etc.
-   -   Core workouts can be done after SAQ, throwing practice, team
-     practice, pickup games, conditioning sessions or lifting sessions.
-   -   Relax! You've done the training already. You are not going
-     to *significantly* alter your physical abilities, positively or
-     negatively, in the 2-3 weeks prior to the big show.
-   -   Feel free to substitute your favorite training sessions from the UAP
-     for similar type workouts in the taper phase (as long as you cut
-     down on the volume to the same as the taper phase). Do things that
-     make you feel confident and athletic!
+  If you want to do more work, invest more time in tissue quality work
+  (foam rolling and stretching), mobility drills, and the warm-up drills,
+  and most critically: *GET MORE SLEEP!*
 
-   This schedule assumes weekend practices/tournaments, and for the
-   6/days/week version you should get some kind of active rest on the
-   Monday!
+  -   SAQ workouts can be done before league games, pickup games, throwing
+    practice, conditioning sessions or lifting sessions.
+  -   Conditioning sessions can be done after league games, pickup games,
+    throwing practice, lifting, or SAQ sessions. It is totally okay to
+    cut out conditioning workouts two weeks prior to the tournament if
+    you are also having practices, etc.
+  -   Core workouts can be done after SAQ, throwing practice, team
+    practice, pickup games, conditioning sessions or lifting sessions.
+  -   Relax! You've done the training already. You are not going
+    to *significantly* alter your physical abilities, positively or
+    negatively, in the 2-3 weeks prior to the big show.
+  -   Feel free to substitute your favorite training sessions from the UAP
+    for similar type workouts in the taper phase (as long as you cut
+    down on the volume to the same as the taper phase). Do things that
+    make you feel confident and athletic!
 
-   [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/Taper.png]]
+    This schedule assumes weekend practices/tournaments, and for the
+    6/days/week version you should get some kind of active rest on the
+    Monday!
+
+    [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/Taper.png]]

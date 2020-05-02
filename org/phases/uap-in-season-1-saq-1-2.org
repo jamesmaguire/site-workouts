@@ -3,20 +3,17 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-in-season-1.html
 
-
 *  SAQ 1
 
 * A. Mountain Climber
 
-     {{{youtube(EujScxvh4Uw)}}}
-
+  {{{youtube(EujScxvh4Uw)}}}
 
 
 
 * B. Forward Frog Jumps
 
-     {{{youtube(nhDXP6h33qM)}}}
-
+  {{{youtube(nhDXP6h33qM)}}}
 
 
 
@@ -24,18 +21,14 @@
 
 * A. Wide Fast Foot
 
-     {{{youtube(aJkw2WK-gA4)}}}
-
+  {{{youtube(aJkw2WK-gA4)}}}
 
 
 
 * B. Side Zig Zag Grid
 
-     {{{youtube(MibJOtAmwy4)}}}
+  {{{youtube(MibJOtAmwy4)}}}
 
 
 
-
-     {{{youtube(rQeNk__Tvzw)}}}
-
-
+  {{{youtube(rQeNk__Tvzw)}}}

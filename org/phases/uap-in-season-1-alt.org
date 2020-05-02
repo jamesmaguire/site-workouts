@@ -1,7 +1,6 @@
 #+TITLE: UAP In-season 1 Alt
 #+SETUPFILE: ../phase.setup
 
-
 - [[file:uap-in-season-1-alt-full-body-1--heavy-day.org][Full Body 1 - Heavy Day]]
 - [[file:uap-in-season-1-alt-full-body-2--functional-day.org][Full Body 2 - Functional Day]]
 - [[file:uap-in-season-1-alt-core.org][Core]]
@@ -11,10 +10,9 @@
 - [[file:uap-in-season-1-alt-conditioning-1-2.org][Conditioning 1 & 2]]
 
 * Schedule and Workout Logs
-   [[file:../../docs/uap-pdfs/inseason1alt.pdf][Workout log (pdf)]]
+  [[file:../../docs/uap-pdfs/inseason1alt.pdf][Workout log (pdf)]]
 
-   This Schedule assumes weekend practice or tournaments.
-   [[https://s3.amazonaws.com/kajabi-storefronts-production/products/18202/images/i8nyjvlLT4yPxqNTG2en_Screen_Shot_2018-06-05_at_7.04.10_PM.png]]
+  This Schedule assumes weekend practice or tournaments.
+  [[https://s3.amazonaws.com/kajabi-storefronts-production/products/18202/images/i8nyjvlLT4yPxqNTG2en_Screen_Shot_2018-06-05_at_7.04.10_PM.png]]
 
-   On the two days/week schedule, if you have no league games, pickup, or practices at all during the week then switch out the Full body lifting on your Day 2 for a more movement based day, something like SAQ 2 (Skills), Core, Conditioning 2.
-
+  On the two days/week schedule, if you have no league games, pickup, or practices at all during the week then switch out the Full body lifting on your Day 2 for a more movement based day, something like SAQ 2 (Skills), Core, Conditioning 2.

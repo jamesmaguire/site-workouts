@@ -3,56 +3,51 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-off-season-5.html
 
-
 *  Conditioning 1
 
 * A. 80% Sprint Speed 110 Yards (full field plus endzones)
 
-     -   Pay attention to your running form.
-     -   Relaxed, linear arm swing
-     -   Light landings on the balls of your feet.
+  -   Pay attention to your running form.
+  -   Relaxed, linear arm swing
+  -   Light landings on the balls of your feet.
 
 * B. 160 yard shuttle (across an ultimate field and back twice)
 
-     {{{youtube(cpAnh4vAmrA)}}}
+  {{{youtube(cpAnh4vAmrA)}}}
 
-
-     -   40 yards down, 40 yards back and repeat.
+  -   40 yards down, 40 yards back and repeat.
 
 * C. 80% Sprint Speed 110 Yards (full field plus endzones)
 
-     -   Pay attention to your running form.
-     -   Relaxed, linear arm swing
-     -   Light landings on the balls of your feet.
+  -   Pay attention to your running form.
+  -   Relaxed, linear arm swing
+  -   Light landings on the balls of your feet.
 
 *  Conditioning 2
 
 * A. Zigzag Sprints
 
-     {{{youtube(YdgYleKenGM)}}}
+  {{{youtube(YdgYleKenGM)}}}
 
-
-     -   Set up 2 rows of cones about 5-7 yards apart. In each row, three
-       cones are placed about 8 yards apart. The two rows are off set by 4
-       yards to create a zig-zag pattern.
+  -   Set up 2 rows of cones about 5-7 yards apart. In each row, three
+    cones are placed about 8 yards apart. The two rows are off set by 4
+    yards to create a zig-zag pattern.
 
 * B. Forward, Back, Spin Sprints
 
-     {{{youtube(WHHYJO_Koyo)}}}
+  {{{youtube(WHHYJO_Koyo)}}}
 
-
-     -   Use just one row of cones.
-     -   Sprint to the first cone, backpedal back, sprint to the second cone,
-       backpedal to the first and spin to be running forward to the start
-       cone. Run around the start cone and repeat. (the video shows 3
-       repeats)
+  -   Use just one row of cones.
+  -   Sprint to the first cone, backpedal back, sprint to the second cone,
+    backpedal to the first and spin to be running forward to the start
+    cone. Run around the start cone and repeat. (the video shows 3
+    repeats)
 
 * C. Figure Eight Sprints
 
-     {{{youtube(zwHfN0hlEVc)}}}
+  {{{youtube(zwHfN0hlEVc)}}}
 
-
-     -   Attempt to cut on the inside foot rather than the outside foot (like
-       in the jab step).
-     -   To use the inside foot, you'll likely slow down a bit before the
-       cone and "switch your hips"
+  -   Attempt to cut on the inside foot rather than the outside foot (like
+    in the jab step).
+  -   To use the inside foot, you'll likely slow down a bit before the
+    cone and "switch your hips"

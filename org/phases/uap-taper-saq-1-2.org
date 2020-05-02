@@ -3,46 +3,41 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-taper.html
 
-
-   These workouts are to be preceded by the [[https://ultyresults.mykajabi.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
+These workouts are to be preceded by the [[https://ultyresults.mykajabi.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
 
 *  SAQ 1: Multidirectional
 
 * A. 5-10-5 drill
 
-     {{{youtube(lIq87ZhL8bE)}}}
+  {{{youtube(lIq87ZhL8bE)}}}
 
-
-     -   Alternate starting directions each set.
-     -   First five yards, hips should remain mostly forward.
-     -   Second ten yards turn the hips but open early to change directions
-       with maximal efficiency. Same thing for the last turn.
+  -   Alternate starting directions each set.
+  -   First five yards, hips should remain mostly forward.
+  -   Second ten yards turn the hips but open early to change directions
+    with maximal efficiency. Same thing for the last turn.
 
 * B. Zig-Zag Sprints
 
-     {{{youtube(YdgYleKenGM)}}}
+  {{{youtube(YdgYleKenGM)}}}
 
-
-     -   You should be using the jab step.
+  -   You should be using the jab step.
 
 *  SAQ 2: Linear Speed and Jumping
 
 * A. Counter-Movement Lateral Hops
 
-     {{{youtube(zsikQYzW1xw)}}}
+  {{{youtube(zsikQYzW1xw)}}}
 
-
-     -   Use your arms to generate height.
-     -   Land softly between the cones.
+  -   Use your arms to generate height.
+  -   Land softly between the cones.
 
 * B. 3 Point Start
 
-     {{{youtube(j76bJSWSKzg)}}}
+  {{{youtube(j76bJSWSKzg)}}}
 
-
-     -   Hips up. Feet should be closer to hands than you might think.
-     -   Lean over the hand on the ground. You should feel that you are close
-       to falling over.
-     -   You should feel some tension in the hamstrings like you are a spring
-       ready to bounce.
-     -   Accelerate as explosively as possible out of the starting position.
+  -   Hips up. Feet should be closer to hands than you might think.
+  -   Lean over the hand on the ground. You should feel that you are close
+    to falling over.
+  -   You should feel some tension in the hamstrings like you are a spring
+    ready to bounce.
+  -   Accelerate as explosively as possible out of the starting position.

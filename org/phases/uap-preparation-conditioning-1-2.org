@@ -3,29 +3,28 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-preparation.html
 
-   In our preparatory conditioning we're going to start at the very beginning and build gradually. The main focus in the next month will be building strength but we want to also build up some work capacity to be better able to recover from our workouts.
+In our preparatory conditioning we're going to start at the very beginning and build gradually. The main focus in the next month will be building strength but we want to also build up some work capacity to be better able to recover from our workouts.
 
-   Like the SAQ modules, there is a linear day and a lateral day. The linear or lateral warmup should precede these workouts. You should do conditioning at least 3 times per week (up to five times per week if you want) alternating linear and lateral days.
+Like the SAQ modules, there is a linear day and a lateral day. The linear or lateral warmup should precede these workouts. You should do conditioning at least 3 times per week (up to five times per week if you want) alternating linear and lateral days.
 
-   These workouts are short enough to do after a lifting session if necessary.
+These workouts are short enough to do after a lifting session if necessary.
 
 * Conditioning 1: 80/20 Workout
-    This session will work on your Linear conditioning.
+  This session will work on your Linear conditioning.
 
-    - Run at about 75-80% of your full sprint speed for 20 seconds. Walk or rest for 40 seconds. This is one rep.
-    - Choose 8-10 reps as your starting point. It should be easy.
-    - The pace your running should naturally have you landing on your forefoot.
-    - Add 1-2 reps each week.
-    - you should not be sore the next day.
+  - Run at about 75-80% of your full sprint speed for 20 seconds. Walk or rest for 40 seconds. This is one rep.
+  - Choose 8-10 reps as your starting point. It should be easy.
+  - The pace your running should naturally have you landing on your forefoot.
+  - Add 1-2 reps each week.
+  - you should not be sore the next day.
 
 * Conditioning 2: Skater Hops with Cone Touch
-    This session will work on your Lateral conditioning.
+  This session will work on your Lateral conditioning.
 
-    {{{youtube(OTUNlc93jac)}}}
+  {{{youtube(OTUNlc93jac)}}}
 
-
-    - Full intensity for 30 seconds. rest 90 seconds. Repeat 3 times
-    - Add one repetition each week.
+  - Full intensity for 30 seconds. rest 90 seconds. Repeat 3 times
+  - Add one repetition each week.
 
 * Congrats on completing a preparation phase workout!
-    [[https://www.ultyresults.com/p/uap-high-fives][Get your virtual High Five here!]]
+  [[https://www.ultyresults.com/p/uap-high-fives][Get your virtual High Five here!]]

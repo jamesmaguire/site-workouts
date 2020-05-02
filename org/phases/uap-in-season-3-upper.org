@@ -3,73 +3,65 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-in-season-3.html
 
-
 *  A1. Flat DB Bench with Iso Hold
 
-    {{{youtube(uJ4bHmXAICA)}}}
+  {{{youtube(uJ4bHmXAICA)}}}
 
-
-    -   Reps with non-dominant arm first. Opposite arm holds at the 1/2 rep
-      position until all reps are complete. Then rep with dominant arm
-      while non-dominant arms holds the 1/2 rep postion.
+  -   Reps with non-dominant arm first. Opposite arm holds at the 1/2 rep
+    position until all reps are complete. Then rep with dominant arm
+    while non-dominant arms holds the 1/2 rep postion.
 
 *  A2. Lying Medicine Ball Toss
 
-    {{{youtube(GdXWjERB8G0)}}}
+  {{{youtube(GdXWjERB8G0)}}}
 
-
-    -   Keep shoulders retracted
-    -   Like a basketball chest pass.
-    -   If you do not have a partner, you can throw a med ball against the
-      wall. For best results, use a ball that bounces back so you get the
-      eccentric portion of exercise.
+  -   Keep shoulders retracted
+  -   Like a basketball chest pass.
+  -   If you do not have a partner, you can throw a med ball against the
+    wall. For best results, use a ball that bounces back so you get the
+    eccentric portion of exercise.
 
 *  A3. 1 & 1/4 Inverse Row
 
-    {{{youtube(ZiUmS7jbNkg)}}}
+  {{{youtube(ZiUmS7jbNkg)}}}
 
-
-    -   Quarter rep at the top
-    -   Get your chest to the bar for full shoulder retraction
-    -   Feet can be elevated on a box or bench
-    -   To make it easier, have feet on the floor with legs straight
-    -   To make it even easier, bend the legs with feet on the floor
+  -   Quarter rep at the top
+  -   Get your chest to the bar for full shoulder retraction
+  -   Feet can be elevated on a box or bench
+  -   To make it easier, have feet on the floor with legs straight
+  -   To make it even easier, bend the legs with feet on the floor
 
 *  B1. Curl to Press
 
-    {{{youtube(tlZB1ZgtE6o)}}}
+  {{{youtube(tlZB1ZgtE6o)}}}
 
-
-    -   Curl the dumbbells until elbows are in front of you
-    -   From this position press overhead as you rotate from palms facing
-      toward you, to palms facing away.
+  -   Curl the dumbbells until elbows are in front of you
+  -   From this position press overhead as you rotate from palms facing
+    toward you, to palms facing away.
 
 *  B2. Paused DB Row
 
-    {{{youtube(46rfsFL0TeY)}}}
+  {{{youtube(46rfsFL0TeY)}}}
 
-
-    -   Keep shoulders parallel to the floor.
-    -   Bring the weight up to parallel with your torso and hold for two
-      counts.
+  -   Keep shoulders parallel to the floor.
+  -   Bring the weight up to parallel with your torso and hold for two
+    counts.
 
 *  C1. RRR Press
 
-    {{{youtube(aRSGmtjyKkI)}}}
+  {{{youtube(aRSGmtjyKkI)}}}
 
-
-    -   Retract, Row, Rotate, Press
-    -   Retract the shoulders at the beginning of each rep.
-    -   Each part of retract, row, rotate, press should be a distincts
-      movement.
-    -   During the press, the arms should be parallel to the torso. Don't
-      let them drop.
+  -   Retract, Row, Rotate, Press
+  -   Retract the shoulders at the beginning of each rep.
+  -   Each part of retract, row, rotate, press should be a distincts
+    movement.
+  -   During the press, the arms should be parallel to the torso. Don't
+    let them drop.
 
 *  C2. Plate Drop
 
-    {{{youtube(5qGdLD-9byQ)}}}
+  {{{youtube(5qGdLD-9byQ)}}}
 
-
-    -   Keep shoulders retracted
-    -   Drop and catch the weight as quickly as possible.
-    -   Do not throw the weight up.
+  -   Keep shoulders retracted
+  -   Drop and catch the weight as quickly as possible.
+  -   Do not throw the weight up.

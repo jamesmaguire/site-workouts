@@ -3,47 +3,42 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-in-season-3.html
 
-
 *  SAQ 1:
 
 * A. 3-Step Approach Jump (1 each leg)
 
-     {{{youtube(ldBS5OCXVTk)}}}
+  {{{youtube(ldBS5OCXVTk)}}}
 
-
-     -   Rest 60 Seconds between Sets
-     -   6 Sets
-     -   After the last set, rest 2 minutes
-     -   This stays the same for all 4 weeks
+  -   Rest 60 Seconds between Sets
+  -   6 Sets
+  -   After the last set, rest 2 minutes
+  -   This stays the same for all 4 weeks
 
 * B. Low Run to 15 Yard Sprint
 
-     {{{youtube(KtrjXwQuqnU)}}}
+  {{{youtube(KtrjXwQuqnU)}}}
 
+  -   Rest 90 seconds after each rep
+  -   5 reps
 
-     -   Rest 90 seconds after each rep
-     -   5 reps
+    <!-- -->
 
-     <!-- -->
-
-     -   This stays the same for all 4 weeks
+    -   This stays the same for all 4 weeks
 
 *  SAQ 2:
 
 * A. Shuffle 8 Yards to Sprint 15 yards (alternate directions each rep)
 
-     {{{youtube(hX3TKqIFCbM)}}}
+  {{{youtube(hX3TKqIFCbM)}}}
 
-
-     -   Rest 90 seconds
-     -   6 Reps
-     -   After the last rep, rest 2 minutes
+  -   Rest 90 seconds
+  -   6 Reps
+  -   After the last rep, rest 2 minutes
 
 * B. Single Leg Line Hops (alternate legs each rep)
 
-     {{{youtube(DA-h-gnDcNM)}}}
+  {{{youtube(DA-h-gnDcNM)}}}
 
-
-     -   Hop for 5 yards
-     -   Rest 90 seconds
-     -   Weeks 1 and 2 do 4 reps. Weeks 3 and 4 do 6 reps
+  -   Hop for 5 yards
+  -   Rest 90 seconds
+  -   Weeks 1 and 2 do 4 reps. Weeks 3 and 4 do 6 reps

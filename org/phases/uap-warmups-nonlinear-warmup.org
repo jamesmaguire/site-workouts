@@ -3,9 +3,9 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-warmups.html
 
-   This is a complete nonlinear warmup. This is the warmup you should do before nonlinear conditioning, SAQ modules, and before playing.
+This is a complete nonlinear warmup. This is the warmup you should do before nonlinear conditioning, SAQ modules, and before playing.
 
-   All exercises are performed for about 20 yards (except the ones that are stationary)
+All exercises are performed for about 20 yards (except the ones that are stationary)
 
 * Part 1: Physical Warm Up
   Each for 35m/40yards...
@@ -21,34 +21,26 @@
   1. Five Point Lunge
      {{{youtube(bBdSuretuHY)}}}
 
-
-   2. High Knee Hugs
-     {{{youtube(Re1haQf-j3o)}}}
-
+     2. High Knee Hugs
+	{{{youtube(Re1haQf-j3o)}}}
 
   3. Figure 4 Hugs
      {{{youtube(qOoeym_Xu0s)}}}
 
-
   4. Three Point SLDL (3 times each leg)
      {{{youtube(r1hPMviYbLQ)}}}
-
 
   5. Walking Quad Stretch
      {{{youtube(05TNLo-d2i0)}}}
 
-
   6. Side-Side-Middle Lunge
      {{{youtube(jJslMqcz_XQ)}}}
-
 
   7. Standing T-Spine Rotation (5 rotations each side)
      {{{youtube(xi48S_aB_FA)}}}
 
-
   8. Penguin Walk (about 10 yards forward and 10 yards backward)
      {{{youtube(cJvms057Rg4)}}}
-
 
 * Part 3: Nervous System
   All exercises should be done for about 15 yards unless otherwise noted. *Allow some rest between exercises* so that you can move at high intensity with quick, light feet. The purpose here is NOT to elevate your heart rate, but to prepare your nervous system to recuit the maximum number of fast twitch muscle fibers as quickly as possible.
@@ -58,7 +50,6 @@
   3. Backwards run
   4. Lateral skips
      {{{youtube(6dBXyLSqN4Y)}}}
-
 
   5. Falling Leaf
   6. Leprechaun Skips

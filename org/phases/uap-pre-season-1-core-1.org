@@ -3,35 +3,31 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-pre-season-1.html
 
-
 * A1. Stir the Pot
 
-    {{{youtube(FTumEC5enyU)}}}
+  {{{youtube(FTumEC5enyU)}}}
 
-
-    -   Maintain a good plank position with shoulders hips and ankles in a
-      line.
-    -   Place your feet wider apart to make the exercises slightly easier if
-      necessary.
-    -   With shoulders retracted and fingers interlaced, move the stability
-      ball in small circles.
+  -   Maintain a good plank position with shoulders hips and ankles in a
+    line.
+  -   Place your feet wider apart to make the exercises slightly easier if
+    necessary.
+  -   With shoulders retracted and fingers interlaced, move the stability
+    ball in small circles.
 
 * A2. Stability Ball Paused DB Russian Twist
 
-    {{{youtube(T88m08cIlPo)}}}
+  {{{youtube(T88m08cIlPo)}}}
 
-
-    -   Use your glutes to keep your hips up
-    -   Keeping your shoulders retracted and arms straight, rotate to one
-      side and then the other for one rep.
+  -   Use your glutes to keep your hips up
+  -   Keeping your shoulders retracted and arms straight, rotate to one
+    side and then the other for one rep.
 
 * A3. Stability Ball Pike
 
-    {{{youtube(jAA5x303V-A)}}}
+  {{{youtube(jAA5x303V-A)}}}
 
-
-    -   Start in a plank position with shoulders retracted.
-    -   With the core engaged, initiate the movement of the ball with your
-      lower abs.
-    -   Bring the ball forward and hips up until your upper body is in a
-      handstand position.
+  -   Start in a plank position with shoulders retracted.
+  -   With the core engaged, initiate the movement of the ball with your
+    lower abs.
+  -   Bring the ball forward and hips up until your upper body is in a
+    handstand position.

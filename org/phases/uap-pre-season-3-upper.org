@@ -4,49 +4,43 @@
 #+HTML_LINK_UP: uap-pre-season-3.html
 
 * A1. Squat Jumps
-    {{{youtube(N_tsz5XgwKg)}}}
+  {{{youtube(N_tsz5XgwKg)}}}
 
-
-    - Use no more than 25% of your bodyweight on the bar
-    - Maintain a neutral spine
-    - Keep the bar in contact with your back (it should not bounce)
-    - Minimize ground contact time as you explode up as high as possible.
+  - Use no more than 25% of your bodyweight on the bar
+  - Maintain a neutral spine
+  - Keep the bar in contact with your back (it should not bounce)
+  - Minimize ground contact time as you explode up as high as possible.
 
 * B1. One Arm Incline DB Press
-    {{{youtube(tkPqct_J338)}}}
+  {{{youtube(tkPqct_J338)}}}
 
-
-    - Hold a dumbbell only in one hand while performing this exercise.
-    - Engage the core to resist rotation.
+  - Hold a dumbbell only in one hand while performing this exercise.
+  - Engage the core to resist rotation.
 
 * B2. Prone Inertia Flat Elbow Out Row
-    {{{youtube(Gp_EvqQQphM)}}}
+  {{{youtube(Gp_EvqQQphM)}}}
 
-
-    - Initiate the motion from a full stop with weights on the floor
-    - Full retraction of shoulders at the top
+  - Initiate the motion from a full stop with weights on the floor
+  - Full retraction of shoulders at the top
 
 * C1. Stability Ball Incline DB Fly
-    {{{youtube(rVPVf8JDen0)}}}
+  {{{youtube(rVPVf8JDen0)}}}
 
-
-    - Shoulders on stability ball
-    - Drop hips to create an incline
-    - Keep spine neutral, core engaged
+  - Shoulders on stability ball
+  - Drop hips to create an incline
+  - Keep spine neutral, core engaged
 
 * C2. One Arm Standing Cable Row
-    {{{youtube(mRk69bN2v7Q)}}}
+  {{{youtube(mRk69bN2v7Q)}}}
 
-
-    - Stand in a quarter squat position.
-    - Do all reps on one side, then the other.
-    - Engage the core to resist rotation.
+  - Stand in a quarter squat position.
+  - Do all reps on one side, then the other.
+  - Engage the core to resist rotation.
 
 * C3. RRR Press
-    {{{youtube(mgaEUINQY_M)}}}
+  {{{youtube(mgaEUINQY_M)}}}
 
-
-    - Retract, Row, Rotate, Press
-    - Retract the shoulders at the beginning of each rep.
-    - Each part of retract, row, rotate, press should be a distincts movement.
-    - During the press, the arms should be parallel to the torso. Don't let them drop.
+  - Retract, Row, Rotate, Press
+  - Retract the shoulders at the beginning of each rep.
+  - Each part of retract, row, rotate, press should be a distincts movement.
+  - During the press, the arms should be parallel to the torso. Don't let them drop.

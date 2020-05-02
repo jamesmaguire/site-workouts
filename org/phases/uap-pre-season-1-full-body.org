@@ -3,7 +3,6 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-pre-season-1.html
 
-
 *  A1. Single Leg Stability Ball Raise to Bridge
 
   {{{youtube(h1Us6x0fuPI)}}}
@@ -19,7 +18,6 @@
 
   {{{youtube(jSnoZlYUttg)}}}
 
-
   -   find a rhythm, be explosive, drive the knee up!
   -   Use the foot on the bench to initiate and drive the movement. Don't
     "bounce" off the foot landing on the ground.
@@ -27,7 +25,6 @@
 *  B1. Flat DB Bench with Iso Hold
 
   {{{youtube(FytJJimZjFs)}}}
-
 
   -   Reps with non-dominant arm first. Opposite arm holds at the 1/2 rep
     position until all reps are complete. Then rep with dominant arm
@@ -37,7 +34,6 @@
 
   {{{youtube(_zHfvOXQ0KY)}}}
 
-
   -   Pause at the top
   -   Do not pull your elbows behind your torso. Even with the torso is
     good.
@@ -45,7 +41,6 @@
 *  C1. Bow and Arrow
 
   {{{youtube(Fq9Jlz261m4)}}}
-
 
   -   if you imagine an archer, you will naturally do this exercise
     correctly

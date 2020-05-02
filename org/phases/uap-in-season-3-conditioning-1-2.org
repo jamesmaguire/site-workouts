@@ -3,52 +3,46 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-in-season-3.html
 
-
 *  Conditioning 1:
 
 * A. 5-10-5 yard shuttle, Five Frog Jumps and Repeat
 
-     {{{youtube(57fJcrpPif8)}}}
+  {{{youtube(57fJcrpPif8)}}}
 
-
-     -   Rest 90 seconds after each rep
-     -   Complete 3 reps during Weeks 1 and 3. For Weeks 2 and 4, complete 4
-       reps.
-     -   Rest 2 minutes
+  -   Rest 90 seconds after each rep
+  -   Complete 3 reps during Weeks 1 and 3. For Weeks 2 and 4, complete 4
+    reps.
+  -   Rest 2 minutes
 
 * B. 20 Yard Sprint, 20 Yards Backward Skip, 20 Yards Backward Diagonal Shuffle
 
-     {{{youtube(aA4Vq5-V2Rw)}}}
+  {{{youtube(aA4Vq5-V2Rw)}}}
 
-
-     -   Rest 60 seconds after each rep
-     -   Complete 3 reps during Weeks 1 and 2. For Weeks 3 and 4, complete 4
-       reps
+  -   Rest 60 seconds after each rep
+  -   Complete 3 reps during Weeks 1 and 2. For Weeks 3 and 4, complete 4
+    reps
 
 *  Conditioning 2:
 
 * A1. 160 Yard Shuttle
 
-     {{{youtube(cpAnh4vAmrA)}}}
+  {{{youtube(cpAnh4vAmrA)}}}
 
-
-     -   40 yards down, 40 yards back and repeat.
-     -   Rest 60 seconds and then move onto A2.
+  -   40 yards down, 40 yards back and repeat.
+  -   Rest 60 seconds and then move onto A2.
 
 * A2. Kill Drill
 
 * Outside Throws
 
-     {{{youtube(Oy1AoKkqJjM)}}}
-
+  {{{youtube(Oy1AoKkqJjM)}}}
 
 * Inside Throws
 
-     {{{youtube(9KCoixDiqkI)}}}
+  {{{youtube(9KCoixDiqkI)}}}
 
-
-     -   One person rests while the other runs.
-     -   Twice each is one rep. Once throwing outisde throws, once faking
-       outside and throwing inside throws.
-     -   After the second time through, rest two minutes. Then restart with
-       the 160 shuttle. Complete three times.
+  -   One person rests while the other runs.
+  -   Twice each is one rep. Once throwing outisde throws, once faking
+    outside and throwing inside throws.
+  -   After the second time through, rest two minutes. Then restart with
+    the 160 shuttle. Complete three times.

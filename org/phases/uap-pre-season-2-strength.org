@@ -3,77 +3,68 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-pre-season-2.html
 
-
 *  A1. Semi-supinated grip Pull-ups
 
-    {{{youtube(R-j7IvquHwE)}}}
+  {{{youtube(R-j7IvquHwE)}}}
 
-
-    -   "semi-supinated" means that your palms are facing one another. If
-      you do not have a bar that allows for this, use a supinated grip
-      (palms toward you)
-    -   keep your chest up. Squeeze shoulder blades together at the top of
-      the movement.
-    -   If you do not have an assisted chinup machine, you can use a lat
-      pulldown instead.
+  -   "semi-supinated" means that your palms are facing one another. If
+    you do not have a bar that allows for this, use a supinated grip
+    (palms toward you)
+  -   keep your chest up. Squeeze shoulder blades together at the top of
+    the movement.
+  -   If you do not have an assisted chinup machine, you can use a lat
+    pulldown instead.
 
 *  A2. Bodyweight (BW) Squats
 
-    {{{youtube(IpkzKC2mt7c)}}}
+  {{{youtube(IpkzKC2mt7c)}}}
 
-
-    -   Get below parallel on each rep
-    -   Arms are extended to help maintain balance and keep weight on heels
+  -   Get below parallel on each rep
+  -   Arms are extended to help maintain balance and keep weight on heels
 
 * B1. Bench Dips
 
-     {{{youtube(XwXGdC0K050)}}}
+  {{{youtube(XwXGdC0K050)}}}
 
-
-     -   You should feel some tension in the pectorals at the bottom of the
-       movement
-     -   Keep elbows parallel, not caving in or flaring out
+  -   You should feel some tension in the pectorals at the bottom of the
+    movement
+  -   Keep elbows parallel, not caving in or flaring out
 
 *  B2. 45 Degree Lunges (BW)
 
-    {{{youtube(o9MgO2kMiAM)}}}
+  {{{youtube(o9MgO2kMiAM)}}}
 
-
-    -   Step out at a 45 degree angle while keeping hips square
-    -   Get low but do not let the back knee hit the ground
+  -   Step out at a 45 degree angle while keeping hips square
+  -   Get low but do not let the back knee hit the ground
 
 *  C1. Pushups
 
-    {{{youtube(7lHuWdR6iQs)}}}
+  {{{youtube(7lHuWdR6iQs)}}}
 
-
-    -   Maintain perfect plank position
-    -   Can be done on your knees if you cannot complete all as regular
-      pushups
+  -   Maintain perfect plank position
+  -   Can be done on your knees if you cannot complete all as regular
+    pushups
 
 *  C2. Diagonal Plate Raise
 
-    {{{youtube(gbX8ipoRB7s)}}}
+  {{{youtube(gbX8ipoRB7s)}}}
 
-
-    -   Start in a squat position with the plate held to one side.
-    -   Lift the plate diagonally and up over the opposite shoulder.
-    -   Your eyes should follow the plate during the movement.
+  -   Start in a squat position with the plate held to one side.
+  -   Lift the plate diagonally and up over the opposite shoulder.
+  -   Your eyes should follow the plate during the movement.
 
 *  D1. Plank Step-Up
 
-    {{{youtube(wiqVGrgaV4Q)}}}
+  {{{youtube(wiqVGrgaV4Q)}}}
 
-
-    -   Maintain perfect alignment of shoulders hips and ankles
-    -   Walk onto and off of the step as quickly as possible
+  -   Maintain perfect alignment of shoulders hips and ankles
+  -   Walk onto and off of the step as quickly as possible
 
 *  D2. Scissor Jumps for height
 
-    {{{youtube(Bo_Rg5fhZMQ)}}}
+  {{{youtube(Bo_Rg5fhZMQ)}}}
 
-
-    -   Aim for maximum height
-    -   Feet should be shoulder width apart when landing.
-    -   With minimal ground contact time, jump up again into the next
-      scissor.
+  -   Aim for maximum height
+  -   Feet should be shoulder width apart when landing.
+  -   With minimal ground contact time, jump up again into the next
+    scissor.

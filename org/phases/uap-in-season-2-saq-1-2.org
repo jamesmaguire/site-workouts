@@ -3,37 +3,32 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-in-season-2.html
 
-
 * SAQ 1:
 
 * A. Low squat jumps to split squat and 15 yard sprint
 
-     {{{youtube(077_AiKQD9E)}}}
+  {{{youtube(077_AiKQD9E)}}}
 
-
-     -   concentrate on really getting the knees UP on the low squat jumps
-     -   EXPLODE as high as possible on the split squat jump
-     -   land as softly as possible in a low split squat position and explode
-       forward into a sprint
+  -   concentrate on really getting the knees UP on the low squat jumps
+  -   EXPLODE as high as possible on the split squat jump
+  -   land as softly as possible in a low split squat position and explode
+    forward into a sprint
 
 * B. 6 tuck jumps
 
-     {{{youtube(uCgaMLjr20I)}}}
+  {{{youtube(uCgaMLjr20I)}}}
 
-
-     -   Bring knees UP to the chest, not the chest down to the knees.
-     -   Use your arms to incrrease your jump height
-     -   Land softly and minimize ground contact time
-     -   Attempt to land in the same spot from which tou took off.
+  -   Bring knees UP to the chest, not the chest down to the knees.
+  -   Use your arms to incrrease your jump height
+  -   Land softly and minimize ground contact time
+  -   Attempt to land in the same spot from which tou took off.
 
 * SAQ 2:
 
 * A. Jab step to sprint 15 yards
 
-     {{{youtube(_6k3XvTzuak)}}}
-
+  {{{youtube(_6k3XvTzuak)}}}
 
 * B. Waltz and Cut 15 yards
 
-     {{{youtube(GD_f0hbzGcs)}}}
-
+  {{{youtube(GD_f0hbzGcs)}}}

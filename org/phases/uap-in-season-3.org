@@ -1,7 +1,6 @@
 #+TITLE: UAP In-season 3
 #+SETUPFILE: ../phase.setup
 
-
 - [[file:uap-in-season-3-lower.org][Lower]]
 - [[file:uap-in-season-3-upper.org][Upper]]
 - [[file:uap-in-season-3-core-1.org][Core 1]]
@@ -10,30 +9,30 @@
 - [[file:uap-in-season-3-conditioning-1-2.org][Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-   [[file:../../docs/uap-pdfs/inseason3.pdf][Workout log (pdf)]]
+  [[file:../../docs/uap-pdfs/inseason3.pdf][Workout log (pdf)]]
 
-   -   In this phase we are assuming that you are doing more ultimate
-     specific training. Athletic training time decreases while ultimate
-     specific work such as team practice and throwing practice increase.
-   -   SAQ workouts can be done before league games, pickup games, throwing
-     practice, conditioning sessions or lifting sessions.
-   -   Conditioning sessions can be done after league games, pickup games,
-     throwing practice, lifting, or SAQ sessions.
-   -   Core workouts can be done after SAQ, throwing practice, team
-     practice, pickup games, conditioning sessions or lifting sessions.
+  -   In this phase we are assuming that you are doing more ultimate
+    specific training. Athletic training time decreases while ultimate
+    specific work such as team practice and throwing practice increase.
+  -   SAQ workouts can be done before league games, pickup games, throwing
+    practice, conditioning sessions or lifting sessions.
+  -   Conditioning sessions can be done after league games, pickup games,
+    throwing practice, lifting, or SAQ sessions.
+  -   Core workouts can be done after SAQ, throwing practice, team
+    practice, pickup games, conditioning sessions or lifting sessions.
 
-   If you want to do more work, invest more time in tissue quality work
-   (foam rolling and stretching), mobility drills, and the warm up drills.
-   It's important to keep your body feeling good and moving well as far
-   into the season as possible.
+    If you want to do more work, invest more time in tissue quality work
+    (foam rolling and stretching), mobility drills, and the warm up drills.
+    It's important to keep your body feeling good and moving well as far
+    into the season as possible.
 
-   Prioritize throwing over other things. You can do one extra day of light
-   conditioning, but avoid the temptation to overdo it. It is easy to
-   underestimate the toll that extra leage/pickup games take on your body.
-   Do not wear yourself out.
+    Prioritize throwing over other things. You can do one extra day of light
+    conditioning, but avoid the temptation to overdo it. It is easy to
+    underestimate the toll that extra leage/pickup games take on your body.
+    Do not wear yourself out.
 
-   Conditioning day 2 of this phase requires a disc and a partner
+    Conditioning day 2 of this phase requires a disc and a partner
 
-   This schedule assumes weekend practices or tournaments.
+    This schedule assumes weekend practices or tournaments.
 
-   [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/In-Season_3.png]]
+    [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/In-Season_3.png]]

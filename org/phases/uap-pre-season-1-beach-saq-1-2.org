@@ -3,38 +3,34 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-pre-season-1.html
 
-
 *  SAQ 1
 
 * A. Zigzag Sprints
 
-     {{{youtube(YdgYleKenGM)}}}
+  {{{youtube(YdgYleKenGM)}}}
 
-
-     -   Set up 2 rows of cones about 5-7 yards apart. In each row, three
-       cones are placed about 8 yards apart. The two rows are off set by 4
-       yards to create a zig-zag pattern.
+  -   Set up 2 rows of cones about 5-7 yards apart. In each row, three
+    cones are placed about 8 yards apart. The two rows are off set by 4
+    yards to create a zig-zag pattern.
 
 * B. Figure Eight Sprints
 
-     {{{youtube(zwHfN0hlEVc)}}}
+  {{{youtube(zwHfN0hlEVc)}}}
 
-
-     -   Attempt to cut on the inside foot rather than the outside foot (like
-       in the jab step).
-     -   To use the inside foot, you'll likely slow down a bit before the
-       cone and "switch your hips"
+  -   Attempt to cut on the inside foot rather than the outside foot (like
+    in the jab step).
+  -   To use the inside foot, you'll likely slow down a bit before the
+    cone and "switch your hips"
 
 *  SAQ 2
 
 * Three Point Start to 45m Sprint
 
-     {{{youtube(j76bJSWSKzg)}}}
+  {{{youtube(j76bJSWSKzg)}}}
 
-
-     -   Hips up. Feet should be closer to hands than you might think.
-     -   Lean over the hand on the ground. You should feel that you are close
-       to falling over.
-     -   You should feel some tension in the hamstrings like you are a spring
-       ready to bounce.
-     -   Accelerate as explosively as possible out of the starting position.
+  -   Hips up. Feet should be closer to hands than you might think.
+  -   Lean over the hand on the ground. You should feel that you are close
+    to falling over.
+  -   You should feel some tension in the hamstrings like you are a spring
+    ready to bounce.
+  -   Accelerate as explosively as possible out of the starting position.

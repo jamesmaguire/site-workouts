@@ -1,7 +1,6 @@
 #+TITLE: UAP Off-season 4
 #+SETUPFILE: ../phase.setup
 
-
 - [[file:uap-off-season-4-lower-1.org][Lower 1]]
 - [[file:uap-off-season-4-lower-2.org][Lower 2]]
 - [[file:uap-off-season-4-upper-1.org][Upper 1]]
@@ -12,21 +11,21 @@
 - [[file:uap-off-season-4-conditioning-1-2.org][Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-   [[file:../../docs/uap-pdfs/offseason4.pdf][Workout log (pdf)]]
+  [[file:../../docs/uap-pdfs/offseason4.pdf][Workout log (pdf)]]
 
-   The explosive lifts on leg days and SAQ Workouts are the most important parts of this phase. Schedule around them, prioritise them each week and make sure you are recovered in time to perform these workouts.
+  The explosive lifts on leg days and SAQ Workouts are the most important parts of this phase. Schedule around them, prioritise them each week and make sure you are recovered in time to perform these workouts.
 
-   - Keep 2 days between the legs and SAQ Day1 workouts.
-   - Conditioning workouts can always be done after the leg strength training day because it does not matter that your legs are already tired.
-   - SAQ workouts are NOT conditioning. Do NOT do more than what is listed. You should feel fully recovered between reps and sets. If not, add more rest. No big deal.
-   - If doing two types of sessions on the same day, SAQ should be done before lifting or conditioning. Lifting should be done before conditioning.
-   - Learn to pay attention to how your body is feeling each day. If you start feeling run down by the end of each week, you may not be getting enough recovery. It is okay NOT to do all of the workouts provided. Sometimes less is more.
+  - Keep 2 days between the legs and SAQ Day1 workouts.
+  - Conditioning workouts can always be done after the leg strength training day because it does not matter that your legs are already tired.
+  - SAQ workouts are NOT conditioning. Do NOT do more than what is listed. You should feel fully recovered between reps and sets. If not, add more rest. No big deal.
+  - If doing two types of sessions on the same day, SAQ should be done before lifting or conditioning. Lifting should be done before conditioning.
+  - Learn to pay attention to how your body is feeling each day. If you start feeling run down by the end of each week, you may not be getting enough recovery. It is okay NOT to do all of the workouts provided. Sometimes less is more.
 
-   Conditioning *can* be done 6 days per week *but only if* you keep the volume low enough to recover between sessions. *Do not let your conditioning interfere with your lifting and SAQ work this phase.* If you want to build up your conditioning, do easy (low volume) Conditioning Day 2 workouts. Even if the warmup and workout only takes 20 minutes, it will have a very positive cumulative effect.
+    Conditioning *can* be done 6 days per week *but only if* you keep the volume low enough to recover between sessions. *Do not let your conditioning interfere with your lifting and SAQ work this phase.* If you want to build up your conditioning, do easy (low volume) Conditioning Day 2 workouts. Even if the warmup and workout only takes 20 minutes, it will have a very positive cumulative effect.
 
-   Because we are doing some more explosive work in the weight room this phase, do not do the SAQ workouts more than once per week.
+    Because we are doing some more explosive work in the weight room this phase, do not do the SAQ workouts more than once per week.
 
-   If you want to do more work, you can also invest more time in your core. Core circuits can be done 3-6 days per week. Don't start off right away with 6 days/week-work up to it. Alternate between circuit 1 and circuit
-   2.
+    If you want to do more work, you can also invest more time in your core. Core circuits can be done 3-6 days per week. Don't start off right away with 6 days/week-work up to it. Alternate between circuit 1 and circuit
+    2.
 
-   [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/Off-Season_4.png]]
+    [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/Off-Season_4.png]]

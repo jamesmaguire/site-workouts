@@ -3,82 +3,74 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-in-season-1.html
 
-
 *  A1. Front Squat
 
-    {{{youtube(JFEqNGbpKaw)}}}
+  {{{youtube(JFEqNGbpKaw)}}}
 
-
-    -   The bar is resting on your clavicles (collarbone) and held there
-      with your hands in an open grip (fingers not wrapped around the
-      bar).
-    -   As in all squatting, maintain a neutral spine, get your butt back,
-      weight shifted toward the heels, and chest tall.
+  -   The bar is resting on your clavicles (collarbone) and held there
+    with your hands in an open grip (fingers not wrapped around the
+    bar).
+  -   As in all squatting, maintain a neutral spine, get your butt back,
+    weight shifted toward the heels, and chest tall.
 
 *  A2. Tuck Jumps
 
-    {{{youtube(uCgaMLjr20I)}}}
+  {{{youtube(uCgaMLjr20I)}}}
 
-
-    -   Minimize ground contact time.
-    -   Land quietly on the mid-forefoot and explode up again as quickly as
-      possible.
-    -   Pull your knees up as high as possible.
-    -   Keep the spine neutral and chest tall! Knees come up to meet the
-      chest, not the other way around.
+  -   Minimize ground contact time.
+  -   Land quietly on the mid-forefoot and explode up again as quickly as
+    possible.
+  -   Pull your knees up as high as possible.
+  -   Keep the spine neutral and chest tall! Knees come up to meet the
+    chest, not the other way around.
 
 *  B1. Barbell Romanian Deadlift (RDL)
 
-    {{{youtube(XxM-QNjznF0)}}}
+  {{{youtube(XxM-QNjznF0)}}}
 
-
-    -   Get your hips back. Knees bent at about 10-15 degrees.
-    -   Maintain a neutral spine!
-    -   Keep the weight close to your legs (not doing so will cause you to
-      use your back)
-    -   Lower the weight until you feel the slight stretch in the back of
-      your hamstrings.
-    -   Use your glutes and hamstrings to push your hips forward and cause
-      you to stand up.
+  -   Get your hips back. Knees bent at about 10-15 degrees.
+  -   Maintain a neutral spine!
+  -   Keep the weight close to your legs (not doing so will cause you to
+    use your back)
+  -   Lower the weight until you feel the slight stretch in the back of
+    your hamstrings.
+  -   Use your glutes and hamstrings to push your hips forward and cause
+    you to stand up.
 
 *  B2. Walking Lunges
 
-    {{{youtube(NTiYltLIVB0)}}}
+  {{{youtube(NTiYltLIVB0)}}}
 
-
-    -   Aim for 90 degree angle of the lunging knee but do not let your back
-      knee touch the ground.
-    -   Step directly into the next lunge without pausing at the top of the
-      movement.
-    -   Keep your shoulders locked back and chest up.
-    -   (Reps are per leg, not total)
+  -   Aim for 90 degree angle of the lunging knee but do not let your back
+    knee touch the ground.
+  -   Step directly into the next lunge without pausing at the top of the
+    movement.
+  -   Keep your shoulders locked back and chest up.
+  -   (Reps are per leg, not total)
 
 *  C1. Stability Ball Hip Extension / Lying Curl
 
-    {{{youtube(h1Us6x0fuPI)}}}
+  {{{youtube(h1Us6x0fuPI)}}}
 
-
-    -   First raise your hips to parallel by squeezing your glutes.
-    -   Maintain the tension in your glutes to keep your hip us as you bring
-      the ball toward you
-    -   Knees, hips, and shoulders should all be in a line at the top of the
-      movement.
-    -   Allow the ball to move away from you in a controlled fashion.
-    -   Lower your hips again to complete the movement.
+  -   First raise your hips to parallel by squeezing your glutes.
+  -   Maintain the tension in your glutes to keep your hip us as you bring
+    the ball toward you
+  -   Knees, hips, and shoulders should all be in a line at the top of the
+    movement.
+  -   Allow the ball to move away from you in a controlled fashion.
+  -   Lower your hips again to complete the movement.
 
 *  Alternate two legged version
 
-    {{{youtube(MEqwmz-nfVo)}}}
+  {{{youtube(MEqwmz-nfVo)}}}
 
-
-    -   If single leg is too difficult (it's definitely not easy!) it's
-      better to have good form on the two legged version.
+  -   If single leg is too difficult (it's definitely not easy!) it's
+    better to have good form on the two legged version.
 
 *  C2. Romanian Rhythm Squats
 
-    {{{youtube(MmWbus0fmdo)}}}
+  {{{youtube(MmWbus0fmdo)}}}
 
-
-    -   Fast quarter squats. Alternate 10 reps with the whole foot on the
-      ground with ten reps going up on your toes until you get to 50 reps.
-    -   Concentrate on using your hips. Maintain good posture as usual.
+  -   Fast quarter squats. Alternate 10 reps with the whole foot on the
+    ground with ten reps going up on your toes until you get to 50 reps.
+  -   Concentrate on using your hips. Maintain good posture as usual.

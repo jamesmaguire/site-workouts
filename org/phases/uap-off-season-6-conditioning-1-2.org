@@ -3,32 +3,29 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-off-season-6.html
 
-
 *  Conditioning 1
 
 * 150 Shuttle (6x 25m)
 
-     -   Sprint between 2 cones 50 yards apart
+  -   Sprint between 2 cones 50 yards apart
 
 * Low Squat Jumps
 
-     {{{youtube(BamolXOPM8s)}}}
+  {{{youtube(BamolXOPM8s)}}}
 
-
-     -   Stay low! knees close to 90 degrees
-     -   Minimal ground contact time
-     -   Think about bringing knees up
+  -   Stay low! knees close to 90 degrees
+  -   Minimal ground contact time
+  -   Think about bringing knees up
 
 *  Conditioning 2
 
 * Shuttle Complex
 
-     {{{youtube(rc5xOevyKWQ)}}}
+  {{{youtube(rc5xOevyKWQ)}}}
 
-
-     -   Sprints, clap pushups, and frog jumps
+  -   Sprints, clap pushups, and frog jumps
 
 * Extended Pro Lateral Drill
 
-     -   Sprints of various lengths with changes of direction
-     -   See pdf file for exact distances each week
+  -   Sprints of various lengths with changes of direction
+  -   See pdf file for exact distances each week

@@ -3,45 +3,40 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-off-season-5.html
 
+These workouts are to be preceded by the [[https://ultyresults.mykajabi.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
 
-   These workouts are to be preceded by the [[https://ultyresults.mykajabi.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
-
-   For this phase, please note that there is only one day of SAQ.
+For this phase, please note that there is only one day of SAQ.
 
 *  A. Single Leg Lateral Line Hops
 
-    {{{youtube(DA-h-gnDcNM)}}}
+  {{{youtube(DA-h-gnDcNM)}}}
 
-
-    -   Focus on staying light and quick on your feet.
-    -   Grount contact should be on the balls of your feet.
+  -   Focus on staying light and quick on your feet.
+  -   Grount contact should be on the balls of your feet.
 
 *  B. Low Run to Sprint
 
-    {{{youtube(KtrjXwQuqnU)}}}
+  {{{youtube(KtrjXwQuqnU)}}}
 
-
-    -   Stay in the althetic position.
-    -   Move quickly and lightly on the balls of your feet.
-    -   Center of mass should remain at constant height (don't bob up and
-      down)
+  -   Stay in the althetic position.
+  -   Move quickly and lightly on the balls of your feet.
+  -   Center of mass should remain at constant height (don't bob up and
+    down)
 
 *  C. Jab Step Agility to Cut
 
-    {{{youtube(_6k3XvTzuak)}}}
+  {{{youtube(_6k3XvTzuak)}}}
 
-
-    -   Focus on good quality of movement.
-    -   Move more quickly and more powerfully as you become more
-      comforatable with the movement pattern.
-    -   Work on a strong push off the outside foot.
+  -   Focus on good quality of movement.
+  -   Move more quickly and more powerfully as you become more
+    comforatable with the movement pattern.
+  -   Work on a strong push off the outside foot.
 
 *  D. Waltz Agility to Cut
 
-    {{{youtube(GD_f0hbzGcs)}}}
+  {{{youtube(GD_f0hbzGcs)}}}
 
-
-    -   Focus on good quality of movement.
-    -   Move more quickly and more powerfully as you become more
-      comforatable with the movement pattern.
-    -   Work on movement of the hips and a strong push off the inside foot.
+  -   Focus on good quality of movement.
+  -   Move more quickly and more powerfully as you become more
+    comforatable with the movement pattern.
+  -   Work on movement of the hips and a strong push off the inside foot.

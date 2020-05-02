@@ -3,30 +3,29 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-off-season-5.html
 
-
 *  A1. Paused Incline DB Press
 
-    -   during the pause at the bottom your pectorals should feel tension
+  -   during the pause at the bottom your pectorals should feel tension
 
 *  A2. Speed Pushups
 
-    -   do as many pushups as possible. be explosive! don't pace yourself,
-      go fast.
+  -   do as many pushups as possible. be explosive! don't pace yourself,
+    go fast.
 
 *  B1. Low Incline to Flat Omni Semi-sup DB Press
 
-    -   8-10 reps of low incline db press followed immediately by 8-10 reps
-      of flat db press
+  -   8-10 reps of low incline db press followed immediately by 8-10 reps
+    of flat db press
 
 *  B2. Omni-seated Low Cable Row
 
-    -   this is a 3-part exercise where you'll do Reps x Row-type-1 + Reps
-      x Row-type-2 + Reps x Row-type 3, then rest.
-    -   row type 1: palms facing down, pull the bar to your chest, elbows
-      will finish wide from your body
-    -   row type 2: palms facing up, elbows in, will brush your sides
-    -   row type 3: palms facing inward, elbows in again
-    -   for all: retract (squeeze together) shoulder blades at the end of
-      this motion!
+  -   this is a 3-part exercise where you'll do Reps x Row-type-1 + Reps
+    x Row-type-2 + Reps x Row-type 3, then rest.
+  -   row type 1: palms facing down, pull the bar to your chest, elbows
+    will finish wide from your body
+  -   row type 2: palms facing up, elbows in, will brush your sides
+  -   row type 3: palms facing inward, elbows in again
+  -   for all: retract (squeeze together) shoulder blades at the end of
+    this motion!
 
 *  This session should be followed with [[https://www.ultyresults.com/products/ultimate-athlete-project/categories/89286/posts/242809][Core Circuit 1]]

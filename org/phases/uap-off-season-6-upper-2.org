@@ -3,64 +3,56 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-off-season-6.html
 
-
 *  A1. Paused High Incline Semi Sup DB Press
 
-    {{{youtube(wzk2oykwTvA)}}}
+  {{{youtube(wzk2oykwTvA)}}}
 
-
-    -   Pause at the bottom keeping tension in the chest, don't rest!
-    -   Keep shoulders retracted
+  -   Pause at the bottom keeping tension in the chest, don't rest!
+  -   Keep shoulders retracted
 
 *  A2. 1 & 1/4 Inverse Row
 
-    {{{youtube(ZiUmS7jbNkg)}}}
+  {{{youtube(ZiUmS7jbNkg)}}}
 
-
-    -   Quarter rep at the top
-    -   Get your chest to the bar for full shoulder retraction
-    -   Feet can be elevated on a box or bench
-    -   To make it easier, have feet on the floor with legs straight
-    -   To make it even easier, bend the legs with feet on the floor
+  -   Quarter rep at the top
+  -   Get your chest to the bar for full shoulder retraction
+  -   Feet can be elevated on a box or bench
+  -   To make it easier, have feet on the floor with legs straight
+  -   To make it even easier, bend the legs with feet on the floor
 
 *  B1. Single Arm DB Bench Press
 
-    {{{youtube(bUxfgjTklao)}}}
+  {{{youtube(bUxfgjTklao)}}}
 
-
-    -   Do all reps on one side. Then the other.
-    -   Do not hold any weight in the non working limb. Engage teh core to
-      resist rotation.
-    -   Maintain tension in the pecs at the bottom or the movement.
+  -   Do all reps on one side. Then the other.
+  -   Do not hold any weight in the non working limb. Engage teh core to
+    resist rotation.
+  -   Maintain tension in the pecs at the bottom or the movement.
 
 *  B2. Single Arm Standing Cable Row
 
-    {{{youtube(mRk69bN2v7Q)}}}
+  {{{youtube(mRk69bN2v7Q)}}}
 
-
-    -   Stand in a quarter squat position.
-    -   Do all reps on one side, then the other.
-    -   Engage the core to resist rotation.
+  -   Stand in a quarter squat position.
+  -   Do all reps on one side, then the other.
+  -   Engage the core to resist rotation.
 
 *  C1. Dips
 
-    {{{youtube(iKRV6yZzQuA)}}}
+  {{{youtube(iKRV6yZzQuA)}}}
 
-
-    -   Controlled lowering until you feel some tension in the pectorals
-    -   Keep elbows parallel, not caving in or flaring out
-    -   If you cannot do dips and have no way off assisting yourself, do
-      them with a bench as shown below
+  -   Controlled lowering until you feel some tension in the pectorals
+  -   Keep elbows parallel, not caving in or flaring out
+  -   If you cannot do dips and have no way off assisting yourself, do
+    them with a bench as shown below
 
     {{{youtube(XwXGdC0K050)}}}
 
-
 *  C2. Low Incline Paused Y to T
 
-    {{{youtube(2Z-Ib02O8J0)}}}
+  {{{youtube(2Z-Ib02O8J0)}}}
 
-
-    -   Initiate the movement at the shoulders. Thumbs face up to the Y
-      position.
-    -   Retract the shoulders fully and rotate to thumbs down as you bring
-      the weight back to the T position.
+  -   Initiate the movement at the shoulders. Thumbs face up to the Y
+    position.
+  -   Retract the shoulders fully and rotate to thumbs down as you bring
+    the weight back to the T position.

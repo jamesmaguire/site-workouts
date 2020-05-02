@@ -3,20 +3,17 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-pre-season-2.html
 
-
-   These workouts are to be preceded by the [[https://www.ultyresults.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
+These workouts are to be preceded by the [[https://www.ultyresults.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
 
 * SAQ 1:
 
 *  A. Jab Step Agility to Cut
 
-     {{{youtube(_6k3XvTzuak)}}}
-
+  {{{youtube(_6k3XvTzuak)}}}
 
 *  B. Waltz Agility to Cut
 
-     {{{youtube(GD_f0hbzGcs)}}}
-
+  {{{youtube(GD_f0hbzGcs)}}}
 
 * SAQ 2:
 

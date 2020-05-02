@@ -3,34 +3,30 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-in-season-3.html
 
-
 * A1. Leg Lowering
 
-    {{{youtube(U6Z2BbzQo1k)}}}
+  {{{youtube(U6Z2BbzQo1k)}}}
 
-
-    -   Engage the lower core to keep hips stable.
-    -   Check for hip motion in the lowering leg by placing your hand above
-      the hip bone.
-    -   Lower only as far as there is no movement of the hip.
-    -   If you cannot do this exercise as shown, start with the non working
-      leg propped against something (a doorframe works well) to keep it
-      upright.
+  -   Engage the lower core to keep hips stable.
+  -   Check for hip motion in the lowering leg by placing your hand above
+    the hip bone.
+  -   Lower only as far as there is no movement of the hip.
+  -   If you cannot do this exercise as shown, start with the non working
+    leg propped against something (a doorframe works well) to keep it
+    upright.
 
 * A2. Paused Rotation Plank
 
-    {{{youtube(ULxjyAzHpbs)}}}
+  {{{youtube(ULxjyAzHpbs)}}}
 
-
-    -   From the plank position rotate to a side plank, then back to center,
-      then to the other side.
-    -   Hold 2 counts at each position for one rep.
+  -   From the plank position rotate to a side plank, then back to center,
+    then to the other side.
+  -   Hold 2 counts at each position for one rep.
 
 * A3. Diagonal Plate Raise
 
-    {{{youtube(f0JinAZhiug)}}}
+  {{{youtube(f0JinAZhiug)}}}
 
-
-    -   Start in a squat position with the plate held to one side.
-    -   Lift the plate diagonally and up over the opposite shoulder.
-    -   Your eyes should follow the plate during the movement.
+  -   Start in a squat position with the plate held to one side.
+  -   Lift the plate diagonally and up over the opposite shoulder.
+  -   Your eyes should follow the plate during the movement.

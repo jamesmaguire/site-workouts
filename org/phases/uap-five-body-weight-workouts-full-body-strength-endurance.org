@@ -3,35 +3,33 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-five-body-weight-workouts.html
 
-
-   | Sets | Sequence          |
-   |------+-------------------|
-   |    2 | 6-20xA1 - 6-20xA2 |
-   |    2 | 6-20xB1 - 6-20xB2 |
-   |    2 | 6-20xC1 - 6-20xC2 |
+| Sets | Sequence          |
+|------+-------------------|
+|    2 | 6-20xA1 - 6-20xA2 |
+|    2 | 6-20xB1 - 6-20xB2 |
+|    2 | 6-20xC1 - 6-20xC2 |
 
 * A1. Pike Push-up
-    https://fast.wistia.net/embed/iframe/telkbzhtkq
-    https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/6GcJ9c8MTQWMxjMYBbmq_Rocking_Pushups.png
+  https://fast.wistia.net/embed/iframe/telkbzhtkq
+  https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/6GcJ9c8MTQWMxjMYBbmq_Rocking_Pushups.png
 * A2. Bodyweight Squat
-    https://fast.wistia.net/embed/iframe/2roptxntu9
-    https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/Bf4hqZJRJCF4hzP2URg5_Bodyweight_Squat.png
+  https://fast.wistia.net/embed/iframe/2roptxntu9
+  https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/Bf4hqZJRJCF4hzP2URg5_Bodyweight_Squat.png
 * B1. Speed Push-up
-    https://fast.wistia.net/embed/iframe/8nvrz89jrn
-    https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/bsqiTnrWS0asjB471LST_Speed_Push-up.png
+  https://fast.wistia.net/embed/iframe/8nvrz89jrn
+  https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/bsqiTnrWS0asjB471LST_Speed_Push-up.png
 * B2. Diagonal Lunge
-    https://fast.wistia.net/embed/iframe/w01ht14jk3
-    https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/RzXuVHx0Tnq2ErhxLNCs_Diagonal_Lunge.png
+  https://fast.wistia.net/embed/iframe/w01ht14jk3
+  https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/RzXuVHx0Tnq2ErhxLNCs_Diagonal_Lunge.png
 * C1. Diagonal Plate Raise
-    https://fast.wistia.net/embed/iframe/rbpvtlmv0u
-    https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/tk1Yrk2HROeEpiMfZanH_Diagonal_Plate_Raise.png
+  https://fast.wistia.net/embed/iframe/rbpvtlmv0u
+  https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/tk1Yrk2HROeEpiMfZanH_Diagonal_Plate_Raise.png
 * C2. Skater Squat
-    https://fast.wistia.net/embed/iframe/lzfucud6fw
-    https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/WYhg6syhQJ62j9gYZtVr_Skater_Squat.png
+  https://fast.wistia.net/embed/iframe/lzfucud6fw
+  https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/WYhg6syhQJ62j9gYZtVr_Skater_Squat.png
 * D1. Up-Down Plank
-    https://fast.wistia.net/embed/iframe/goivucj1y6
-    https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/v6HkADKuQJeZB4yizw6S_Up-Down_Plank.png
+  https://fast.wistia.net/embed/iframe/goivucj1y6
+  https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/v6HkADKuQJeZB4yizw6S_Up-Down_Plank.png
 * D2. Scissor Jump for Height
-    https://fast.wistia.net/embed/iframe/mrcvapx3bb
-    https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/JuOkSXNdQGWmn9PVVwBQ_Scissor_Jump_for_Height.png
-
+  https://fast.wistia.net/embed/iframe/mrcvapx3bb
+  https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/themes/1759674/settings_images/JuOkSXNdQGWmn9PVVwBQ_Scissor_Jump_for_Height.png

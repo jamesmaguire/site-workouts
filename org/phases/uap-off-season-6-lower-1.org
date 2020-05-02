@@ -3,55 +3,49 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-off-season-6.html
 
-
 *  A1. Power Snatch from Floor
 
-    {{{youtube(IZo2ZR1YDN8)}}}
+  {{{youtube(IZo2ZR1YDN8)}}}
 
-
-    -   If you are unsure of your form, or experience any shoulder pain, do
-      not do this exercise. You can try single arm dumbell snatches as an
-      alternative or just skip this exercise completely.
-    -   Start with elbows straight. Do not jerk the weight up with arms
-      bent!
-    -   Get your hips back and chest over the bar.
-    -   First part of the lift until about the knee is slow, then fast and
-      explosive to get the weight overhead.
+  -   If you are unsure of your form, or experience any shoulder pain, do
+    not do this exercise. You can try single arm dumbell snatches as an
+    alternative or just skip this exercise completely.
+  -   Start with elbows straight. Do not jerk the weight up with arms
+    bent!
+  -   Get your hips back and chest over the bar.
+  -   First part of the lift until about the knee is slow, then fast and
+    explosive to get the weight overhead.
 
 *  B1. Paused Heel Elevated Back Squat
 
-    {{{youtube(53dwivfQVrE)}}}
+  {{{youtube(53dwivfQVrE)}}}
 
-
-    -   Place 5 lb weight plates under the heels
-    -   Isometric hold for three counts at the bottom of your squat
-    -   Explode out of the bottom of your squat after the iso hold
-    -   Keep the bar in contact at all times (it should not get airborne).
-      You also should not get airborne.
+  -   Place 5 lb weight plates under the heels
+  -   Isometric hold for three counts at the bottom of your squat
+  -   Explode out of the bottom of your squat after the iso hold
+  -   Keep the bar in contact at all times (it should not get airborne).
+    You also should not get airborne.
 
 *  B2. Triple Jump
 
-    {{{youtube(ZbIpfvOsUuM)}}}
+  {{{youtube(ZbIpfvOsUuM)}}}
 
-
-    -   Minimal ground contact time between jumps
-    -   Stick the landing on the last jump
+  -   Minimal ground contact time between jumps
+  -   Stick the landing on the last jump
 
 *  C1. Lateral DB Lunge
 
-    {{{youtube(CgwuHvxPOcc)}}}
+  {{{youtube(CgwuHvxPOcc)}}}
 
-
-    -   Speed is more important than weight used. Start with bodyweight if
-      necessary.
+  -   Speed is more important than weight used. Start with bodyweight if
+    necessary.
 
 *  C2. Standing Hip Flexion
 
-    {{{youtube(VcJsZ--kcSY)}}}
+  {{{youtube(VcJsZ--kcSY)}}}
 
-
-    -   Place on foot on a box or bench that causes your knee to be close to
-      90 degrees.
-    -   Keep your hips level for the duration of this exercise!
-    -   Pull your leg straight up (it won't go very far) and hold for three
-      seconds before lowering it back to the bench.
+  -   Place on foot on a box or bench that causes your knee to be close to
+    90 degrees.
+  -   Keep your hips level for the duration of this exercise!
+  -   Pull your leg straight up (it won't go very far) and hold for three
+    seconds before lowering it back to the bench.

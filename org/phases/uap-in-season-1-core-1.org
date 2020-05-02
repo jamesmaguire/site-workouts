@@ -3,36 +3,32 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-in-season-1.html
 
+These core circuits will take 10-12 minutes. The core circuits can be
+done 2-3 times a week alternating between this and [[https://ultyresults.mykajabi.com/products/uap/categories/59531/posts/340875][core circuit 2]].
+Alternatively, they can be done before or after playing or conditioning,
+or after an SAQ session.
 
-   These core circuits will take 10-12 minutes. The core circuits can be
-   done 2-3 times a week alternating between this and [[https://ultyresults.mykajabi.com/products/uap/categories/59531/posts/340875][core circuit 2]].
-   Alternatively, they can be done before or after playing or conditioning,
-   or after an SAQ session.
-
-   Perform the circuit 3 times through with norest or minimal rest between
-   exercises and sets.
+Perform the circuit 3 times through with norest or minimal rest between
+exercises and sets.
 
 *  Plank (25 seconds. Add 5 seconds each week)
 
-    {{{youtube(mqOPjpN-1go)}}}
+  {{{youtube(mqOPjpN-1go)}}}
 
-
-    -   Shoulders hips and ankles should form a straight line.
-    -   Shoulders should be more retracted than rounded.
+  -   Shoulders hips and ankles should form a straight line.
+  -   Shoulders should be more retracted than rounded.
 
 *  Oblique Bridge (10-12 each side. Add 2 reps each week)
 
-    {{{youtube(n4SvbcbG5tg)}}}
+  {{{youtube(n4SvbcbG5tg)}}}
 
-
-    -   Contract your obliques to raise your hip from the floor to a side
-      plank position.
+  -   Contract your obliques to raise your hip from the floor to a side
+    plank position.
 
 *  Rowboat (15 reps. Add 5 reps each week)
 
-    {{{youtube(lS5pAo2bqFk)}}}
+  {{{youtube(lS5pAo2bqFk)}}}
 
-
-    -   Keep your chest up and shoulders retracted. This is not a crunch.
-    -   Move slowly with balance and control. The core should be under
-      tension for the duration of the movement.
+  -   Keep your chest up and shoulders retracted. This is not a crunch.
+  -   Move slowly with balance and control. The core should be under
+    tension for the duration of the movement.

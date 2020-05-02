@@ -3,32 +3,28 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-pre-season-1.html
 
-
 *  A1. Kneeling Overhead Pallof Press
 
-    {{{youtube(tGgkOlsd7Pc)}}}
+  {{{youtube(tGgkOlsd7Pc)}}}
 
-
-    -   Knee closest to the cable column is bent
-    -   Attempt to hold the cable handle straight above your head without
-      leaning in either direction.
+  -   Knee closest to the cable column is bent
+  -   Attempt to hold the cable handle straight above your head without
+    leaning in either direction.
 
 *  A2. 1 & 1/4 Wood Chop
 
-    {{{youtube(COCqjeny0Ds)}}}
+  {{{youtube(COCqjeny0Ds)}}}
 
-
-    -   (start light 8-10 each side. Add one rep each week.)
-    -   explosive chop. quarter rep at the end
-    -   slowly lower the weight back to starting position.
-    -   look at your hands as you move
+  -   (start light 8-10 each side. Add one rep each week.)
+  -   explosive chop. quarter rep at the end
+  -   slowly lower the weight back to starting position.
+  -   look at your hands as you move
 
 * A3. Plank Walk
 
-     {{{youtube(_QmurtmSi7s)}}}
+  {{{youtube(_QmurtmSi7s)}}}
 
-
-     -   Keep shoulders, hips, and ankles in a line
-     -   Walk five paces sideways and back twice for each repetition.
-     -   One direction, lead with the hands (hand, foot, hand, foot). the
-       other direction lead with the feet.
+  -   Keep shoulders, hips, and ankles in a line
+  -   Walk five paces sideways and back twice for each repetition.
+  -   One direction, lead with the hands (hand, foot, hand, foot). the
+    other direction lead with the feet.

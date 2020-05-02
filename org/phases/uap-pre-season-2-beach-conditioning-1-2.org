@@ -3,48 +3,43 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-pre-season-2.html
 
+Conditioning 1 should be preceded by the [[https://www.ultyresults.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
 
-   Conditioning 1 should be preceded by the [[https://www.ultyresults.com/products/uap/categories/89306/posts/231481][Nonlinear Warmup]].
-
-   Conditioning 2 should be preceded by the [[https://www.ultyresults.com/products/uap/categories/89306/posts/231475][Linear Warmup]].
+Conditioning 2 should be preceded by the [[https://www.ultyresults.com/products/uap/categories/89306/posts/231475][Linear Warmup]].
 
 *  Conditioning 1
 
 * A. 5-10-5, 5 Frog Jump
 
-     {{{youtube(57fJcrpPif8)}}}
-
+  {{{youtube(57fJcrpPif8)}}}
 
 * B. Zig-Zag Sprint
 
-     {{{youtube(YdgYleKenGM)}}}
+  {{{youtube(YdgYleKenGM)}}}
 
-
-     -   Set up 2 rows of cones about 5-7 yards apart. In each row*,* three
-       cones are placed about 8 yards apart. The two rows are off set by 4
-       yards to create a zig-zag pattern.
+  -   Set up 2 rows of cones about 5-7 yards apart. In each row*,* three
+    cones are placed about 8 yards apart. The two rows are off set by 4
+    yards to create a zig-zag pattern.
 
 * C. Figure Eight Sprint
 
-     {{{youtube(zwHfN0hlEVc)}}}
+  {{{youtube(zwHfN0hlEVc)}}}
 
-
-     -   Attempt to cut on the inside foot rather than the outside foot (like
-       in the jab step).
-     -   To use the inside foot, you'll likely slow down a bit before the
-       cone and "switch your hips"
+  -   Attempt to cut on the inside foot rather than the outside foot (like
+    in the jab step).
+  -   To use the inside foot, you'll likely slow down a bit before the
+    cone and "switch your hips"
 
 *  Conditioning 2
 
 * 150 Shuttle (6x 25m)
 
-     {{{youtube(cpAnh4vAmrA)}}}
+  {{{youtube(cpAnh4vAmrA)}}}
 
-
-     -   Setup 2 cones 25m apart
-     -   One rep is 6 sprints of 25m length, no rest between sprints
-     -   You will always do 8 reps total across the two sets, for a total of
-       1200m of running.
-     -   Sets change each week, but will typically look like "5,3", ie 5
-       reps in set 1, 3 reps in set 2.  So in set 1 you would do 5 reps = 5
-       x ( 6x25m, followed by 60sec rest)
+  -   Setup 2 cones 25m apart
+  -   One rep is 6 sprints of 25m length, no rest between sprints
+  -   You will always do 8 reps total across the two sets, for a total of
+    1200m of running.
+  -   Sets change each week, but will typically look like "5,3", ie 5
+    reps in set 1, 3 reps in set 2.  So in set 1 you would do 5 reps = 5
+    x ( 6x25m, followed by 60sec rest)

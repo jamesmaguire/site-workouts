@@ -3,57 +3,51 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-pre-season-2.html
 
-
-   For the power circuit, exercises should be done as quickly as possible
-   while maintaining good form. Keep your mental focus during this workout
-   and get at it!
+For the power circuit, exercises should be done as quickly as possible
+while maintaining good form. Keep your mental focus during this workout
+and get at it!
 *
 
 *  A1. Single Arm DB High Pull
 
-    {{{youtube(qagm6U0CDLA)}}}
+  {{{youtube(qagm6U0CDLA)}}}
 
-
-    -   It's all in the hips.
-    -   DB should follow a straight line trajectory upwards
-    -   Switch arms at the 15 second mark
+  -   It's all in the hips.
+  -   DB should follow a straight line trajectory upwards
+  -   Switch arms at the 15 second mark
 
 *  A2. DB High Pull to Press
 
-    {{{youtube(I-jYhdJqAPk)}}}
+  {{{youtube(I-jYhdJqAPk)}}}
 
-
-    -   Catch the weight at the shoulder in a semisupinated position
-    -   Push the weight up as you stand up from a quarter squat position
+  -   Catch the weight at the shoulder in a semisupinated position
+  -   Push the weight up as you stand up from a quarter squat position
 
 *  A3. Squat to Press
 
-    {{{youtube(1O8jb9KLtf4)}}}
+  {{{youtube(1O8jb9KLtf4)}}}
 
-
-    -   Find a rhythm and move quickly
-    -   Aim for parallel in the squats
-    -   The press should move continuously with momentum coming from the
-      squat
+  -   Find a rhythm and move quickly
+  -   Aim for parallel in the squats
+  -   The press should move continuously with momentum coming from the
+    squat
 
 * Alternate between following this circuit up with either:
 
 *  Day 1. Backward Lunges
 
-    {{{youtube(BYbEvMbOfMI)}}}
+  {{{youtube(BYbEvMbOfMI)}}}
 
-
-    -   Step back with one leg. Do not let your knee touch the ground
-    -   Explosively step forward again using primarily the front leg
-    -   Keep the back foot off the ground when you stand up again if
-      possible
-    -   Do all reps on one leg first and then the other
+  -   Step back with one leg. Do not let your knee touch the ground
+  -   Explosively step forward again using primarily the front leg
+  -   Keep the back foot off the ground when you stand up again if
+    possible
+  -   Do all reps on one leg first and then the other
 
 *  Day 2. Russian Step Ups
 
-    {{{youtube(jSnoZlYUttg)}}}
+  {{{youtube(jSnoZlYUttg)}}}
 
-
-    -   find a rhythm, be explosive, drive the knee up!
-    -   Use the foot on the bench to initiate and drive the movement. Don't
-      "bounce" off the foot landing on the ground.
+  -   find a rhythm, be explosive, drive the knee up!
+  -   Use the foot on the bench to initiate and drive the movement. Don't
+    "bounce" off the foot landing on the ground.

@@ -3,43 +3,40 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-pre-season-1.html
 
+Conditioning 1 should be preceded by the [[https://www.ultyresults.com/products/ultimate-athlete-project/categories/89306/posts/231475][Linear Warmup]].
 
-   Conditioning 1 should be preceded by the [[https://www.ultyresults.com/products/ultimate-athlete-project/categories/89306/posts/231475][Linear Warmup]].
-
-   Conditioning 2 should be preceded by the[[https://www.ultyresults.com/products/ultimate-athlete-project/categories/89306/posts/231481][Nonlinear Warmup]].
+Conditioning 2 should be preceded by the[[https://www.ultyresults.com/products/ultimate-athlete-project/categories/89306/posts/231481][Nonlinear Warmup]].
 
 *  Conditioning 1
 
-    This is a continuation of the preparation phase with a few shuttle runs
-    thrown in the mix. This workout can be done on an ultimate field doing
-    your 80% sprints the full length of the field plus endzones.
+  This is a continuation of the preparation phase with a few shuttle runs
+  thrown in the mix. This workout can be done on an ultimate field doing
+  your 80% sprints the full length of the field plus endzones.
 
-    The shuttle runs can be done across the field across and back twice is
-    one shuttle run. the shuttle runs should be done at top speed. This is
-    why the recovery between shuttle runs is longer.
+  The shuttle runs can be done across the field across and back twice is
+  one shuttle run. the shuttle runs should be done at top speed. This is
+  why the recovery between shuttle runs is longer.
 
 *  Conditioning 2
 
-    These exercises should be done as a circuit. *All exercises are done
-    for 30 seconds with 90 seconds rest.* First to skater hops, rest 90
-    seconds, shuffle, rest 90 seconds, short shuttle, etc until the
-    prescribed rest of each exercise are done.
+  These exercises should be done as a circuit. *All exercises are done
+  for 30 seconds with 90 seconds rest.* First to skater hops, rest 90
+  seconds, shuffle, rest 90 seconds, short shuttle, etc until the
+  prescribed rest of each exercise are done.
 
 * A1. Skater Hops
 
-     {{{youtube(sRYnYJNCYpU)}}}
+  {{{youtube(sRYnYJNCYpU)}}}
 
-
-     -   Should be at a challenging distance that you can maintain for 30
-       seconds.
+  -   Should be at a challenging distance that you can maintain for 30
+    seconds.
 
 * A2. Shuffle
 
-     {{{youtube(hS3efBLyb-w)}}}
+  {{{youtube(hS3efBLyb-w)}}}
 
-
-     -   about 10 yards
+  -   about 10 yards
 
 * A3. Short Shuttle
 
-     -   This can vary, but I do 5 yards, 10 yards
+  -   This can vary, but I do 5 yards, 10 yards

@@ -3,30 +3,26 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-off-season-5.html
 
-
 * A1. Same Side Quadrupled Stability
 
-     {{{youtube(AE9XbWnC2Ro)}}}
+  {{{youtube(AE9XbWnC2Ro)}}}
 
-
-     -   During limb extension, maintain a neutral spine without arching the
-       back
-     -   Maintain balance as you bring the elbow and knee together.
-     -   Attempt to keep the hips level and center of gravity stationary
+  -   During limb extension, maintain a neutral spine without arching the
+    back
+  -   Maintain balance as you bring the elbow and knee together.
+  -   Attempt to keep the hips level and center of gravity stationary
 
 * A2. Side Bridge
 
-     {{{youtube(iRLjvlwzYPI)}}}
+  {{{youtube(iRLjvlwzYPI)}}}
 
-
-     -   Contract your obliques to raise your hip from the floor to a side
-       plank position.
+  -   Contract your obliques to raise your hip from the floor to a side
+    plank position.
 
 * A3. Rowboat
 
-     {{{youtube(lS5pAo2bqFk)}}}
+  {{{youtube(lS5pAo2bqFk)}}}
 
-
-     -   Keep your chest up and shoulders retracted. This is not a crunch.
-     -   Move slowly with balance and control. The core should be under
-       tension for the duration of the movement.
+  -   Keep your chest up and shoulders retracted. This is not a crunch.
+  -   Move slowly with balance and control. The core should be under
+    tension for the duration of the movement.

@@ -3,32 +3,32 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-post-season.html
 
-   Post-season might leave you wtih some extra time on your hands now that practices are over. What a great opportunity to relax with a book! Post-season you might want to get your ming off of ultimate. Just like it's a good time for cross training, maybe you want to take this opportunity to read about athletes in other sports. Off-season you may want to learn more about the training principles behind The Ultimate Athlete Project, or maybe you want to work on some other aspect of your game. Below are a few book suggestions for all purposes.
+Post-season might leave you wtih some extra time on your hands now that practices are over. What a great opportunity to relax with a book! Post-season you might want to get your ming off of ultimate. Just like it's a good time for cross training, maybe you want to take this opportunity to read about athletes in other sports. Off-season you may want to learn more about the training principles behind The Ultimate Athlete Project, or maybe you want to work on some other aspect of your game. Below are a few book suggestions for all purposes.
 
 * Other Sports and Inspiration
-    [[https://www.amazon.com/As-Good-Gold-Countries-Olympics/dp/1933060530][Good As Gold]]. Learn about the lesser known Olympic Sports as one athlete tries to make it to the Olympic Games the "easy" way.
+  [[https://www.amazon.com/As-Good-Gold-Countries-Olympics/dp/1933060530][Good As Gold]]. Learn about the lesser known Olympic Sports as one athlete tries to make it to the Olympic Games the "easy" way.
 
-    [[https://www.amazon.com/Open-An-Autobiography-Andre-Agassi/dp/0307268195][Open]]. Andre Agasi's autobiography. Really good writing.
+  [[https://www.amazon.com/Open-An-Autobiography-Andre-Agassi/dp/0307268195][Open]]. Andre Agasi's autobiography. Really good writing.
 
 * Books That Will Ensure You Never Look at Your Stats the Same Way Again
-    [[https://www.amazon.com/Stumbling-On-Wins-Economists-Professional/dp/013235778X][Stumbling on Wins]]. This is not the most popular book about stats in sports, but it is the best.
+  [[https://www.amazon.com/Stumbling-On-Wins-Economists-Professional/dp/013235778X][Stumbling on Wins]]. This is not the most popular book about stats in sports, but it is the best.
 
-    [[https://www.amazon.com/The-Wages-Wins-Stanford-Business/dp/0804758441/ref=pd_sim_b_6][The Wages of Wins]]. One of the same authors as the book above. More in line with [[https://www.amazon.com/Moneyball-Art-Winning-Unfair-Game/dp/0393324818][Moneyball]] type topics.
+  [[https://www.amazon.com/The-Wages-Wins-Stanford-Business/dp/0804758441/ref=pd_sim_b_6][The Wages of Wins]]. One of the same authors as the book above. More in line with [[https://www.amazon.com/Moneyball-Art-Winning-Unfair-Game/dp/0393324818][Moneyball]] type topics.
 
 * My Favorite Books on Training
-    [[https://www.amazon.com/Athletic-Development-Science-Functional-Conditioning/dp/0736051007][Athletic Development: The Art and Science of Functional Sports Conditioning]]
+  [[https://www.amazon.com/Athletic-Development-Science-Functional-Conditioning/dp/0736051007][Athletic Development: The Art and Science of Functional Sports Conditioning]]
 
-    [[https://www.amazon.com/Functional-Training-Sports-Michael-Boyle/dp/073604681X][Functional Training for Sports]]
+  [[https://www.amazon.com/Functional-Training-Sports-Michael-Boyle/dp/073604681X][Functional Training for Sports]]
 
-    [[https://www.amazon.com/Optimizing-Strength-Training-Designing-Nonlinear/dp/0736060685][Optimizing Strength Training: Designing Nonlinear Periodization Workouts]]
+  [[https://www.amazon.com/Optimizing-Strength-Training-Designing-Nonlinear/dp/0736060685][Optimizing Strength Training: Designing Nonlinear Periodization Workouts]]
 
-    [[https://www.amazon.com/Moneyball-Art-Winning-Unfair-Game/dp/0393324818][Trigger Point Therapy for Myofascial Pain]]
+  [[https://www.amazon.com/Moneyball-Art-Winning-Unfair-Game/dp/0393324818][Trigger Point Therapy for Myofascial Pain]]
 
 * Working on Your Mental Game
-    [[https://www.amazon.com/10-Minute-Toughness-Training-Program-Winning/dp/0071600639][10 Minute Toughness]]
+  [[https://www.amazon.com/10-Minute-Toughness-Training-Program-Winning/dp/0071600639][10 Minute Toughness]]
 
-    [[https://www.amazon.com/Body-Mind-Mastery-Training-Sport/dp/1577310942][Body Mind Mastery]]
+  [[https://www.amazon.com/Body-Mind-Mastery-Training-Sport/dp/1577310942][Body Mind Mastery]]
 
-    [[https://www.amazon.com/The-Inner-Game-Tennis-Performance/dp/0679778314][The Inner Game of Tennis]]
+  [[https://www.amazon.com/The-Inner-Game-Tennis-Performance/dp/0679778314][The Inner Game of Tennis]]
 
-    This is a very short list. *Leave your suggestions in the comments below!* What books have changed your ultimate career for the better?
+  This is a very short list. *Leave your suggestions in the comments below!* What books have changed your ultimate career for the better?

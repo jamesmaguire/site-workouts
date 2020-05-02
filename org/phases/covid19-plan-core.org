@@ -3,31 +3,27 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: covid19-plan.html
 
-   | Week | Sets | Sequence                 | Rest | Rest between sets |
-   |------+------+--------------------------+------+-------------------|
-   |    1 |    3 | 8xA1 - 20sxA2 - 8xA3     | 0 s  | 30 s              |
-   |    2 |    3 | 10xA1 - 25sx2xA2 - 10xA3 | 0 s  | 30 s              |
-   |    3 |    3 | 12xA1 - 30sx2xA2 - 12xA3 | 0 s  | 30 s              |
-   |    4 |    3 | 14xA1 - 35sx2xA2 - 14xA3 | 0 s  | 30 s              |
+| Week | Sets | Sequence                 | Rest | Rest between sets |
+|------+------+--------------------------+------+-------------------|
+|    1 |    3 | 8xA1 - 20sxA2 - 8xA3     | 0 s  | 30 s              |
+|    2 |    3 | 10xA1 - 25sx2xA2 - 10xA3 | 0 s  | 30 s              |
+|    3 |    3 | 12xA1 - 30sx2xA2 - 12xA3 | 0 s  | 30 s              |
+|    4 |    3 | 14xA1 - 35sx2xA2 - 14xA3 | 0 s  | 30 s              |
 
 * A1. Inchworm
-    {{{youtube(yiTokXebhN8)}}}
+  {{{youtube(yiTokXebhN8)}}}
 
-
-    - 8 reps
-    - From full plank (handstand position) walk hands forward, hold 2s
-    - Walk back to under shoulders, hold 2s
+  - 8 reps
+  - From full plank (handstand position) walk hands forward, hold 2s
+  - Walk back to under shoulders, hold 2s
 * A2. Side plank
-    {{{youtube(Gmt6k75cJFM)}}}
+  {{{youtube(Gmt6k75cJFM)}}}
 
-
-    - 20s per side
-    - Shoulders hips ankles all in straight line
+  - 20s per side
+  - Shoulders hips ankles all in straight line
 * A3. Reverse crunch
-    {{{youtube(OimhvJ016L4)}}}
+  {{{youtube(OimhvJ016L4)}}}
 
-
-    - 8 reps
-    - On back, legs to sky (90deg at hips)
-    - Using lower abs, push/crunch legs upwards (back stays on ground)
-
+  - 8 reps
+  - On back, legs to sky (90deg at hips)
+  - Using lower abs, push/crunch legs upwards (back stays on ground)

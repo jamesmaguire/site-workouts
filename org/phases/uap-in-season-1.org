@@ -1,7 +1,6 @@
 #+TITLE: UAP In-season 1
 #+SETUPFILE: ../phase.setup
 
-
 - [[file:uap-in-season-1-lower.org][Lower]]
 - [[file:uap-in-season-1-upper.org][Upper]]
 - [[file:uap-in-season-1-saq-1-2.org][SAQ 1 & 2]]
@@ -10,12 +9,11 @@
 - [[file:uap-in-season-1-core-2.org][Core 2]]
 
 * Schedule & Workout Logs
-   [[file:../../docs/uap-pdfs/inseason1.pdf][Workout log (pdf)]]
+  [[file:../../docs/uap-pdfs/inseason1.pdf][Workout log (pdf)]]
 
-   This schedule assumes weekend practices or tournaments.
+  This schedule assumes weekend practices or tournaments.
 
-   On active rest days, do something! Go through one of the warmups if you
-   don't know what to do.
+  On active rest days, do something! Go through one of the warmups if you
+  don't know what to do.
 
-   [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/In-Season_1.png]]
-
+  [[https://s3.amazonaws.com/ultimate-athlete-project/Schedule+Screenshots/In-Season_1.png]]

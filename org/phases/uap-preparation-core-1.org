@@ -3,31 +3,28 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-preparation.html
 
-   A core circuit will take 10-12 minutes. The core circuits can be done 2-3 times a week alternating between the two circuits (Core 1 & [[https://www.ultyresults.com/products/uap/categories/69150/posts/324352][Core 2]]). Alternatively, they can be done before or after playing or conditioning of after an SAQ session.
+A core circuit will take 10-12 minutes. The core circuits can be done 2-3 times a week alternating between the two circuits (Core 1 & [[https://www.ultyresults.com/products/uap/categories/69150/posts/324352][Core 2]]). Alternatively, they can be done before or after playing or conditioning of after an SAQ session.
 
-   Perform the circuit 3 times through with norest or minimal rest between exercises and sets.
+Perform the circuit 3 times through with norest or minimal rest between exercises and sets.
 * Plank (25 seconds. Add 5 seconds each week)
-    {{{youtube(mqOPjpN-1go)}}}
+  {{{youtube(mqOPjpN-1go)}}}
 
-
-    - Shoulders hips and ankles should form a straight line.
-    - Shoulders should be more retracted than rounded.
+  - Shoulders hips and ankles should form a straight line.
+  - Shoulders should be more retracted than rounded.
 
 * Oblique Bridge (8-10 each side. Add 2 reps each week)
-    {{{youtube(n4SvbcbG5tg)}}}
+  {{{youtube(n4SvbcbG5tg)}}}
 
-
-    - Contract your obliques to raise your hip from the floor to a side plank position.
+  - Contract your obliques to raise your hip from the floor to a side plank position.
 
 * Cook Hip Lift (6-8 reps. Add 2 reps each week)
-    {{{youtube(q0fX-i03fYE)}}}
+  {{{youtube(q0fX-i03fYE)}}}
 
-
-    - Start with knees bent, both feet on the floor.
-    - Pull one leg in tightly toward the chest.
-    - Push through the heel of the foot on the ground and squeeze your glute to lift your hip off the ground.
-    - You may not be able to get far off the ground when you first start doing these. This is normal.
-    - Hip, knee, and ankle should be aligned.
+  - Start with knees bent, both feet on the floor.
+  - Pull one leg in tightly toward the chest.
+  - Push through the heel of the foot on the ground and squeeze your glute to lift your hip off the ground.
+  - You may not be able to get far off the ground when you first start doing these. This is normal.
+  - Hip, knee, and ankle should be aligned.
 
 * Congrats on completing a preparation phase workout!
-    [[https://www.ultyresults.com/p/uap-high-fives][Get your virtual High Five here!]]
+  [[https://www.ultyresults.com/p/uap-high-fives][Get your virtual High Five here!]]

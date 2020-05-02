@@ -4,10 +4,10 @@
 #+HTML_LINK_UP: uap-in-season-1-alt.html
 
 * Conditioning 1: 80/20 full session
-    - Run at about 80% of your full sprint speed for 20 seconds. Walking rest for 40 seconds. This is one rep.
-    - Pick up where you left off in Off-season Phase 5. Or choose somewhere between 10-16 reps as your starting point. Don't kill yourself on these. This is supposed to be an easier workout and you should not be sore the next day.
-    - Add 2 reps each week.
+  - Run at about 80% of your full sprint speed for 20 seconds. Walking rest for 40 seconds. This is one rep.
+  - Pick up where you left off in Off-season Phase 5. Or choose somewhere between 10-16 reps as your starting point. Don't kill yourself on these. This is supposed to be an easier workout and you should not be sore the next day.
+  - Add 2 reps each week.
 
 * Conditioning 2: 80/20 light session
-    - Run at about 80% of your full sprint speed for 20 seconds. Walking rest for 40 seconds. This is one rep.
-    - Do half the number of reps you did on conditioning day 1. The purpose of this workout is to get moving but not to do anything that will leave your legs feeling tired the next day.
+  - Run at about 80% of your full sprint speed for 20 seconds. Walking rest for 40 seconds. This is one rep.
+  - Do half the number of reps you did on conditioning day 1. The purpose of this workout is to get moving but not to do anything that will leave your legs feeling tired the next day.
