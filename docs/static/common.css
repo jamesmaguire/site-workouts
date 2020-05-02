@@ -59,6 +59,7 @@ img {
     margin: auto;
     margin-top: 10px;
     width: 70%;
+    border-radius: 3px;
 }
 
 table, td, th {
