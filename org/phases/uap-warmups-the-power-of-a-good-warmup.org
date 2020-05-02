@@ -5,62 +5,62 @@
 
 The UAP has such strong programming...it would be a shame to not get all the benefits you can from following it! I'm a strong believer in the power of a short warm up specific to the movement you're going to be doing - you want great range of motion, less stress on your joints and the right musculature working during your session. Rolling on a foam roller for a couple minutes and then jumping into training is not your best bet - here's a breakdown of what I consider to be the best bang-for-your-buck warm up movements for some of the different program days! :)
 
-First of all, I can't recommend [[{{{youtubelink(2S3Y1PSrVJU)}}}][lacrosse balls]] enough...you don't need to hit every point in your body, but spend a couple minutes targeting the places you're tight, in addition to musculature you're going to be using that day. Do this before doing mobility/activation work! If you're naturally mobile in a certain area (ankles, hips) you can totally skip those mobility exercises and shorten your warm up.
+First of all, I can't recommend {{{youtubelink(2S3Y1PSrVJU, lacrosse balls)}}} enough...you don't need to hit every point in your body, but spend a couple minutes targeting the places you're tight, in addition to musculature you're going to be using that day. Do this before doing mobility/activation work! If you're naturally mobile in a certain area (ankles, hips) you can totally skip those mobility exercises and shorten your warm up.
 
 * Upper
 ** Mobility: shoulders, mid-back
-   - [[{{{youtubelink(tl9TBVxWS6A)}}}][Band Pull]]
-   - [[{{{youtubelink(LyWVNOfEnCc)}}}][Mid-Back Mobility]]
+   - {{{youtubelink(tl9TBVxWS6A, Band Pull)}}}
+   - {{{youtubelink(LyWVNOfEnCc, Mid-Back Mobility)}}}
 
 ** Activation: core
-   - [[{{{youtubelink(z_Edc-R8EVU)}}}][Crawling]]
+   - {{{youtubelink(z_Edc-R8EVU, Crawling)}}}
 
 * SAQ
 ** Mobility: hips, ankles
-   - [[{{{youtubelink(LRLAqL6blT0)}}}][Frog Stretch]] (hips)
-   - [[{{{youtubelink(Bqt_R2HX6KQ)}}}][Ankle Mobility]]
+   - {{{youtubelink(LRLAqL6blT0, Frog Stretch)}}} (hips)
+   - {{{youtubelink(Bqt_R2HX6KQ, Ankle Mobility)}}}
 
 ** Activation: glutes, core
-   - [[{{{youtubelink(wdbl1tmmm4E)}}}][Circle Band]] (glutes)
-   - [[{{{youtubelink(z_Edc-R8EVU)}}}][Crawling]] (core)
+   - {{{youtubelink(wdbl1tmmm4E, Circle Band)}}} (glutes)
+   - {{{youtubelink(z_Edc-R8EVU, Crawling)}}} (core)
 
 * Lower
 ** Mobility: hips, ankles, shoulders
-   - [[{{{youtubelink(LRLAqL6blT0)}}}][Frog Stretch]] (hips)
-   - [[{{{youtubelink(Bqt_R2HX6KQ)}}}][Ankle Mobility]]
-   - [[{{{youtubelink(tl9TBVxWS6A)}}}][Band Pull]]
+   - {{{youtubelink(LRLAqL6blT0, Frog Stretch)}}} (hips)
+   - {{{youtubelink(Bqt_R2HX6KQ, Ankle Mobility)}}}
+   - {{{youtubelink(tl9TBVxWS6A, Band Pull)}}}
 
 ** Activation: glutes, core
-   - [[{{{youtubelink(OszMdC2rPf8)}}}][Running Man]] (glutes)
-   - [[{{{youtubelink(z_Edc-R8EVU)}}}][Crawling]] (core)
+   - {{{youtubelink(OszMdC2rPf8, Running Man)}}} (glutes)
+   - {{{youtubelink(z_Edc-R8EVU, Crawling)}}} (core)
 
 * Core
 ** Mobility: mid-back, shoulders, hips
-   - [[{{{youtubelink(LyWVNOfEnCc)}}}][Mid-Back Mobility]]
-   - [[{{{youtubelink(tl9TBVxWS6A)}}}][Band Pull]]
-   - [[{{{youtubelink(LRLAqL6blT0)}}}][Frog Stretch]] (hips)
+   - {{{youtubelink(LyWVNOfEnCc, Mid-Back Mobility)}}}
+   - {{{youtubelink(tl9TBVxWS6A, Band Pull)}}}
+   - {{{youtubelink(LRLAqL6blT0, Frog Stretch)}}} (hips)
 
 ** Activation: core
-   - [[{{{youtubelink(z_Edc-R8EVU)}}}][Crawling]]
+   - {{{youtubelink(z_Edc-R8EVU, Crawling)}}}
 
 * Full Body
 ** Mobility: hips, mid-back
-   - [[{{{youtubelink(LRLAqL6blT0)}}}][Frog Stretch]] (hips)
-   - [[{{{youtubelink(LyWVNOfEnCc)}}}][Mid-Back Mobility]]
+   - {{{youtubelink(LRLAqL6blT0, Frog Stretch)}}} (hips)
+   - {{{youtubelink(LyWVNOfEnCc, Mid-Back Mobility)}}}
 
 ** Activation: glutes, core
-   - [[{{{youtubelink(OszMdC2rPf8)}}}][Running Man]] (glute activation)
-   - [[{{{youtubelink(z_Edc-R8EVU)}}}][Crawling]] (core)
+   - {{{youtubelink(OszMdC2rPf8, Running Man)}}} (glute activation)
+   - {{{youtubelink(z_Edc-R8EVU, Crawling)}}} (core)
 
 * Conditioning
 ** Mobility: hips, ankle, shoulders
-   - [[{{{youtubelink(LRLAqL6blT0)}}}][Frog Stretch]] (hips)
-   - [[{{{youtubelink(Bqt_R2HX6KQ)}}}][Ankle Mobility]]
-   - [[{{{youtubelink(tl9TBVxWS6A)}}}][Band Pull]]
+   - {{{youtubelink(LRLAqL6blT0, Frog Stretch)}}} (hips)
+   - {{{youtubelink(Bqt_R2HX6KQ, Ankle Mobility)}}}
+   - {{{youtubelink(tl9TBVxWS6A, Band Pull)}}}
 
 ** Activation: glutes, core
-   - [[{{{youtubelink(wdbl1tmmm4E)}}}][Circle Band]] (glutes)
-   - [[{{{youtubelink(z_Edc-R8EVU)}}}][Crawling]] (core)
+   - {{{youtubelink(wdbl1tmmm4E, Circle Band)}}} (glutes)
+   - {{{youtubelink(z_Edc-R8EVU, Crawling)}}} (core)
 
 * Note
   Just a few minutes at the beginning of your time at the gym/on the field can make all the difference - add a thoughtful warm up to the thoughtful programming and you're WINNING. :)

@@ -23,7 +23,7 @@ and help reduce injury risk.
 
 *  Warm Up
 
-  -   [[{{{youtubelink(T_MdN-i7VqA)}}}][Inchworms]]
+  -   {{{youtubelink(T_MdN-i7VqA?rel=0, Inchworms)}}}
   -   Mid-Back Sweeps
     -   Face down, forehead on hands - inhale deeply, exhale fully and
       right at the end, lift just your upper chest off the floor. Move
@@ -33,9 +33,9 @@ and help reduce injury risk.
 
 *  The Workout
 
-  -   3 x 4 [[{{{youtubelink(VNNfgktuzlQ)}}}][DB High Pull]]
-  -   3 x 4 [[{{{youtubelink(VNNfgktuzlQ)}}}][DB Snatch]]
-  -   45 seconds of [[{{{youtubelink(z_Edc-R8EVU)}}}][Crawling Patterns]] in between
+  -   3 x 4 {{{youtubelink(VNNfgktuzlQ, DB High Pull)}}}
+  -   3 x 4 {{{youtubelink(VNNfgktuzlQ, DB Snatch)}}}
+  -   45 seconds of {{{youtubelink(z_Edc-R8EVU, Crawling Patterns)}}} in between
     sets of 8
   -   2 x 1 minute each side, alternate exercises
   -   [[https://www.instagram.com/p/9m-9jrFRN6/?taken-by=rencaldwell][Landmine Press]]
@@ -43,8 +43,8 @@ and help reduce injury risk.
     extension - if you feel comfortable, take your arm overhead,
     alternating arms, and if that feels good, add a hop at the top)
   -   2 x 45 seconds each side, alternate exercises
-  -   [[{{{youtubelink(sNA1zOkBdcA)}}}][Bench Hip Extensions]]
-  -   [[{{{youtubelink(SDNjdE2RcYE)}}}][Plank Pull]]
+  -   {{{youtubelink(sNA1zOkBdcA, Bench Hip Extensions)}}}
+  -   {{{youtubelink(SDNjdE2RcYE, Plank Pull)}}}
 
 *  Practical
 

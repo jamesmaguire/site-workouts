@@ -10,5 +10,5 @@
 
 # Video links
 #+macro: youtube  https://img.youtube.com/vi/$1/mqdefault.jpg [[https://www.youtube.com/embed/$1?rel=0][Watch video]]
-#+macro: youtubelink https://www.youtube.com/embed/$1?rel=0
+#+macro: youtubelink [[https://www.youtube.com/embed/$1?rel=0][$2]]
 #+macro: wistialink [[https://fast.wistia.net/embed/iframe/$1][Watch video]]
