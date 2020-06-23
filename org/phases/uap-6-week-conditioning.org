@@ -3,7 +3,7 @@
 #+SETUPFILE: ../workout.setup
 #+HTML_LINK_UP: uap-6-week.html
 
-For the quantities of sets, reps, and timing of each exercise please see the [[../../docs/uap-pdfs/6week.pdf][PDF]] Exercises below are listed in the order they appear in the program.
+For the quantities of sets, reps, and timing of each exercise please see the [[../../uap-pdfs/6week.pdf][PDF]] Exercises below are listed in the order they appear in the program.
 
 * 1. The 80/20 workout
   {{{youtube(cZA1U6-Etb4)}}}

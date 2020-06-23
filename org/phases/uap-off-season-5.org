@@ -11,7 +11,7 @@
 - [[file:uap-off-season-5-conditioning-1-2.org][Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-  [[file:../../docs/uap-pdfs/offseason5.pdf][Workout log (pdf)]]
+  [[file:../../uap-pdfs/offseason5.pdf][Workout log (pdf)]]
 
   This is the last phase in which we focus on Strength, and we'll add a
   bit of an emphasis on strength endurance. Because of this, you won't

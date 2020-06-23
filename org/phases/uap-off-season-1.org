@@ -12,7 +12,7 @@
 - [[file:uap-off-season-1-indoor-conditioning-1-2.org][Indoor Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-  [[file:../../docs/uap-pdfs/offseason1.pdf][Workout log (pdf)]]
+  [[file:../../uap-pdfs/offseason1.pdf][Workout log (pdf)]]
 
   The main goal of this phase is to focus on building strength in the weight room. The lifting sessions are your priority this phase. We are going to load more weight on movements similar to what you practiced in the prep phase. If you need to leave something out this phase, skip the conditioning.
 
