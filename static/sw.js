@@ -2,13 +2,13 @@ self.addEventListener('install', function(e) {
  e.waitUntil(
    caches.open('video-store').then(function(cache) {
      return cache.addAll([
-       '/www-workouts/',
-       '/www-workouts/index.html',
-       '/www-workouts/static/common.css',
-       '/www-workouts/static/index.css',
-       '/www-workouts/static/recipe.css',
-       '/www-workouts/static/search.js',
-       '/www-workouts/static/pwa.js',
+       '/',
+       '/index.html',
+       '/static/common.css',
+       '/static/index.css',
+       '/static/recipe.css',
+       '/static/search.js',
+       '/static/pwa.js',
      ]);
    })
  );
