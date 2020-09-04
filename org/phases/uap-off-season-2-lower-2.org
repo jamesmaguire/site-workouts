@@ -4,25 +4,34 @@
 #+HTML_LINK_UP: uap-off-season-2.html
 
 * A1. High Pull from Hang
-  - Shoulders over bar
-  - Hips back (like in a Romanian deadlift)
-  - Triple extension of ankles knees hips
-  - Keep elbows high to avoid having the bar hit you in the face
+
+{{{youtube(GO6mKZJtVwQ)}}}
+
+- Shoulders over bar
+- Hips back (like in a Romanian deadlift)
+- Triple extension of ankles knees hips
+- Keep elbows high to avoid having the bar hit you in the face
 
 * A2. Reactive Squat
-  - Keep the weight light on these also
-  - From the squat stance, think about pulling your knees up as your feet come off the ground. Catch yourself in a full squat position and explode upward.
-  - Maintain a neutral spine and keep the bar in contact with your body
+- Keep the weight light on these also
+- From the squat stance, think about pulling your knees up as your feet come off the ground. Catch yourself in a full squat position and explode upward.
+- Maintain a neutral spine and keep the bar in contact with your body
 
 * B1. 1 & 1/4 RFESS
-  - Get front thigh to parallel
-  - Quarter rep is at the bottom
-  - Keep shoulders back, chest tall
+
+{{{youtube(YJkfv07vEEg)}}}
+
+- Get front thigh to parallel
+- Quarter rep is at the bottom
+- Keep shoulders back, chest tall
 
 * B2. Hip Thrusts
-  - Weight rests approximately on hip flexors
-  - Place a sweatshirt or folded up yoga mat between your hips and the weight for added comfort.
-  - Heels should be directly under the knees at the top position.
-  - Focus on squeezing your glutes. Keep back straight, not arched.
 
-    End This Workout with [[https://www.ultyresults.com/products/ultimate-athlete-project/categories/68824/posts/320837][Core Circuit 2]]
+{{{youtube(tWd5ikvnaPc)}}}
+
+- Weight rests approximately on hip flexors
+- Place a sweatshirt or folded up yoga mat between your hips and the weight for added comfort.
+- Heels should be directly under the knees at the top position.
+- Focus on squeezing your glutes. Keep back straight, not arched.
+
+  End This Workout with [[https://www.ultyresults.com/products/ultimate-athlete-project/categories/68824/posts/320837][Core Circuit 2]]
