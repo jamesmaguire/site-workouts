@@ -1,13 +1,14 @@
 {
   "theme_color": "#024d75",
-  "background_color": "#024d75",
+  "background_color": "#195075",
   "description": "Ultimate workout plans and programs",
   "display": "standalone",
   "icons": [
     {
-      "src": "icon512.png",
+      "src": "appicon.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ],
   "name": "Workouts",
