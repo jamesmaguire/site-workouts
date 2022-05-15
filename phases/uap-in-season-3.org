@@ -9,7 +9,7 @@
 - [[file:uap-in-season-3-conditioning-1-2.org][Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-  [[file:../../uap-pdfs/inseason3.pdf][Workout log (pdf)]]
+  [[file:../uap-pdfs/inseason3.pdf][Workout log (pdf)]]
 
   -   In this phase we are assuming that you are doing more ultimate
     specific training. Athletic training time decreases while ultimate

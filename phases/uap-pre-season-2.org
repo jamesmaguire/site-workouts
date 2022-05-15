@@ -11,7 +11,7 @@
 - [[file:uap-pre-season-2-beach-conditioning-1-2.org][Beach Conditioning 1 & 2]]
 
 * Schedule & Workout Logs
-  [[file:../../uap-pdfs/preseason2.pdf][Workout log (pdf)]]
+  [[file:../uap-pdfs/preseason2.pdf][Workout log (pdf)]]
 
   This is the second phase of preseason work. The main goals are strength
   and power endurance. We are going to accomplish these goals primarily
